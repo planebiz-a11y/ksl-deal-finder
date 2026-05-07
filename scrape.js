@@ -18,16 +18,16 @@ function buildQueries(params) {
     if (!label) continue;
     let q = `${label}`;
     if (keyword) q += ` ${keyword}`;
+    if (yearMin || yearMax) {
+      if (yearMin && yearMax) q += ` ${yearMin}-${yearMax}`;
+      else if (yearMin) q += ` ${yearMin}`;
+    }
     if (priceMin || priceMax) {
       if (priceMin && priceMax) q += ` $${priceMin}-$${priceMax}`;
       else if (priceMin) q += ` over $${priceMin}`;
       else if (priceMax) q += ` under $${priceMax}`;
     }
-    if (yearMin || yearMax) {
-      if (yearMin && yearMax) q += ` ${yearMin}-${yearMax}`;
-      else if (yearMin) q += ` ${yearMin}`;
-    }
-    q += ' for sale site:ksl.com';
+    q += ' for sale -rent -rental -lease site:ksl.com';
     queries.push({ query: q, type, hasHours: type !== 'trailer' });
   }
   return queries;
@@ -66,7 +66,13 @@ async function fetchListings(searchObj) {
     id: r.link, type, title: r.title, url: r.link, snippet: r.snippet, source: 'ksl',
     ...parseSnippet(r.snippet || '', r.title || '', type),
     scrapedAt: new Date().toISOString(),
-  })).filter(r => r.url && r.url.includes('ksl.com'));
+  })).filter(r => {
+    if (!r.url || !r.url.includes('ksl.com')) return false;
+    const text = `${r.title} ${r.snippet}`.toLowerCase();
+    if (text.includes('for rent') || text.includes('rental') || text.includes('/day') || text.includes('per day')) return false;
+    if (r.title && (r.title.toLowerCase().includes('new and used listings') || r.title.toLowerCase().includes('new & used') && !r.snippet.includes('$'))) return false;
+    return true;
+  });
 }
 
 async function getExistingFile() {
