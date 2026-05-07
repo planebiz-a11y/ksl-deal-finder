@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Iron Hunter — Equipment Deal Finder</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #0d0d0d;
+      --surface: #161616;
+      --surface2: #1f1f1f;
+      --border: #2a2a2a;
+      --gold: #c8a84b;
+      --gold-dim: #8a7030;
+      --red: #d94f3d;
+      --green: #3daa6e;
+      --text: #e8e4dc;
+      --text-dim: #888880;
+      --accent: #e05c2a;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'IBM Plex Sans', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* HEADER */
+    header {
+      border-bottom: 1px solid var(--border);
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 64px;
+      position: sticky;
+      top: 0;
+      background: var(--bg);
+      z-index: 100;
+    }
+
+    .logo {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 2rem;
+      letter-spacing: 0.08em;
+      color: var(--gold);
+    }
+
+    .logo span { color: var(--accent); }
+
+    .header-meta {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.7rem;
+      color: var(--text-dim);
+      text-align: right;
+      line-height: 1.6;
+    }
+
+    .status-dot {
+      display: inline-block;
+      width: 6px; height: 6px;
+      border-radius: 50%;
+      background: var(--green);
+      margin-right: 4px;
+      animation: pulse 2s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    /* LAYOUT */
+    .container {
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      min-height: calc(100vh - 64px);
+    }
+
+    /* SIDEBAR */
+    aside {
+      border-right: 1px solid var(--border);
+      padding: 1.5rem;
+      display: flex;
+      flex-direction: column;
+      gap: 1.5rem;
+      background: var(--surface);
+    }
+
+    .filter-section h3 {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.65rem;
+      letter-spacing: 0.15em;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .filter-group {
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+
+    label {
+      font-size: 0.8rem;
+      color: var(--text-dim);
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    input, select {
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      color: var(--text);
+      padding: 0.5rem 0.75rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.8rem;
+      border-radius: 2px;
+      width: 100%;
+      transition: border-color 0.2s;
+    }
+
+    input:focus, select:focus {
+      outline: none;
+      border-color: var(--gold-dim);
+    }
+
+    .price-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.5rem;
+    }
+
+    .type-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+    }
+
+    .pill {
+      padding: 0.3rem 0.75rem;
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      font-size: 0.72rem;
+      font-family: 'IBM Plex Mono', monospace;
+      cursor: pointer;
+      transition: all 0.15s;
+      color: var(--text-dim);
+      background: transparent;
+    }
+
+    .pill.active {
+      background: var(--gold);
+      border-color: var(--gold);
+      color: #0d0d0d;
+      font-weight: 600;
+    }
+
+    .btn-scrape {
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      padding: 0.65rem 1rem;
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.1rem;
+      letter-spacing: 0.1em;
+      cursor: pointer;
+      border-radius: 2px;
+      width: 100%;
+      transition: background 0.2s;
+    }
+
+    .btn-scrape:hover { background: #c44d20; }
+    .btn-scrape:disabled { background: var(--border); color: var(--text-dim); cursor: not-allowed; }
+
+    /* MAIN */
+    main {
+      padding: 1.5rem;
+      overflow-y: auto;
+    }
+
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1.25rem;
+    }
+
+    .result-count {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+    }
+
+    .result-count strong { color: var(--gold); }
+
+    .sort-select {
+      width: auto;
+      padding: 0.4rem 0.6rem;
+    }
+
+    /* LISTINGS GRID */
+    .listings-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 1rem;
+    }
+
+    .listing-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      padding: 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+      transition: border-color 0.2s, transform 0.15s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .listing-card::before {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 2px;
+      background: var(--border);
+      transition: background 0.2s;
+    }
+
+    .listing-card:hover {
+      border-color: var(--gold-dim);
+      transform: translateY(-1px);
+    }
+
+    .listing-card:hover::before {
+      background: var(--gold);
+    }
+
+    .card-type {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.6rem;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      color: var(--accent);
+    }
+
+    .card-title {
+      font-size: 0.95rem;
+      font-weight: 600;
+      line-height: 1.4;
+      color: var(--text);
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .meta-chip {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.68rem;
+      padding: 0.2rem 0.5rem;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-radius: 2px;
+      color: var(--text-dim);
+    }
+
+    .meta-chip.year { color: var(--text); border-color: #333; }
+    .meta-chip.make { color: var(--gold); border-color: var(--gold-dim); }
+    .meta-chip.hours { color: #7fb3d3; border-color: #3a5f70; }
+
+    .card-price {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.8rem;
+      letter-spacing: 0.05em;
+      color: var(--gold);
+      line-height: 1;
+    }
+
+    .card-price.no-price {
+      font-size: 1rem;
+      color: var(--text-dim);
+      font-family: 'IBM Plex Mono', monospace;
+    }
+
+    .card-snippet {
+      font-size: 0.78rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: auto;
+      padding-top: 0.75rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .card-date {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.65rem;
+      color: var(--text-dim);
+    }
+
+    .card-link {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.72rem;
+      color: var(--accent);
+      text-decoration: none;
+      letter-spacing: 0.05em;
+      transition: color 0.15s;
+    }
+
+    .card-link:hover { color: var(--gold); }
+
+    /* EMPTY STATE */
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--text-dim);
+    }
+
+    .empty-state .big-icon {
+      font-size: 3rem;
+      margin-bottom: 1rem;
+      opacity: 0.3;
+    }
+
+    .empty-state h2 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.5rem;
+      letter-spacing: 0.1em;
+      color: var(--text-dim);
+      margin-bottom: 0.5rem;
+    }
+
+    .empty-state p {
+      font-size: 0.85rem;
+      max-width: 300px;
+      margin: 0 auto;
+    }
+
+    /* TOAST */
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--surface2);
+      border: 1px solid var(--border);
+      border-left: 3px solid var(--green);
+      padding: 0.75rem 1.25rem;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 0.78rem;
+      border-radius: 2px;
+      transform: translateY(100px);
+      opacity: 0;
+      transition: all 0.3s;
+      z-index: 200;
+    }
+
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    .toast.error { border-left-color: var(--red); }
+
+    @media (max-width: 768px) {
+      .container { grid-template-columns: 1fr; }
+      aside { border-right: none; border-bottom: 1px solid var(--border); }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Iron<span>Hunter</span></div>
+  <div class="header-meta">
+    <div><span class="status-dot"></span>KSL Classifieds Monitor</div>
+    <div id="last-run">Last run: —</div>
+  </div>
+</header>
+
+<div class="container">
+  <aside>
+    <div class="filter-section">
+      <h3>Equipment Type</h3>
+      <div class="type-pills">
+        <button class="pill active" data-type="all">All</button>
+        <button class="pill" data-type="skid_steer">Skid Steer</button>
+        <button class="pill" data-type="mini_excavator">Mini Excavator</button>
+        <button class="pill" data-type="trailer">Trailer</button>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <h3>Price Range</h3>
+      <div class="filter-group">
+        <div class="price-row">
+          <div>
+            <label>Min $</label>
+            <input type="number" id="price-min" placeholder="0" min="0" />
+          </div>
+          <div>
+            <label>Max $</label>
+            <input type="number" id="price-max" placeholder="Any" min="0" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <h3>Year Range</h3>
+      <div class="filter-group">
+        <div class="price-row">
+          <div>
+            <label>From</label>
+            <input type="number" id="year-min" placeholder="1990" min="1980" max="2026" />
+          </div>
+          <div>
+            <label>To</label>
+            <input type="number" id="year-max" placeholder="2026" min="1980" max="2026" />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <h3>Hours (Max)</h3>
+      <div class="filter-group">
+        <input type="number" id="hours-max" placeholder="Any hours" min="0" />
+      </div>
+    </div>
+
+    <div class="filter-section">
+      <h3>Make / Keyword</h3>
+      <div class="filter-group">
+        <input type="text" id="keyword" placeholder="Bobcat, CAT, Kubota..." />
+      </div>
+    </div>
+
+    <button class="btn-scrape" id="btn-scrape" onclick="runScrape()">
+      ⚡ Run Scrape Now
+    </button>
+  </aside>
+
+  <main>
+    <div class="toolbar">
+      <div class="result-count" id="result-count">Loading listings...</div>
+      <select class="sort-select" id="sort-select" onchange="render()">
+        <option value="price-asc">Price: Low → High</option>
+        <option value="price-desc">Price: High → Low</option>
+        <option value="date-desc">Newest First</option>
+        <option value="hours-asc">Hours: Low → High</option>
+      </select>
+    </div>
+
+    <div class="listings-grid" id="listings-grid"></div>
+  </main>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+  let allListings = [];
+  let activeType = 'all';
+
+  // --- Load listings from JSON ---
+  async function loadListings() {
+    try {
+      const res = await fetch('/listings.json?t=' + Date.now());
+      allListings = await res.json();
+      const lastRun = allListings.length > 0
+        ? allListings[0].scrapedAt
+        : null;
+      document.getElementById('last-run').textContent =
+        'Last run: ' + (lastRun ? new Date(lastRun).toLocaleString() : '—');
+      render();
+    } catch (e) {
+      showToast('Failed to load listings', true);
+    }
+  }
+
+  // --- Filter & sort ---
+  function getFiltered() {
+    const priceMin = parseInt(document.getElementById('price-min').value) || 0;
+    const priceMax = parseInt(document.getElementById('price-max').value) || Infinity;
+    const yearMin = parseInt(document.getElementById('year-min').value) || 0;
+    const yearMax = parseInt(document.getElementById('year-max').value) || 9999;
+    const hoursMax = parseInt(document.getElementById('hours-max').value) || Infinity;
+    const keyword = document.getElementById('keyword').value.toLowerCase().trim();
+    const sort = document.getElementById('sort-select').value;
+
+    let filtered = allListings.filter(l => {
+      if (activeType !== 'all' && l.type !== activeType) return false;
+      if (l.price !== null && (l.price < priceMin || l.price > priceMax)) return false;
+      if (l.year !== null && (parseInt(l.year) < yearMin || parseInt(l.year) > yearMax)) return false;
+      if (l.hours !== null && l.hours > hoursMax) return false;
+      if (keyword) {
+        const text = `${l.title} ${l.snippet} ${l.make || ''} ${l.model || ''}`.toLowerCase();
+        if (!text.includes(keyword)) return false;
+      }
+      return true;
+    });
+
+    filtered.sort((a, b) => {
+      if (sort === 'price-asc') return (a.price ?? Infinity) - (b.price ?? Infinity);
+      if (sort === 'price-desc') return (b.price ?? -1) - (a.price ?? -1);
+      if (sort === 'date-desc') return new Date(b.scrapedAt) - new Date(a.scrapedAt);
+      if (sort === 'hours-asc') return (a.hours ?? Infinity) - (b.hours ?? Infinity);
+      return 0;
+    });
+
+    return filtered;
+  }
+
+  // --- Render cards ---
+  function render() {
+    const filtered = getFiltered();
+    const grid = document.getElementById('listings-grid');
+    const countEl = document.getElementById('result-count');
+
+    countEl.innerHTML = `<strong>${filtered.length}</strong> listings found`;
+
+    if (filtered.length === 0) {
+      grid.innerHTML = `
+        <div class="empty-state">
+          <div class="big-icon">🔍</div>
+          <h2>No Deals Found</h2>
+          <p>Adjust your filters or run a scrape to fetch fresh listings from KSL.</p>
+        </div>`;
+      return;
+    }
+
+    grid.innerHTML = filtered.map(l => {
+      const typeLabel = {
+        skid_steer: 'Skid Steer',
+        mini_excavator: 'Mini Excavator',
+        trailer: 'Trailer'
+      }[l.type] || l.type;
+
+      const priceHTML = l.price
+        ? `<div class="card-price">$${l.price.toLocaleString()}</div>`
+        : `<div class="card-price no-price">Price not listed</div>`;
+
+      const chips = [
+        l.year ? `<span class="meta-chip year">${l.year}</span>` : '',
+        l.make ? `<span class="meta-chip make">${l.make}</span>` : '',
+        l.model ? `<span class="meta-chip">${l.model}</span>` : '',
+        (l.hours !== null && l.type !== 'trailer') ? `<span class="meta-chip hours">${l.hours.toLocaleString()} hrs</span>` : '',
+      ].filter(Boolean).join('');
+
+      const date = l.scrapedAt
+        ? new Date(l.scrapedAt).toLocaleDateString()
+        : '';
+
+      return `
+        <div class="listing-card">
+          <div class="card-type">${typeLabel}</div>
+          <div class="card-title">${escHtml(l.title)}</div>
+          ${chips ? `<div class="card-meta">${chips}</div>` : ''}
+          ${priceHTML}
+          <div class="card-snippet">${escHtml(l.snippet || '')}</div>
+          <div class="card-footer">
+            <span class="card-date">Scraped ${date}</span>
+            <a class="card-link" href="${escHtml(l.url)}" target="_blank" rel="noopener">View Listing →</a>
+          </div>
+        </div>`;
+    }).join('');
+  }
+
+  function escHtml(str) {
+    return String(str)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  // --- Type pills ---
+  document.querySelectorAll('.pill').forEach(pill => {
+    pill.addEventListener('click', () => {
+      document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      activeType = pill.dataset.type;
+      render();
+    });
+  });
+
+  // --- Filter inputs ---
+  ['price-min','price-max','year-min','year-max','hours-max','keyword'].forEach(id => {
+    document.getElementById(id).addEventListener('input', render);
+  });
+
+  // --- Manual scrape trigger ---
+  async function runScrape() {
+    const btn = document.getElementById('btn-scrape');
+    btn.disabled = true;
+    btn.textContent = 'Scraping...';
+    try {
+      const res = await fetch('/api/scrape', { method: 'GET' });
+      const data = await res.json();
+      if (data.success) {
+        showToast(`✓ Fetched ${data.fetched} listings (${data.total} total)`);
+        await loadListings();
+      } else {
+        showToast('Scrape failed: ' + (data.error || 'Unknown error'), true);
+      }
+    } catch (e) {
+      showToast('Scrape request failed', true);
+    }
+    btn.disabled = false;
+    btn.textContent = '⚡ Run Scrape Now';
+  }
+
+  // --- Toast ---
+  function showToast(msg, isError = false) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.className = 'toast show' + (isError ? ' error' : '');
+    setTimeout(() => t.className = 'toast', 3500);
+  }
+
+  // --- Init ---
+  loadListings();
+</script>
+</body>
+</html>
