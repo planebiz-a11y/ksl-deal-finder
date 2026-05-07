@@ -1,14 +1,37 @@
-// api/scrape.js
 const SERP_API_KEY = process.env.SERP_API_KEY;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const GITHUB_REPO = 'planebiz-a11y/ksl-deal-finder';
 const LISTINGS_PATH = 'public/listings.json';
 
-const SEARCHES = [
-  { query: 'skid steer for sale site:ksl.com', type: 'skid_steer', hasHours: true },
-  { query: 'mini excavator for sale site:ksl.com', type: 'mini_excavator', hasHours: true },
-  { query: 'trailer for sale site:ksl.com', type: 'trailer', hasHours: false },
-];
+const EQUIPMENT_TYPES = {
+  skid_steer: 'skid steer',
+  mini_excavator: 'mini excavator',
+  trailer: 'trailer',
+};
+
+function buildQueries(params) {
+  const { types, priceMin, priceMax, yearMin, yearMax, keyword } = params;
+  const activeTypes = types && types.length > 0 ? types : ['skid_steer', 'mini_excavator', 'trailer'];
+  const queries = [];
+  for (const type of activeTypes) {
+    const label = EQUIPMENT_TYPES[type];
+    if (!label) continue;
+    let q = `${label}`;
+    if (keyword) q += ` ${keyword}`;
+    if (priceMin || priceMax) {
+      if (priceMin && priceMax) q += ` $${priceMin}-$${priceMax}`;
+      else if (priceMin) q += ` over $${priceMin}`;
+      else if (priceMax) q += ` under $${priceMax}`;
+    }
+    if (yearMin || yearMax) {
+      if (yearMin && yearMax) q += ` ${yearMin}-${yearMax}`;
+      else if (yearMin) q += ` ${yearMin}`;
+    }
+    q += ' for sale site:ksl.com';
+    queries.push({ query: q, type, hasHours: type !== 'trailer' });
+  }
+  return queries;
+}
 
 function parseSnippet(snippet, title, type) {
   const text = `${title} ${snippet}`;
@@ -65,14 +88,24 @@ async function commitListings(listings, sha) {
     headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
     body: JSON.stringify(body)
   });
-  if (!res.ok) throw new Error(`GitHub commit failed: ${res.status} ${await res.text()}`);
+  if (!res.ok) throw new Error(`GitHub commit failed: ${res.status}`);
   return true;
 }
 
 module.exports = async function handler(req, res) {
   try {
+    // Accept filter params from POST body or query string
+    let params = {};
+    if (req.method === 'POST') {
+      params = req.body || {};
+    } else {
+      params = req.query || {};
+      if (params.types) params.types = params.types.split(',');
+    }
+
+    const searches = buildQueries(params);
     const allListings = [];
-    for (const search of SEARCHES) {
+    for (const search of searches) {
       try {
         const listings = await fetchListings(search);
         allListings.push(...listings);
@@ -80,19 +113,36 @@ module.exports = async function handler(req, res) {
         console.error(`Failed: ${search.query}`, err.message);
       }
     }
+
     const seen = new Set();
     const deduped = allListings.filter(l => {
       if (seen.has(l.url)) return false;
       seen.add(l.url); return true;
     });
+
+    // Client-side filter params for price/year/hours post-filtering
+    const priceMin = parseInt(params.priceMin) || 0;
+    const priceMax = parseInt(params.priceMax) || Infinity;
+    const yearMin = parseInt(params.yearMin) || 0;
+    const yearMax = parseInt(params.yearMax) || 9999;
+    const hoursMax = parseInt(params.hoursMax) || Infinity;
+
+    const filtered = deduped.filter(l => {
+      if (l.price !== null && (l.price < priceMin || l.price > priceMax)) return false;
+      if (l.year !== null && (parseInt(l.year) < yearMin || parseInt(l.year) > yearMax)) return false;
+      if (l.hours !== null && l.hours > hoursMax) return false;
+      return true;
+    });
+
     const { listings: existing, sha } = await getExistingFile();
     const existingMap = new Map(existing.map(l => [l.url, l]));
-    for (const l of deduped) existingMap.set(l.url, l);
+    for (const l of filtered) existingMap.set(l.url, l);
     const merged = Array.from(existingMap.values())
       .sort((a, b) => new Date(b.scrapedAt) - new Date(a.scrapedAt))
       .slice(0, 500);
+
     await commitListings(merged, sha);
-    return res.status(200).json({ success: true, fetched: deduped.length, total: merged.length, lastRun: new Date().toISOString() });
+    return res.status(200).json({ success: true, fetched: filtered.length, total: merged.length, lastRun: new Date().toISOString() });
   } catch (err) {
     console.error('Scrape failed:', err);
     return res.status(500).json({ error: err.message });
