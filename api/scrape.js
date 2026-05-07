@@ -1,7 +1,6 @@
 // api/scrape.js
 const SERP_API_KEY = process.env.SERP_API_KEY;
-const KV_REST_API_URL = process.env.KV_REST_API_URL;
-const KV_REST_API_TOKEN = process.env.KV_REST_API_TOKEN;
+const REDIS_URL = process.env.REDIS_URL;
 
 const SEARCHES = [
   { query: 'skid steer for sale site:ksl.com', type: 'skid_steer', hasHours: true },
@@ -10,21 +9,13 @@ const SEARCHES = [
 ];
 
 async function kvSet(key, value) {
-  const res = await fetch(`${KV_REST_API_URL}/set/${encodeURIComponent(key)}`, {
-    method: 'POST',
-    headers: {
-      'Authorization': `Bearer ${KV_REST_API_TOKEN}`,
-      'Content-Type': 'application/json',
-    },
-    body: JSON.stringify({ value }),
-  });
+  const encoded = encodeURIComponent(value);
+  const res = await fetch(`${REDIS_URL}/set/${encodeURIComponent(key)}/${encoded}`);
   return res.ok;
 }
 
 async function kvGet(key) {
-  const res = await fetch(`${KV_REST_API_URL}/get/${encodeURIComponent(key)}`, {
-    headers: { 'Authorization': `Bearer ${KV_REST_API_TOKEN}` },
-  });
+  const res = await fetch(`${REDIS_URL}/get/${encodeURIComponent(key)}`);
   if (!res.ok) return null;
   const data = await res.json();
   return data.result;
