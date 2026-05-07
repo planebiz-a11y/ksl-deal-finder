@@ -1,25 +1,13 @@
-// api/scrape.js
 const SERP_API_KEY = process.env.SERP_API_KEY;
-const REDIS_URL = process.env.REDIS_URL;
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
+const GITHUB_REPO = 'planebiz-a11y/ksl-deal-finder';
+const LISTINGS_PATH = 'public/listings.json';
 
 const SEARCHES = [
   { query: 'skid steer for sale site:ksl.com', type: 'skid_steer', hasHours: true },
   { query: 'mini excavator for sale site:ksl.com', type: 'mini_excavator', hasHours: true },
   { query: 'trailer for sale site:ksl.com', type: 'trailer', hasHours: false },
 ];
-
-async function kvSet(key, value) {
-  const encoded = encodeURIComponent(value);
-  const res = await fetch(`${REDIS_URL}/set/${encodeURIComponent(key)}/${encoded}`);
-  return res.ok;
-}
-
-async function kvGet(key) {
-  const res = await fetch(`${REDIS_URL}/get/${encodeURIComponent(key)}`);
-  if (!res.ok) return null;
-  const data = await res.json();
-  return data.result;
-}
 
 function parseSnippet(snippet, title, type) {
   const text = `${title} ${snippet}`;
@@ -51,15 +39,33 @@ async function fetchListings(searchObj) {
   if (!res.ok) throw new Error(`SerpAPI error: ${res.status}`);
   const data = await res.json();
   return (data.organic_results || []).map(r => ({
-    id: r.link,
-    type,
-    title: r.title,
-    url: r.link,
-    snippet: r.snippet,
-    source: 'ksl',
+    id: r.link, type, title: r.title, url: r.link, snippet: r.snippet, source: 'ksl',
     ...parseSnippet(r.snippet || '', r.title || '', type),
     scrapedAt: new Date().toISOString(),
   })).filter(r => r.url && r.url.includes('ksl.com'));
+}
+
+async function getExistingFile() {
+  const res = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${LISTINGS_PATH}`, {
+    headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json' }
+  });
+  if (!res.ok) return { listings: [], sha: null };
+  const data = await res.json();
+  const content = JSON.parse(Buffer.from(data.content, 'base64').toString('utf8'));
+  return { listings: content, sha: data.sha };
+}
+
+async function commitListings(listings, sha) {
+  const content = Buffer.from(JSON.stringify(listings, null, 2)).toString('base64');
+  const body = { message: `Update listings ${new Date().toISOString()}`, content };
+  if (sha) body.sha = sha;
+  const res = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${LISTINGS_PATH}`, {
+    method: 'PUT',
+    headers: { Authorization: `Bearer ${GITHUB_TOKEN}`, Accept: 'application/vnd.github+json', 'Content-Type': 'application/json' },
+    body: JSON.stringify(body)
+  });
+  if (!res.ok) throw new Error(`GitHub commit failed: ${res.status}`);
+  return true;
 }
 
 module.exports = async function handler(req, res) {
@@ -78,17 +84,13 @@ module.exports = async function handler(req, res) {
       if (seen.has(l.url)) return false;
       seen.add(l.url); return true;
     });
-    let existing = [];
-    try {
-      const stored = await kvGet('listings');
-      if (stored) existing = JSON.parse(stored);
-    } catch (_) {}
+    const { listings: existing, sha } = await getExistingFile();
     const existingMap = new Map(existing.map(l => [l.url, l]));
     for (const l of deduped) existingMap.set(l.url, l);
     const merged = Array.from(existingMap.values())
       .sort((a, b) => new Date(b.scrapedAt) - new Date(a.scrapedAt))
       .slice(0, 500);
-    await kvSet('listings', JSON.stringify(merged));
+    await commitListings(merged, sha);
     return res.status(200).json({ success: true, fetched: deduped.length, total: merged.length, lastRun: new Date().toISOString() });
   } catch (err) {
     console.error('Scrape failed:', err);
