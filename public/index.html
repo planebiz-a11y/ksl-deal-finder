@@ -485,7 +485,7 @@
   // --- Load listings from JSON ---
   async function loadListings() {
     try {
-      const res = await fetch('/listings.json?t=' + Date.now());
+      const res = await fetch('/listings.json?t=' + Date.now(), { cache: 'no-store' });
       allListings = await res.json();
       const lastRun = allListings.length > 0
         ? allListings[0].scrapedAt
