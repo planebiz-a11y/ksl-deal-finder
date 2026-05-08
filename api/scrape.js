@@ -1,86 +1,66 @@
+const SERP_API_KEY = process.env.SERP_API_KEY;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const GITHUB_REPO = 'planebiz-a11y/ksl-deal-finder';
 const LISTINGS_PATH = 'public/listings.json';
 
+// Surgical queries targeting only individual listing pages
 const SEARCHES = [
-  { url: 'https://classifieds.ksl.com/v2/search/cat/Industrial/sub/Skid+Steer+Loaders/marketType/Sale', type: 'skid_steer' },
-  { url: 'https://classifieds.ksl.com/v2/search/cat/Industrial/sub/Excavators/marketType/Sale', type: 'mini_excavator' },
-  { url: 'https://classifieds.ksl.com/v2/search/cat/Auto+Parts+and+Accessories/sub/Utility+Trailers/marketType/Sale', type: 'trailer' },
+  { query: 'site:classifieds.ksl.com/listing skid steer used -rent -rental', type: 'skid_steer' },
+  { query: 'site:classifieds.ksl.com/listing mini excavator used -rent -rental', type: 'mini_excavator' },
+  { query: 'site:classifieds.ksl.com/listing utility trailer used -rent -rental', type: 'trailer' },
 ];
 
 const MAKES = ['Caterpillar','CAT','John Deere','Deere','Bobcat','Kubota','Case','Takeuchi','Yanmar','Komatsu','Volvo','Hitachi','Doosan','Hyundai','New Holland','Gehl','Mustang','JCB','Wacker Neuson','LiuGong','Big Tex','PJ','Load Trail','Maxx-D','Diamond C','Sure-Trac','Kaufman'];
 
-async function fetchKSL(url) {
-  const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 15000);
-  try {
-    const res = await fetch(url, {
-      method: 'GET',
-      redirect: 'follow',
-      signal: controller.signal,
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'en-US,en;q=0.9',
-        'Cache-Control': 'no-cache',
-        'Pragma': 'no-cache',
-        'Referer': 'https://classifieds.ksl.com/',
-      }
-    });
-    clearTimeout(timeout);
-    if (!res.ok) throw new Error(`KSL fetch error: ${res.status}`);
-    return await res.text();
-  } catch (err) {
-    clearTimeout(timeout);
-    throw err;
+function parseSnippet(title, snippet, type) {
+  const text = `${title} ${snippet}`;
+  const yearMatch = text.match(/\b(19|20)\d{2}\b/);
+  const year = yearMatch ? yearMatch[0] : null;
+  const priceMatch = text.match(/\$([0-9,]+)/);
+  const price = priceMatch ? parseInt(priceMatch[1].replace(/,/g, '')) : null;
+  const hoursMatch = type !== 'trailer' ? text.match(/(\d[\d,]*)\s*(hours?|hrs?)\b/i) : null;
+  const hours = hoursMatch ? parseInt(hoursMatch[1].replace(/,/g, '')) : null;
+  const textLower = text.toLowerCase();
+  let make = null;
+  for (const m of MAKES) {
+    if (textLower.includes(m.toLowerCase())) { make = m; break; }
   }
+  return { year, price, hours, make };
 }
 
-async function scrapeKSL(searchObj, params) {
-  const { type } = searchObj;
-  let fetchUrl = searchObj.url;
+async function fetchListings(searchObj, params) {
+  const { query, type } = searchObj;
 
-  const query = new URLSearchParams();
-  if (params.priceMin) query.set('priceFrom', params.priceMin);
-  if (params.priceMax) query.set('priceTo', params.priceMax);
-  if (query.toString()) fetchUrl += `?${query.toString()}`;
+  // Build query with optional price/year hints
+  let q = query;
+  if (params.keyword) q += ` ${params.keyword}`;
+  if (params.yearMin || params.yearMax) {
+    if (params.yearMin && params.yearMax) q += ` ${params.yearMin}..${params.yearMax}`;
+    else if (params.yearMin) q += ` after:${params.yearMin}`;
+  }
 
-  const html = await fetchKSL(fetchUrl);
+  const url = `https://serpapi.com/search.json?q=${encodeURIComponent(q)}&api_key=${SERP_API_KEY}&num=20&gl=us&hl=en&no_cache=true`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`SerpAPI error: ${res.status}`);
+  const data = await res.json();
+
+  const results = data.organic_results || [];
   const listings = [];
-  const listingIdRegex = /href="\/listing\/(\d+)"/g;
-  const ids = new Set();
-  let match;
-  while ((match = listingIdRegex.exec(html)) !== null) ids.add(match[1]);
 
-  for (const id of ids) {
-    const listingUrl = `https://classifieds.ksl.com/listing/${id}`;
-    const idx = html.indexOf(`/listing/${id}`);
-    if (idx === -1) continue;
-    const block = html.slice(Math.max(0, idx - 2000), idx + 2000);
+  for (const r of results) {
+    // Only keep actual individual listing URLs
+    if (!r.link || !r.link.match(/classifieds\.ksl\.com\/listing\/\d+/)) continue;
 
-    const priceMatch = block.match(/\$([0-9,]+)\.00/);
-    const price = priceMatch ? parseInt(priceMatch[1].replace(/,/g, '')) : null;
+    const { year, price, hours, make } = parseSnippet(r.title || '', r.snippet || '', type);
+
+    // Skip if no price found
     if (!price) continue;
 
-    // Skip rentals and new equipment
-    const blockLower = block.toLowerCase();
-    if (blockLower.includes('for rent') || blockLower.includes('/day') || blockLower.includes('per day')) continue;
-    if (blockLower.includes('brand new') || blockLower.includes('new in box')) continue;
+    // Skip rentals
+    const text = `${r.title} ${r.snippet}`.toLowerCase();
+    if (text.includes('rent') || text.includes('/day') || text.includes('per day')) continue;
 
-    const titleMatch = block.match(/alt="([^"]{10,100})"/) || block.match(/"title":"([^"]{10,100})"/) || block.match(/title="([^"]{10,100})"/);
-    const title = titleMatch ? titleMatch[1] : `KSL ${type} listing ${id}`;
-
-    const yearMatch = block.match(/\b(19|20)\d{2}\b/);
-    const year = yearMatch ? yearMatch[0] : null;
-
-    const hoursMatch = type !== 'trailer' ? block.match(/(\d[\d,]*)\s*(hours?|hrs?)\b/i) : null;
-    const hours = hoursMatch ? parseInt(hoursMatch[1].replace(/,/g, '')) : null;
-
-    let make = null;
-    for (const m of MAKES) {
-      if (blockLower.includes(m.toLowerCase())) { make = m; break; }
-    }
-
+    // Apply filters
     if (params.priceMin && price < parseInt(params.priceMin)) continue;
     if (params.priceMax && price > parseInt(params.priceMax)) continue;
     if (params.yearMin && year && parseInt(year) < parseInt(params.yearMin)) continue;
@@ -88,9 +68,12 @@ async function scrapeKSL(searchObj, params) {
     if (params.hoursMax && hours && hours > parseInt(params.hoursMax)) continue;
 
     listings.push({
-      id: listingUrl, type, title, url: listingUrl,
-      snippet: `${year || ''} ${make || ''} - $${price.toLocaleString()}`.trim(),
-      source: 'ksl', year, price, hours, make, model: null,
+      id: r.link, type,
+      title: r.title,
+      url: r.link,
+      snippet: r.snippet,
+      source: 'ksl',
+      year, price, hours, make, model: null,
       scrapedAt: new Date().toISOString(),
     });
   }
@@ -133,11 +116,11 @@ module.exports = async function handler(req, res) {
     const allListings = [];
     for (const search of activeSearches) {
       try {
-        const listings = await scrapeKSL(search, params);
-        console.log(`Got ${listings.length} from ${search.url}`);
+        const listings = await fetchListings(search, params);
+        console.log(`Got ${listings.length} from: ${search.query}`);
         allListings.push(...listings);
       } catch (err) {
-        console.error(`Failed: ${search.url}`, err.message);
+        console.error(`Failed: ${search.query}`, err.message);
       }
     }
 
