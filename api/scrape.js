@@ -31,13 +31,14 @@ function parseSnippet(title, snippet, type) {
 async function fetchListings(searchObj, params) {
   const { query, type } = searchObj;
 
-  // Build query with optional price/year hints
+  // Build query with price, year, and keyword baked in
   let q = query;
   if (params.keyword) q += ` ${params.keyword}`;
-  if (params.yearMin || params.yearMax) {
-    if (params.yearMin && params.yearMax) q += ` ${params.yearMin}..${params.yearMax}`;
-    else if (params.yearMin) q += ` after:${params.yearMin}`;
-  }
+  if (params.priceMin && params.priceMax) q += ` $${params.priceMin}..$${params.priceMax}`;
+  else if (params.priceMin) q += ` over $${params.priceMin}`;
+  else if (params.priceMax) q += ` under $${params.priceMax}`;
+  if (params.yearMin && params.yearMax) q += ` ${params.yearMin}..${params.yearMax}`;
+  else if (params.yearMin) q += ` ${params.yearMin}`;
 
   const url = `https://serpapi.com/search.json?q=${encodeURIComponent(q)}&api_key=${SERP_API_KEY}&num=20&gl=us&hl=en&no_cache=true`;
   const res = await fetch(url);
