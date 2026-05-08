@@ -50,7 +50,8 @@ async function fetchListings(searchObj, params) {
 
   for (const r of results) {
     // Only keep actual individual listing URLs
-    if (!r.link || !r.link.match(/classifieds\.ksl\.com\/listing\/\d+/)) continue;
+    if (!r.link || !r.link.includes('classifieds.ksl.com')) continue;
+    if (!r.link.includes('/listing/') && !r.link.includes('/search/')) continue;
 
     const { year, price, hours, make } = parseSnippet(r.title || '', r.snippet || '', type);
 
