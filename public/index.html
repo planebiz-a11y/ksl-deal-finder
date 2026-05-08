@@ -615,7 +615,22 @@
     btn.disabled = true;
     btn.textContent = 'Scraping...';
     try {
-      const res = await fetch('/api/scrape', { method: 'GET' });
+      const params = new URLSearchParams();
+      const priceMin = document.getElementById('price-min').value;
+      const priceMax = document.getElementById('price-max').value;
+      const yearMin = document.getElementById('year-min').value;
+      const yearMax = document.getElementById('year-max').value;
+      const hoursMax = document.getElementById('hours-max').value;
+      const keyword = document.getElementById('keyword').value;
+      const activeTypes = [...document.querySelectorAll('.pill.active')].map(p => p.dataset.type).filter(t => t !== 'all');
+      if (activeTypes.length > 0) params.set('types', activeTypes.join(','));
+      if (priceMin) params.set('priceMin', priceMin);
+      if (priceMax) params.set('priceMax', priceMax);
+      if (yearMin) params.set('yearMin', yearMin);
+      if (yearMax) params.set('yearMax', yearMax);
+      if (hoursMax) params.set('hoursMax', hoursMax);
+      if (keyword) params.set('keyword', keyword);
+      const res = await fetch(`/api/scrape?${params.toString()}`, { method: 'GET' });
       const data = await res.json();
       if (data.success) {
         showToast(`✓ Fetched ${data.fetched} listings (${data.total} total)`);
