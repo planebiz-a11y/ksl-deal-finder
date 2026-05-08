@@ -600,6 +600,7 @@
       document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
       pill.classList.add('active');
       activeType = pill.dataset.type;
+      saveFilters();
       render();
     });
   });
