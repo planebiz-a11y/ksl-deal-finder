@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:52:13.719Z"
+    "scrapedAt": "2026-05-08T02:58:57.437Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/77489985",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:52:07.315Z"
+    "scrapedAt": "2026-05-08T02:58:55.092Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-08T02:52:07.315Z"
+    "scrapedAt": "2026-05-08T02:58:55.092Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -53,35 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:52:07.315Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81131913",
-    "type": "skid_steer",
-    "title": "Used 2020 KUBOTA SS65 SKID STEER",
-    "url": "https://classifieds.ksl.com/listing/81131913",
-    "snippet": "Call Heston at (801) 885-1256 or message in the app. Cash Price: $23,500.00. Financing available. Easy/quick approval! Stock # SU117640 *This offer is valid ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-05-08T02:52:05.978Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81145443",
-    "type": "skid_steer",
-    "title": "Deere 329 - 333 - 289 | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81145443",
-    "snippet": "... Skidsteer Loader Tractor Only 896 Hours Clean Ready To Work. Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID STEER. Bobcat, Cat, Kubota ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": 896,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-05-08T02:52:05.978Z"
+    "scrapedAt": "2026-05-08T02:58:55.092Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80297510",
@@ -95,6 +67,34 @@
     "hours": 1280,
     "make": "John Deere",
     "model": null,
-    "scrapedAt": "2026-05-08T02:52:05.978Z"
+    "scrapedAt": "2026-05-08T02:58:54.330Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81131913",
+    "type": "skid_steer",
+    "title": "Used 2020 KUBOTA SS65 SKID STEER",
+    "url": "https://classifieds.ksl.com/listing/81131913",
+    "snippet": "Call Heston at (801) 885-1256 or message in the app. Cash Price: $23,500.00. Financing available. Easy/quick approval! Stock # SU117640 *This offer is valid ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-05-08T02:58:54.329Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81145443",
+    "type": "skid_steer",
+    "title": "Deere 329 - 333 - 289 | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81145443",
+    "snippet": "... Skidsteer Loader Tractor Only 896 Hours Clean Ready To Work. Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID STEER. Bobcat, Cat, Kubota ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": 896,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-05-08T02:58:54.329Z"
   }
 ]
