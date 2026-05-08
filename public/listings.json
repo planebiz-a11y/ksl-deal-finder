@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T16:00:57.047Z"
+    "scrapedAt": "2026-05-08T20:00:18.848Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81151581",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T16:00:57.047Z"
+    "scrapedAt": "2026-05-08T20:00:18.848Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78272213",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T16:00:57.047Z"
+    "scrapedAt": "2026-05-08T20:00:18.848Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -53,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T16:00:47.991Z"
+    "scrapedAt": "2026-05-08T20:00:17.450Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -67,7 +67,35 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-08T16:00:47.991Z"
+    "scrapedAt": "2026-05-08T20:00:17.450Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80957740",
+    "type": "skid_steer",
+    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
+    "url": "https://classifieds.ksl.com/listing/80957740",
+    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 150,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T20:00:06.703Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81129129",
+    "type": "skid_steer",
+    "title": "2019 BOBCAT E 45 | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81129129",
+    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted. Check ... Skid Steer Ready $4,500. Caterpillar CB-224D Compactor / Roller. $15,000 ...",
+    "source": "ksl",
+    "year": "2019",
+    "price": 4500,
+    "hours": null,
+    "make": "Caterpillar",
+    "model": null,
+    "scrapedAt": "2026-05-08T20:00:06.703Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81074429",
@@ -82,20 +110,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-08T16:00:32.996Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80957740",
-    "type": "skid_steer",
-    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
-    "url": "https://classifieds.ksl.com/listing/80957740",
-    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 150,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-08T08:00:36.763Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/68025041",
@@ -138,20 +152,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-08T04:01:08.098Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81129129",
-    "type": "skid_steer",
-    "title": "2019 BOBCAT E 45 | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81129129",
-    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted. Check ... Skid Steer Ready $4,500. Caterpillar CB-224D Compactor / Roller. $15,000 ...",
-    "source": "ksl",
-    "year": "2019",
-    "price": 4500,
-    "hours": null,
-    "make": "Caterpillar",
-    "model": null,
-    "scrapedAt": "2026-05-08T03:09:09.245Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81070969",
