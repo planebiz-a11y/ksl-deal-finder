@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T12:00:16.742Z"
+    "scrapedAt": "2026-05-08T16:00:57.047Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81151581",
@@ -25,7 +25,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T12:00:16.742Z"
+    "scrapedAt": "2026-05-08T16:00:57.047Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78272213",
+    "type": "trailer",
+    "title": "Trailer Ramp | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/78272213",
+    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T16:00:57.047Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -39,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T12:00:15.730Z"
+    "scrapedAt": "2026-05-08T16:00:47.991Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -53,7 +67,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-08T12:00:15.730Z"
+    "scrapedAt": "2026-05-08T16:00:47.991Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81074429",
@@ -67,7 +81,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T12:00:14.633Z"
+    "scrapedAt": "2026-05-08T16:00:32.996Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80957740",
@@ -138,20 +152,6 @@
     "make": "Caterpillar",
     "model": null,
     "scrapedAt": "2026-05-08T03:09:09.245Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78272213",
-    "type": "trailer",
-    "title": "Trailer Ramp | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/78272213",
-    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-08T03:03:47.002Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81070969",
