@@ -5,9 +5,9 @@ const LISTINGS_PATH = 'public/listings.json';
 
 // Surgical queries targeting only individual listing pages
 const SEARCHES = [
-  { query: 'site:classifieds.ksl.com/listing skid steer used -rent -rental', type: 'skid_steer' },
-  { query: 'site:classifieds.ksl.com/listing mini excavator used -rent -rental', type: 'mini_excavator' },
-  { query: 'site:classifieds.ksl.com/listing utility trailer used -rent -rental', type: 'trailer' },
+  { query: 'skid steer for sale ksl classifieds utah used -rent -rental', type: 'skid_steer' },
+  { query: 'mini excavator for sale ksl classifieds utah used -rent -rental', type: 'mini_excavator' },
+  { query: 'utility trailer for sale ksl classifieds utah used -rent -rental', type: 'trailer' },
 ];
 
 const MAKES = ['Caterpillar','CAT','John Deere','Deere','Bobcat','Kubota','Case','Takeuchi','Yanmar','Komatsu','Volvo','Hitachi','Doosan','Hyundai','New Holland','Gehl','Mustang','JCB','Wacker Neuson','LiuGong','Big Tex','PJ','Load Trail','Maxx-D','Diamond C','Sure-Trac','Kaufman'];
