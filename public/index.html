@@ -634,6 +634,7 @@
       const data = await res.json();
       if (data.success) {
         showToast(`✓ Fetched ${data.fetched} listings (${data.total} total)`);
+        await new Promise(r => setTimeout(r, 2000));
         await loadListings();
       } else {
         showToast('Scrape failed: ' + (data.error || 'Unknown error'), true);
