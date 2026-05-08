@@ -108,6 +108,8 @@ async function commitListings(listings, sha) {
 module.exports = async function handler(req, res) {
   try {
     const params = req.query || {};
+params.priceMin = params.priceMin || params.minPrice;
+params.priceMax = params.priceMax || params.maxPrice;
     if (params.types) params.types = params.types.split(',');
 
     const activeSearches = params.types && params.types.length > 0
