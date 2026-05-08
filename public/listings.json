@@ -11,7 +11,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:31:19.686Z"
+    "scrapedAt": "2026-05-08T02:31:49.869Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81149325",
+    "type": "trailer",
+    "title": "Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81149325",
+    "snippet": "New Custom trailer used twice. Payment Calculator. Estimate your monthly payment. $35.63/mo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 35,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T02:31:49.869Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78272213",
+    "type": "trailer",
+    "title": "Trailer Ramp | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/78272213",
+    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T02:31:49.869Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -25,7 +53,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-08T02:31:17.846Z"
+    "scrapedAt": "2026-05-08T02:31:49.011Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/77489985",
@@ -39,21 +67,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:31:17.845Z"
+    "scrapedAt": "2026-05-08T02:31:49.011Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/80297510",
-    "type": "skid_steer",
-    "title": "2019 John Deere Skid Steer Loader 314g Low Hours",
-    "url": "https://classifieds.ksl.com/listing/80297510",
-    "snippet": "314g John Deere skid loader. 1280 hours. Runs good. John Deere bucket. $21,500 OBO. Please call or text me at 208313658one.",
+    "id": "https://classifieds.ksl.com/listing/81131274",
+    "type": "mini_excavator",
+    "title": "Used 2019 BOBCAT BOBCAT E26 COMPACT EXCAVATOR",
+    "url": "https://classifieds.ksl.com/listing/81131274",
+    "snippet": "Call Heston at (801) 885-1256 or message in the app. Cash Price: $27,650.00 Financing available. Easy/quick approval!",
     "source": "ksl",
     "year": "2019",
-    "price": 21500,
-    "hours": 1280,
-    "make": "John Deere",
+    "price": 27650,
+    "hours": null,
+    "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-05-08T02:31:16.226Z"
+    "scrapedAt": "2026-05-08T02:31:49.011Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81131913",
@@ -67,7 +95,7 @@
     "hours": null,
     "make": "Kubota",
     "model": null,
-    "scrapedAt": "2026-05-08T02:31:16.226Z"
+    "scrapedAt": "2026-05-08T02:31:47.839Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81145443",
@@ -80,6 +108,20 @@
     "price": 23500,
     "hours": 896,
     "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-05-08T02:31:47.839Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80297510",
+    "type": "skid_steer",
+    "title": "2019 John Deere Skid Steer Loader 314g Low Hours",
+    "url": "https://classifieds.ksl.com/listing/80297510",
+    "snippet": "314g John Deere skid loader. 1280 hours. Runs good. John Deere bucket. $21,500 OBO. Please call or text me at 208313658one.",
+    "source": "ksl",
+    "year": "2019",
+    "price": 21500,
+    "hours": 1280,
+    "make": "John Deere",
     "model": null,
     "scrapedAt": "2026-05-08T02:31:16.226Z"
   },
