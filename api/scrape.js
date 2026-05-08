@@ -1,78 +1,101 @@
-const SERP_API_KEY = process.env.SERP_API_KEY;
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 const GITHUB_REPO = 'planebiz-a11y/ksl-deal-finder';
 const LISTINGS_PATH = 'public/listings.json';
 
-const EQUIPMENT_TYPES = {
-  skid_steer: 'skid steer',
-  mini_excavator: 'mini excavator',
-  trailer: 'trailer',
-};
+const SEARCHES = [
+  { url: 'https://classifieds.ksl.com/v2/search/cat/Industrial/sub/Skid+Steer+Loaders/marketType/Sale', type: 'skid_steer' },
+  { url: 'https://classifieds.ksl.com/v2/search/cat/Industrial/sub/Excavators/marketType/Sale', type: 'mini_excavator' },
+  { url: 'https://classifieds.ksl.com/v2/search/cat/Auto+Parts+and+Accessories/sub/Utility+Trailers/marketType/Sale', type: 'trailer' },
+];
 
-function buildQueries(params) {
-  const { types, priceMin, priceMax, yearMin, yearMax, keyword } = params;
-  const activeTypes = types && types.length > 0 ? types : ['skid_steer', 'mini_excavator', 'trailer'];
-  const queries = [];
-  for (const type of activeTypes) {
-    const label = EQUIPMENT_TYPES[type];
-    if (!label) continue;
-    let q = `${label}`;
-    if (keyword) q += ` ${keyword}`;
-    if (yearMin || yearMax) {
-      if (yearMin && yearMax) q += ` ${yearMin}-${yearMax}`;
-      else if (yearMin) q += ` ${yearMin}`;
-    }
-    if (priceMin || priceMax) {
-      if (priceMin && priceMax) q += ` $${priceMin}-$${priceMax}`;
-      else if (priceMin) q += ` over $${priceMin}`;
-      else if (priceMax) q += ` under $${priceMax}`;
-    }
-    q += ' for sale -rent -rental -lease site:ksl.com';
-    queries.push({ query: q, type, hasHours: type !== 'trailer' });
+const MAKES = ['Caterpillar','CAT','John Deere','Deere','Bobcat','Kubota','Case','Takeuchi','Yanmar','Komatsu','Volvo','Hitachi','Doosan','Hyundai','New Holland','Gehl','Mustang','JCB','Wacker Neuson','LiuGong','Big Tex','PJ','Load Trail','Maxx-D','Diamond C','Sure-Trac','Kaufman'];
+
+async function fetchKSL(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 15000);
+  try {
+    const res = await fetch(url, {
+      method: 'GET',
+      redirect: 'follow',
+      signal: controller.signal,
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Cache-Control': 'no-cache',
+        'Pragma': 'no-cache',
+        'Referer': 'https://classifieds.ksl.com/',
+      }
+    });
+    clearTimeout(timeout);
+    if (!res.ok) throw new Error(`KSL fetch error: ${res.status}`);
+    return await res.text();
+  } catch (err) {
+    clearTimeout(timeout);
+    throw err;
   }
-  return queries;
 }
 
-function parseSnippet(snippet, title, type) {
-  const text = `${title} ${snippet}`;
-  const yearMatch = text.match(/\b(19|20)\d{2}\b/);
-  const year = yearMatch ? yearMatch[0] : null;
-  const priceMatch = text.match(/\$[\d,]+/);
-  const price = priceMatch ? parseInt(priceMatch[0].replace(/[$,]/g, '')) : null;
-  const hoursMatch = type !== 'trailer' ? text.match(/(\d[\d,]*)\s*(hours?|hrs?)\b/i) : null;
-  const hours = hoursMatch ? parseInt(hoursMatch[1].replace(/,/g, '')) : null;
-  const makes = ['Caterpillar','CAT','John Deere','Deere','Bobcat','Kubota','Case','Takeuchi','Yanmar','Komatsu','Volvo','Hitachi','Doosan','Hyundai','New Holland','Gehl','Mustang','JCB','Wacker Neuson','LiuGong','Big Tex','PJ','Load Trail','Maxx-D','Diamond C','Sure-Trac','Kaufman'];
-  let make = null;
-  for (const m of makes) {
-    if (text.toLowerCase().includes(m.toLowerCase())) { make = m; break; }
-  }
-  let model = null;
-  if (make) {
-    const makeIdx = text.toLowerCase().indexOf(make.toLowerCase());
-    const afterMake = text.slice(makeIdx + make.length).trim();
-    const modelMatch = afterMake.match(/^[\s-]*([A-Z0-9][\w-]{1,12})/);
-    if (modelMatch) model = modelMatch[1];
-  }
-  return { year, price, hours, make, model };
-}
+async function scrapeKSL(searchObj, params) {
+  const { type } = searchObj;
+  let fetchUrl = searchObj.url;
 
-async function fetchListings(searchObj) {
-  const { query, type } = searchObj;
-  const url = `https://serpapi.com/search.json?q=${encodeURIComponent(query)}&api_key=${SERP_API_KEY}&num=20&gl=us&hl=en`;
-  const res = await fetch(url);
-  if (!res.ok) throw new Error(`SerpAPI error: ${res.status}`);
-  const data = await res.json();
-  return (data.organic_results || []).map(r => ({
-    id: r.link, type, title: r.title, url: r.link, snippet: r.snippet, source: 'ksl',
-    ...parseSnippet(r.snippet || '', r.title || '', type),
-    scrapedAt: new Date().toISOString(),
-  })).filter(r => {
-    if (!r.url || !r.url.includes('ksl.com')) return false;
-    const text = `${r.title} ${r.snippet}`.toLowerCase();
-    if (text.includes('for rent') || text.includes('rental') || text.includes('/day') || text.includes('per day')) return false;
-    if (r.title && (r.title.toLowerCase().includes('new and used listings') || r.title.toLowerCase().includes('new & used') && !r.snippet.includes('$'))) return false;
-    return true;
-  });
+  const query = new URLSearchParams();
+  if (params.priceMin) query.set('priceFrom', params.priceMin);
+  if (params.priceMax) query.set('priceTo', params.priceMax);
+  if (query.toString()) fetchUrl += `?${query.toString()}`;
+
+  const html = await fetchKSL(fetchUrl);
+  const listings = [];
+  const listingIdRegex = /href="\/listing\/(\d+)"/g;
+  const ids = new Set();
+  let match;
+  while ((match = listingIdRegex.exec(html)) !== null) ids.add(match[1]);
+
+  for (const id of ids) {
+    const listingUrl = `https://classifieds.ksl.com/listing/${id}`;
+    const idx = html.indexOf(`/listing/${id}`);
+    if (idx === -1) continue;
+    const block = html.slice(Math.max(0, idx - 2000), idx + 2000);
+
+    const priceMatch = block.match(/\$([0-9,]+)\.00/);
+    const price = priceMatch ? parseInt(priceMatch[1].replace(/,/g, '')) : null;
+    if (!price) continue;
+
+    // Skip rentals and new equipment
+    const blockLower = block.toLowerCase();
+    if (blockLower.includes('for rent') || blockLower.includes('/day') || blockLower.includes('per day')) continue;
+    if (blockLower.includes('brand new') || blockLower.includes('new in box')) continue;
+
+    const titleMatch = block.match(/alt="([^"]{10,100})"/) || block.match(/"title":"([^"]{10,100})"/) || block.match(/title="([^"]{10,100})"/);
+    const title = titleMatch ? titleMatch[1] : `KSL ${type} listing ${id}`;
+
+    const yearMatch = block.match(/\b(19|20)\d{2}\b/);
+    const year = yearMatch ? yearMatch[0] : null;
+
+    const hoursMatch = type !== 'trailer' ? block.match(/(\d[\d,]*)\s*(hours?|hrs?)\b/i) : null;
+    const hours = hoursMatch ? parseInt(hoursMatch[1].replace(/,/g, '')) : null;
+
+    let make = null;
+    for (const m of MAKES) {
+      if (blockLower.includes(m.toLowerCase())) { make = m; break; }
+    }
+
+    if (params.priceMin && price < parseInt(params.priceMin)) continue;
+    if (params.priceMax && price > parseInt(params.priceMax)) continue;
+    if (params.yearMin && year && parseInt(year) < parseInt(params.yearMin)) continue;
+    if (params.yearMax && year && parseInt(year) > parseInt(params.yearMax)) continue;
+    if (params.hoursMax && hours && hours > parseInt(params.hoursMax)) continue;
+
+    listings.push({
+      id: listingUrl, type, title, url: listingUrl,
+      snippet: `${year || ''} ${make || ''} - $${price.toLocaleString()}`.trim(),
+      source: 'ksl', year, price, hours, make, model: null,
+      scrapedAt: new Date().toISOString(),
+    });
+  }
+
+  return listings;
 }
 
 async function getExistingFile() {
@@ -100,23 +123,21 @@ async function commitListings(listings, sha) {
 
 module.exports = async function handler(req, res) {
   try {
-    // Accept filter params from POST body or query string
-    let params = {};
-    if (req.method === 'POST') {
-      params = req.body || {};
-    } else {
-      params = req.query || {};
-      if (params.types) params.types = params.types.split(',');
-    }
+    const params = req.query || {};
+    if (params.types) params.types = params.types.split(',');
 
-    const searches = buildQueries(params);
+    const activeSearches = params.types && params.types.length > 0
+      ? SEARCHES.filter(s => params.types.includes(s.type))
+      : SEARCHES;
+
     const allListings = [];
-    for (const search of searches) {
+    for (const search of activeSearches) {
       try {
-        const listings = await fetchListings(search);
+        const listings = await scrapeKSL(search, params);
+        console.log(`Got ${listings.length} from ${search.url}`);
         allListings.push(...listings);
       } catch (err) {
-        console.error(`Failed: ${search.query}`, err.message);
+        console.error(`Failed: ${search.url}`, err.message);
       }
     }
 
@@ -126,29 +147,15 @@ module.exports = async function handler(req, res) {
       seen.add(l.url); return true;
     });
 
-    // Client-side filter params for price/year/hours post-filtering
-    const priceMin = parseInt(params.priceMin) || 0;
-    const priceMax = parseInt(params.priceMax) || Infinity;
-    const yearMin = parseInt(params.yearMin) || 0;
-    const yearMax = parseInt(params.yearMax) || 9999;
-    const hoursMax = parseInt(params.hoursMax) || Infinity;
-
-    const filtered = deduped.filter(l => {
-      if (l.price !== null && (l.price < priceMin || l.price > priceMax)) return false;
-      if (l.year !== null && (parseInt(l.year) < yearMin || parseInt(l.year) > yearMax)) return false;
-      if (l.hours !== null && l.hours > hoursMax) return false;
-      return true;
-    });
-
     const { listings: existing, sha } = await getExistingFile();
     const existingMap = new Map(existing.map(l => [l.url, l]));
-    for (const l of filtered) existingMap.set(l.url, l);
+    for (const l of deduped) existingMap.set(l.url, l);
     const merged = Array.from(existingMap.values())
       .sort((a, b) => new Date(b.scrapedAt) - new Date(a.scrapedAt))
       .slice(0, 500);
 
     await commitListings(merged, sha);
-    return res.status(200).json({ success: true, fetched: filtered.length, total: merged.length, lastRun: new Date().toISOString() });
+    return res.status(200).json({ success: true, fetched: deduped.length, total: merged.length, lastRun: new Date().toISOString() });
   } catch (err) {
     console.error('Scrape failed:', err);
     return res.status(500).json({ error: err.message });
