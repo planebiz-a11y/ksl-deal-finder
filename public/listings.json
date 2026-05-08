@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:00:29.849Z"
+    "scrapedAt": "2026-05-08T02:01:39.363Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81149325",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:00:29.849Z"
+    "scrapedAt": "2026-05-08T02:01:39.363Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/77489985",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T02:00:28.910Z"
+    "scrapedAt": "2026-05-08T02:01:38.245Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -53,7 +53,21 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-08T02:00:28.910Z"
+    "scrapedAt": "2026-05-08T02:01:38.245Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/76452760",
+    "type": "mini_excavator",
+    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
+    "url": "https://classifieds.ksl.com/listing/76452760",
+    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 57400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T02:01:38.245Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81145443",
@@ -67,7 +81,7 @@
     "hours": 896,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-05-08T02:00:27.760Z"
+    "scrapedAt": "2026-05-08T02:01:36.851Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80297510",
@@ -81,7 +95,7 @@
     "hours": 1280,
     "make": "John Deere",
     "model": null,
-    "scrapedAt": "2026-05-08T02:00:27.760Z"
+    "scrapedAt": "2026-05-08T02:01:36.851Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81131913",
@@ -95,7 +109,7 @@
     "hours": null,
     "make": "Kubota",
     "model": null,
-    "scrapedAt": "2026-05-08T02:00:27.760Z"
+    "scrapedAt": "2026-05-08T02:01:36.851Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81082019",
@@ -110,19 +124,5 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-08T01:59:58.693Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/76452760",
-    "type": "mini_excavator",
-    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
-    "url": "https://classifieds.ksl.com/listing/76452760",
-    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 57400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-08T01:59:50.861Z"
   }
 ]
