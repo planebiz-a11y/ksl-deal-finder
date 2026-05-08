@@ -606,7 +606,7 @@
 
   // --- Filter inputs ---
   ['price-min','price-max','year-min','year-max','hours-max','keyword'].forEach(id => {
-    document.getElementById(id).addEventListener('input', render);
+    document.getElementById(id).addEventListener('input', () => { saveFilters(); render(); });
   });
 
   // --- Manual scrape trigger ---
