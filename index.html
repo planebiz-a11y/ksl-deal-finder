@@ -654,7 +654,41 @@
     setTimeout(() => t.className = 'toast', 3500);
   }
 
+  // --- Save/restore filters ---
+  function saveFilters() {
+    const f = {
+      priceMin: document.getElementById('price-min').value,
+      priceMax: document.getElementById('price-max').value,
+      yearMin: document.getElementById('year-min').value,
+      yearMax: document.getElementById('year-max').value,
+      hoursMax: document.getElementById('hours-max').value,
+      keyword: document.getElementById('keyword').value,
+      activeType,
+    };
+    localStorage.setItem('ironhunter-filters', JSON.stringify(f));
+  }
+
+  function restoreFilters() {
+    try {
+      const f = JSON.parse(localStorage.getItem('ironhunter-filters'));
+      if (!f) return;
+      if (f.priceMin) document.getElementById('price-min').value = f.priceMin;
+      if (f.priceMax) document.getElementById('price-max').value = f.priceMax;
+      if (f.yearMin) document.getElementById('year-min').value = f.yearMin;
+      if (f.yearMax) document.getElementById('year-max').value = f.yearMax;
+      if (f.hoursMax) document.getElementById('hours-max').value = f.hoursMax;
+      if (f.keyword) document.getElementById('keyword').value = f.keyword;
+      if (f.activeType) {
+        activeType = f.activeType;
+        document.querySelectorAll('.pill').forEach(p => {
+          p.classList.toggle('active', p.dataset.type === activeType);
+        });
+      }
+    } catch (_) {}
+  }
+
   // --- Init ---
+  restoreFilters();
   loadListings();
 </script>
 </body>
