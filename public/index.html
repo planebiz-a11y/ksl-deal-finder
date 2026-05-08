@@ -653,7 +653,35 @@
     setTimeout(() => t.className = 'toast', 3500);
   }
 
+  // --- Save/restore filters ---
+  function saveFilters() {
+    localStorage.setItem('ih-priceMin', document.getElementById('price-min').value);
+    localStorage.setItem('ih-priceMax', document.getElementById('price-max').value);
+    localStorage.setItem('ih-yearMin', document.getElementById('year-min').value);
+    localStorage.setItem('ih-yearMax', document.getElementById('year-max').value);
+    localStorage.setItem('ih-hoursMax', document.getElementById('hours-max').value);
+    localStorage.setItem('ih-keyword', document.getElementById('keyword').value);
+    localStorage.setItem('ih-activeType', activeType);
+  }
+  function restoreFilters() {
+    const pm = localStorage.getItem('ih-priceMin'); if (pm) document.getElementById('price-min').value = pm;
+    const px = localStorage.getItem('ih-priceMax'); if (px) document.getElementById('price-max').value = px;
+    const ym = localStorage.getItem('ih-yearMin'); if (ym) document.getElementById('year-min').value = ym;
+    const yx = localStorage.getItem('ih-yearMax'); if (yx) document.getElementById('year-max').value = yx;
+    const hx = localStorage.getItem('ih-hoursMax'); if (hx) document.getElementById('hours-max').value = hx;
+    const kw = localStorage.getItem('ih-keyword'); if (kw) document.getElementById('keyword').value = kw;
+    const at = localStorage.getItem('ih-activeType');
+    if (at) {
+      activeType = at;
+      document.querySelectorAll('.pill').forEach(p => p.classList.toggle('active', p.dataset.type === at));
+    }
+  }
+  ['price-min','price-max','year-min','year-max','hours-max','keyword'].forEach(id => {
+    document.getElementById(id).addEventListener('input', saveFilters);
+  });
+
   // --- Init ---
+  restoreFilters();
   loadListings();
 </script>
 </body>
