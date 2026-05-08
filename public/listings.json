@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T03:04:18.360Z"
+    "scrapedAt": "2026-05-08T03:09:11.691Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81151581",
@@ -25,63 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T03:04:18.360Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79945351",
-    "type": "mini_excavator",
-    "title": "New Holland E26C Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
-    "source": "ksl",
-    "year": null,
-    "price": 919,
-    "hours": null,
-    "make": "New Holland",
-    "model": null,
-    "scrapedAt": "2026-05-08T03:04:16.923Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/76452760",
-    "type": "mini_excavator",
-    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
-    "url": "https://classifieds.ksl.com/listing/76452760",
-    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 57400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-08T03:04:16.923Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81074429",
-    "type": "skid_steer",
-    "title": "60 inch skid steer rock skeleton bucket",
-    "url": "https://classifieds.ksl.com/listing/81074429",
-    "snippet": "60 inch skid steer rock skeleton bucket. Farmington, UT. 13 Days. 133. 3. $1,800.00. 60 inch skid steer rock skeleton bucket. J. J. City: Farmington. Member ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1800,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-08T03:04:14.895Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80957740",
-    "type": "skid_steer",
-    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
-    "url": "https://classifieds.ksl.com/listing/80957740",
-    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 150,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-08T03:04:14.895Z"
+    "scrapedAt": "2026-05-08T03:09:11.691Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81114037",
@@ -95,7 +39,77 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-08T03:03:47.002Z"
+    "scrapedAt": "2026-05-08T03:09:11.691Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79945351",
+    "type": "mini_excavator",
+    "title": "New Holland E26C Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/79945351",
+    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
+    "source": "ksl",
+    "year": null,
+    "price": 919,
+    "hours": null,
+    "make": "New Holland",
+    "model": null,
+    "scrapedAt": "2026-05-08T03:09:10.518Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/76452760",
+    "type": "mini_excavator",
+    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
+    "url": "https://classifieds.ksl.com/listing/76452760",
+    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 57400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T03:09:10.518Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81074429",
+    "type": "skid_steer",
+    "title": "60 inch skid steer rock skeleton bucket",
+    "url": "https://classifieds.ksl.com/listing/81074429",
+    "snippet": "60 inch skid steer rock skeleton bucket. Farmington, UT. 13 Days. 133. 3. $1,800.00. 60 inch skid steer rock skeleton bucket. J. J. City: Farmington. Member ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T03:09:09.245Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80957740",
+    "type": "skid_steer",
+    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
+    "url": "https://classifieds.ksl.com/listing/80957740",
+    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 150,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-08T03:09:09.245Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81129129",
+    "type": "skid_steer",
+    "title": "2019 BOBCAT E 45 | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81129129",
+    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted. Check ... Skid Steer Ready $4,500. Caterpillar CB-224D Compactor / Roller. $15,000 ...",
+    "source": "ksl",
+    "year": "2019",
+    "price": 4500,
+    "hours": null,
+    "make": "Caterpillar",
+    "model": null,
+    "scrapedAt": "2026-05-08T03:09:09.245Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78272213",
@@ -110,20 +124,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-08T03:03:47.002Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81129129",
-    "type": "skid_steer",
-    "title": "2019 BOBCAT E 45 | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81129129",
-    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted. Check ... Skid Steer Ready $4,500. Caterpillar CB-224D Compactor / Roller. $15,000 ...",
-    "source": "ksl",
-    "year": "2019",
-    "price": 4500,
-    "hours": null,
-    "make": "Caterpillar",
-    "model": null,
-    "scrapedAt": "2026-05-08T03:03:44.094Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81070969",
