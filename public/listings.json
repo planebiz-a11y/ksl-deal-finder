@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81080525",
-    "type": "trailer",
-    "title": "Utility Trailer - ATV/Boat/Snowmobile",
-    "url": "https://classifieds.ksl.com/listing/81080525",
-    "snippet": "Utility Trailer. Vernal, UT. Just Now. 44. 1. $500.00. Utility Trailer. JP. JR. City ... Condition. Used - Good, minimal wear. Small 4 wheeler trailer, or haul a ...",
-    "source": "ksl",
-    "year": null,
-    "price": 500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-08T20:00:18.848Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81151581",
     "type": "trailer",
     "title": "5'×14' trailer | Utility Trailers",
@@ -22,6 +8,20 @@
     "source": "ksl",
     "year": null,
     "price": 21,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-09T00:00:16.103Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81080525",
+    "type": "trailer",
+    "title": "Utility Trailer - ATV/Boat/Snowmobile",
+    "url": "https://classifieds.ksl.com/listing/81080525",
+    "snippet": "Utility Trailer. Vernal, UT. Just Now. 44. 1. $500.00. Utility Trailer. JP. JR. City ... Condition. Used - Good, minimal wear. Small 4 wheeler trailer, or haul a ...",
+    "source": "ksl",
+    "year": null,
+    "price": 500,
     "hours": null,
     "make": null,
     "model": null,
