@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-09T16:01:01.585Z"
+    "scrapedAt": "2026-05-09T20:00:18.466Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-09T16:00:59.581Z"
+    "scrapedAt": "2026-05-09T20:00:16.912Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -39,21 +39,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-09T16:00:59.581Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80957740",
-    "type": "skid_steer",
-    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
-    "url": "https://classifieds.ksl.com/listing/80957740",
-    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 150,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-09T16:00:43.408Z"
+    "scrapedAt": "2026-05-09T20:00:16.912Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/68025041",
@@ -64,6 +50,20 @@
     "source": "ksl",
     "year": null,
     "price": 2500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-09T20:00:15.487Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80957740",
+    "type": "skid_steer",
+    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
+    "url": "https://classifieds.ksl.com/listing/80957740",
+    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 150,
     "hours": null,
     "make": null,
     "model": null,
