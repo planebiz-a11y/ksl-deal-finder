@@ -11,7 +11,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-09T20:00:18.466Z"
+    "scrapedAt": "2026-05-10T00:00:51.599Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78272213",
+    "type": "trailer",
+    "title": "Trailer Ramp | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/78272213",
+    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-10T00:00:51.599Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80917503",
+    "type": "trailer",
+    "title": "Cargo Trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/80917503",
+    "snippet": "Inside dimensions 62\" long, 36\" wide, 15\" tall. Great behind a hot rod or trike. Used to pull behind a Harley trike. New tires . $1100.00 OBO. See more ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1100,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-10T00:00:51.599Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -25,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-09T20:00:16.912Z"
+    "scrapedAt": "2026-05-10T00:00:41.474Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -39,7 +67,21 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-09T20:00:16.912Z"
+    "scrapedAt": "2026-05-10T00:00:41.474Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80957740",
+    "type": "skid_steer",
+    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
+    "url": "https://classifieds.ksl.com/listing/80957740",
+    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 150,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-10T00:00:39.560Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/68025041",
@@ -54,20 +96,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-09T20:00:15.487Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80957740",
-    "type": "skid_steer",
-    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
-    "url": "https://classifieds.ksl.com/listing/80957740",
-    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 150,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-09T16:00:43.408Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81129129",
@@ -96,20 +124,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-09T12:00:33.772Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78272213",
-    "type": "trailer",
-    "title": "Trailer Ramp | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/78272213",
-    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-09T04:00:30.261Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81080525",
