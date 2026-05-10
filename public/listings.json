@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-10T16:00:31.283Z"
+    "scrapedAt": "2026-05-10T20:00:36.556Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-10T16:00:30.060Z"
+    "scrapedAt": "2026-05-10T20:00:33.558Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-10T16:00:30.060Z"
+    "scrapedAt": "2026-05-10T20:00:33.558Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/68025041",
@@ -53,7 +53,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-10T16:00:28.247Z"
+    "scrapedAt": "2026-05-10T20:00:29.864Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80957740",
+    "type": "skid_steer",
+    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
+    "url": "https://classifieds.ksl.com/listing/80957740",
+    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 150,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-10T20:00:29.864Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81159994",
@@ -110,20 +124,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-10T00:00:51.599Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80957740",
-    "type": "skid_steer",
-    "title": "New Skidsteer 6 Foot Tooth Bar . Bolts On Bucket",
-    "url": "https://classifieds.ksl.com/listing/80957740",
-    "snippet": "New skid steer tooth bar 72 inch bucket $150 call Troy or text 801-518-8610. Page Stats. Listing Number80957740. Expiration DateMay 21, 2026. Page Views53.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 150,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-10T00:00:39.560Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81129129",
