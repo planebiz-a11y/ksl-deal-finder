@@ -11,7 +11,63 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-13T08:00:22.904Z"
+    "scrapedAt": "2026-05-13T12:00:29.462Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/76452760",
+    "type": "mini_excavator",
+    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
+    "url": "https://classifieds.ksl.com/listing/76452760",
+    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 57400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-13T12:00:21.476Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80850172",
+    "type": "skid_steer",
+    "title": "Mini Skid | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/80850172",
+    "snippet": "Mini Skid. Springville, UT. 9 Days. 283. 4. $10,900.00. Mini Skid. JJ. Joe. City ... Condition. Used - Excellent, like new. 2024 Taian MS500 with Kubota diesel ...",
+    "source": "ksl",
+    "year": "2024",
+    "price": 10900,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-05-13T12:00:18.822Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80387278",
+    "type": "skid_steer",
+    "title": "2017 Gehl R105 Skid Loader",
+    "url": "https://classifieds.ksl.com/listing/80387278",
+    "snippet": "$17,000 OBO T-handle style controls Yanmar Diesel engine 14.5 gpm auxiliary hydraulic flow for Auger, tiller, trencher, grapple, jack jammer, etc.",
+    "source": "ksl",
+    "year": "2017",
+    "price": 17000,
+    "hours": null,
+    "make": "Yanmar",
+    "model": null,
+    "scrapedAt": "2026-05-13T12:00:18.822Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80092442",
+    "type": "skid_steer",
+    "title": "John Deere BV8 Skid Steer Snow Plow Attachment",
+    "url": "https://classifieds.ksl.com/listing/80092442",
+    "snippet": "John Deere BV8 Skid Steer Snow Plow Attachment – $4,900. The John Deere BV8 is a high-quality, heavy-duty V-blade snow plow designed for skid steers, ...",
+    "source": "ksl",
+    "year": null,
+    "price": 4900,
+    "hours": null,
+    "make": "John Deere",
+    "model": null,
+    "scrapedAt": "2026-05-13T12:00:18.822Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78272213",
@@ -28,20 +84,6 @@
     "scrapedAt": "2026-05-13T08:00:22.904Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/76452760",
-    "type": "mini_excavator",
-    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
-    "url": "https://classifieds.ksl.com/listing/76452760",
-    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 57400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-13T08:00:17.405Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/79945351",
     "type": "mini_excavator",
     "title": "New Holland E26C Mini Excavator",
@@ -54,34 +96,6 @@
     "make": "New Holland",
     "model": null,
     "scrapedAt": "2026-05-13T04:00:14.993Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80850172",
-    "type": "skid_steer",
-    "title": "Mini Skid | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/80850172",
-    "snippet": "Mini Skid. Springville, UT. 9 Days. 283. 4. $10,900.00. Mini Skid. JJ. Joe. City ... Condition. Used - Excellent, like new. 2024 Taian MS500 with Kubota diesel ...",
-    "source": "ksl",
-    "year": "2024",
-    "price": 10900,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-05-12T20:00:22.454Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80387278",
-    "type": "skid_steer",
-    "title": "2017 Gehl R105 Skid Loader",
-    "url": "https://classifieds.ksl.com/listing/80387278",
-    "snippet": "$17,000 OBO T-handle style controls Yanmar Diesel engine 14.5 gpm auxiliary hydraulic flow for Auger, tiller, trencher, grapple, jack jammer, etc.",
-    "source": "ksl",
-    "year": "2017",
-    "price": 17000,
-    "hours": null,
-    "make": "Yanmar",
-    "model": null,
-    "scrapedAt": "2026-05-12T20:00:22.454Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80917503",
@@ -166,20 +180,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-11T16:00:18.015Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80092442",
-    "type": "skid_steer",
-    "title": "John Deere BV8 Skid Steer Snow Plow Attachment",
-    "url": "https://classifieds.ksl.com/listing/80092442",
-    "snippet": "John Deere BV8 Skid Steer Snow Plow Attachment – $4,900. The John Deere BV8 is a high-quality, heavy-duty V-blade snow plow designed for skid steers, ...",
-    "source": "ksl",
-    "year": null,
-    "price": 4900,
-    "hours": null,
-    "make": "John Deere",
-    "model": null,
-    "scrapedAt": "2026-05-11T16:00:05.549Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81160938",
