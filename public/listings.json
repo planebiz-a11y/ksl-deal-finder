@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81151581",
+    "type": "trailer",
+    "title": "5'×14' trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81151581",
+    "snippet": "selling my 5'×14' trailer has good tires lights work. good working ramp and tows well. Payment Calculator. Estimate your monthly payment. $21.38/mo est.",
+    "source": "ksl",
+    "year": null,
+    "price": 21,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-13T00:00:51.610Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/76452760",
     "type": "mini_excavator",
     "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
@@ -11,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-12T20:00:24.053Z"
+    "scrapedAt": "2026-05-13T00:00:49.935Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -25,7 +39,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-12T20:00:24.053Z"
+    "scrapedAt": "2026-05-13T00:00:49.935Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80850172",
@@ -54,20 +68,6 @@
     "make": "Yanmar",
     "model": null,
     "scrapedAt": "2026-05-12T20:00:22.454Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81151581",
-    "type": "trailer",
-    "title": "5'×14' trailer | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81151581",
-    "snippet": "selling my 5'×14' trailer has good tires lights work. good working ramp and tows well. Payment Calculator. Estimate your monthly payment. $21.38/mo est.",
-    "source": "ksl",
-    "year": null,
-    "price": 21,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-12T16:00:11.703Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78272213",
