@@ -11,7 +11,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-13T00:00:51.610Z"
+    "scrapedAt": "2026-05-13T04:00:16.987Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78272213",
+    "type": "trailer",
+    "title": "Trailer Ramp | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/78272213",
+    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-13T04:00:16.987Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -25,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-13T00:00:49.935Z"
+    "scrapedAt": "2026-05-13T04:00:14.993Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -39,7 +53,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-13T00:00:49.935Z"
+    "scrapedAt": "2026-05-13T04:00:14.993Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80850172",
@@ -68,20 +82,6 @@
     "make": "Yanmar",
     "model": null,
     "scrapedAt": "2026-05-12T20:00:22.454Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78272213",
-    "type": "trailer",
-    "title": "Trailer Ramp | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/78272213",
-    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-12T16:00:11.703Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80917503",
