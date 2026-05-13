@@ -11,7 +11,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-13T12:00:29.462Z"
+    "scrapedAt": "2026-05-13T16:00:23.709Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81206286",
+    "type": "trailer",
+    "title": "Trailer | Trailers: ATV/Boat/Snowmobile",
+    "url": "https://classifieds.ksl.com/listing/81206286",
+    "snippet": "Heavy duty trailer . Everything works well .12 foot long and 7 feet wide . Payment Calculator. Estimate your monthly payment. $24.94/mo est.",
+    "source": "ksl",
+    "year": null,
+    "price": 24,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-13T16:00:23.709Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76452760",
@@ -25,7 +39,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-13T12:00:21.476Z"
+    "scrapedAt": "2026-05-13T16:00:22.461Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79945351",
+    "type": "mini_excavator",
+    "title": "New Holland E26C Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/79945351",
+    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
+    "source": "ksl",
+    "year": null,
+    "price": 919,
+    "hours": null,
+    "make": "New Holland",
+    "model": null,
+    "scrapedAt": "2026-05-13T16:00:22.461Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80850172",
@@ -82,20 +110,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-13T08:00:22.904Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79945351",
-    "type": "mini_excavator",
-    "title": "New Holland E26C Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
-    "source": "ksl",
-    "year": null,
-    "price": 919,
-    "hours": null,
-    "make": "New Holland",
-    "model": null,
-    "scrapedAt": "2026-05-13T04:00:14.993Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80917503",
