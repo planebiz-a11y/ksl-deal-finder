@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-30T08:00:13.365Z"
+    "scrapedAt": "2026-05-30T12:00:49.243Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81215610",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-30T08:00:13.365Z"
+    "scrapedAt": "2026-05-30T12:00:49.243Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81309798",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-30T08:00:13.365Z"
+    "scrapedAt": "2026-05-30T12:00:49.243Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80880358",
@@ -53,7 +53,91 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-30T08:00:13.365Z"
+    "scrapedAt": "2026-05-30T12:00:49.243Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81217091",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81217091",
+    "snippet": "Utility Trailer. West Jordan, UT. 8 Days. 38. 0. $1,000.00. Utility Trailer. MS ... Used - Fair, normal wear. Payment Types Accepted. Cash. $1,000 obo. Payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-30T12:00:49.243Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79945351",
+    "type": "mini_excavator",
+    "title": "New Holland E26C Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/79945351",
+    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
+    "source": "ksl",
+    "year": null,
+    "price": 919,
+    "hours": null,
+    "make": "New Holland",
+    "model": null,
+    "scrapedAt": "2026-05-30T12:00:47.774Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-05-30T12:00:47.774Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78683842",
+    "type": "skid_steer",
+    "title": "Skid Steer Hay Speers (New)",
+    "url": "https://classifieds.ksl.com/listing/78683842",
+    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-05-30T12:00:46.747Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81274976",
+    "type": "skid_steer",
+    "title": "12-16.5 tires | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81274976",
+    "snippet": "... SKID STEER LOADER. $40,000|Used 2022 JOHN DEERE 324G SKID STEER LOADER. 2016 Cat skid steer 236D. $32,500|2016 Cat skid steer 236D. Gehl 6625 skid steer, quick ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 40000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-05-30T12:00:46.746Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81314100",
+    "type": "skid_steer",
+    "title": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates",
+    "url": "https://classifieds.ksl.com/listing/81314100",
+    "snippet": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates – Great Project Machine – $5500 in Cedar City, UT on KSL Classifieds. View a wide selection of Skid ...",
+    "source": "ksl",
+    "year": null,
+    "price": 5500,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-05-30T12:00:46.746Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81273614",
@@ -82,90 +166,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-30T08:00:13.365Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81217091",
-    "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81217091",
-    "snippet": "Utility Trailer. West Jordan, UT. 8 Days. 38. 0. $1,000.00. Utility Trailer. MS ... Used - Fair, normal wear. Payment Types Accepted. Cash. $1,000 obo. Payment ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-30T08:00:13.365Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79945351",
-    "type": "mini_excavator",
-    "title": "New Holland E26C Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
-    "source": "ksl",
-    "year": null,
-    "price": 919,
-    "hours": null,
-    "make": "New Holland",
-    "model": null,
-    "scrapedAt": "2026-05-30T08:00:11.228Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-05-30T08:00:11.228Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81274976",
-    "type": "skid_steer",
-    "title": "12-16.5 tires | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81274976",
-    "snippet": "... SKID STEER LOADER. $40,000|Used 2022 JOHN DEERE 324G SKID STEER LOADER. 2016 Cat skid steer 236D. $32,500|2016 Cat skid steer 236D. Gehl 6625 skid steer, quick ...",
-    "source": "ksl",
-    "year": "2022",
-    "price": 40000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-05-30T08:00:08.405Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81314100",
-    "type": "skid_steer",
-    "title": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates",
-    "url": "https://classifieds.ksl.com/listing/81314100",
-    "snippet": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates – Great Project Machine – $5500 in Cedar City, UT on KSL Classifieds. View a wide selection of Skid ...",
-    "source": "ksl",
-    "year": null,
-    "price": 5500,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-05-30T08:00:08.405Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78683842",
-    "type": "skid_steer",
-    "title": "Skid Steer Hay Speers (New)",
-    "url": "https://classifieds.ksl.com/listing/78683842",
-    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-05-30T08:00:08.405Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81312883",
