@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T12:00:26.010Z"
+    "scrapedAt": "2026-05-31T16:00:47.432Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81215610",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T12:00:26.010Z"
+    "scrapedAt": "2026-05-31T16:00:47.432Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81309798",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T12:00:26.010Z"
+    "scrapedAt": "2026-05-31T16:00:47.432Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -53,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T12:00:26.010Z"
+    "scrapedAt": "2026-05-31T16:00:47.432Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81317293",
@@ -67,7 +67,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T12:00:26.010Z"
+    "scrapedAt": "2026-05-31T16:00:47.432Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-31T16:00:47.432Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -81,21 +95,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-31T12:00:19.994Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-05-31T12:00:19.994Z"
+    "scrapedAt": "2026-05-31T16:00:45.719Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81311349",
@@ -109,7 +109,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T12:00:19.994Z"
+    "scrapedAt": "2026-05-31T16:00:45.719Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-05-31T16:00:45.718Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78683842",
+    "type": "skid_steer",
+    "title": "Skid Steer Hay Speers (New)",
+    "url": "https://classifieds.ksl.com/listing/78683842",
+    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-05-31T16:00:44.938Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81252340",
@@ -138,20 +166,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-31T08:00:54.166Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78683842",
-    "type": "skid_steer",
-    "title": "Skid Steer Hay Speers (New)",
-    "url": "https://classifieds.ksl.com/listing/78683842",
-    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-05-31T08:00:49.891Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80877091",
