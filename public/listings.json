@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T08:00:54.166Z"
+    "scrapedAt": "2026-05-31T12:00:26.010Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81215610",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T08:00:54.166Z"
+    "scrapedAt": "2026-05-31T12:00:26.010Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81309798",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T08:00:54.166Z"
+    "scrapedAt": "2026-05-31T12:00:26.010Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -53,7 +53,77 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T08:00:54.166Z"
+    "scrapedAt": "2026-05-31T12:00:26.010Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81317293",
+    "type": "trailer",
+    "title": "Used ATV/Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81317293",
+    "snippet": "2022 Aluma 7'4” x 12'. · Model 8812 Aluminum. · Weight: 650 lbs. · GVWR: 3500 lbs. · Payload: 2850 lbs. · Axle Capacity: 3500 lbs. · $4500 firm.",
+    "source": "ksl",
+    "year": "2022",
+    "price": 4500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-31T12:00:26.010Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79945351",
+    "type": "mini_excavator",
+    "title": "New Holland E26C Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/79945351",
+    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
+    "source": "ksl",
+    "year": null,
+    "price": 919,
+    "hours": null,
+    "make": "New Holland",
+    "model": null,
+    "scrapedAt": "2026-05-31T12:00:19.994Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-05-31T12:00:19.994Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81311349",
+    "type": "mini_excavator",
+    "title": "AGT (AGROTK) Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81311349",
+    "snippet": "These AGROTK Mini excavators are in great condition, and are ready to work! Selling each individually for $3999 OBO. Come take a look at them and choose one ...",
+    "source": "ksl",
+    "year": null,
+    "price": 3999,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-31T12:00:19.994Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81252340",
+    "type": "skid_steer",
+    "title": "New Heavy Duty 78\" 74\" 68\" 60\" Skid Steer Bucket Bobcat ...",
+    "url": "https://classifieds.ksl.com/listing/81252340",
+    "snippet": "... Skid Steer Loaders and other great items on KSL Classifieds ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID STEER. 2023 Cat 226D3 ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-05-31T12:00:19.009Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81217091",
@@ -68,48 +138,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-31T08:00:54.166Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79945351",
-    "type": "mini_excavator",
-    "title": "New Holland E26C Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
-    "source": "ksl",
-    "year": null,
-    "price": 919,
-    "hours": null,
-    "make": "New Holland",
-    "model": null,
-    "scrapedAt": "2026-05-31T08:00:51.580Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-05-31T08:00:51.580Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81311349",
-    "type": "mini_excavator",
-    "title": "AGT (AGROTK) Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81311349",
-    "snippet": "These AGROTK Mini excavators are in great condition, and are ready to work! Selling each individually for $3999 OBO. Come take a look at them and choose one ...",
-    "source": "ksl",
-    "year": null,
-    "price": 3999,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-31T08:00:51.580Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78683842",
@@ -138,20 +166,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-31T08:00:49.891Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81317293",
-    "type": "trailer",
-    "title": "Used ATV/Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81317293",
-    "snippet": "2022 Aluma 7'4” x 12'. · Model 8812 Aluminum. · Weight: 650 lbs. · GVWR: 3500 lbs. · Payload: 2850 lbs. · Axle Capacity: 3500 lbs. · $4500 firm.",
-    "source": "ksl",
-    "year": "2022",
-    "price": 4500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-31T04:00:48.119Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81331273",
