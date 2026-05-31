@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:11.390Z"
+    "scrapedAt": "2026-05-31T04:00:48.119Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81215610",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:11.390Z"
+    "scrapedAt": "2026-05-31T04:00:48.119Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81309798",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:11.390Z"
+    "scrapedAt": "2026-05-31T04:00:48.119Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81317293",
@@ -53,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:11.390Z"
+    "scrapedAt": "2026-05-31T04:00:48.119Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -67,7 +67,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:11.390Z"
+    "scrapedAt": "2026-05-31T04:00:48.119Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81331273",
+    "type": "trailer",
+    "title": "Small flatbed trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81331273",
+    "snippet": "Description. Condition. Used - Fair, normal wear. Small flatbed trailer. You Might Also Like. Similar items from other sellers. utility trailer. $1,200|utility ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1200,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-05-31T04:00:48.119Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -81,7 +95,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:08.152Z"
+    "scrapedAt": "2026-05-31T04:00:47.419Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -95,7 +109,7 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:08.152Z"
+    "scrapedAt": "2026-05-31T04:00:47.419Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78683842",
@@ -109,7 +123,7 @@
     "hours": null,
     "make": "Kubota",
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:06.312Z"
+    "scrapedAt": "2026-05-31T04:00:45.767Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81314100",
@@ -123,7 +137,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-05-31T00:00:06.312Z"
+    "scrapedAt": "2026-05-31T04:00:45.767Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81217091",
