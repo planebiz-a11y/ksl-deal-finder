@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T20:00:41.331Z"
+    "scrapedAt": "2026-06-01T00:00:42.287Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81215610",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T20:00:41.331Z"
+    "scrapedAt": "2026-06-01T00:00:42.287Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81309798",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T20:00:41.331Z"
+    "scrapedAt": "2026-06-01T00:00:42.287Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -53,7 +53,105 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-05-31T20:00:41.331Z"
+    "scrapedAt": "2026-06-01T00:00:42.287Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81331273",
+    "type": "trailer",
+    "title": "Small flatbed trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81331273",
+    "snippet": "Description. Condition. Used - Fair, normal wear. Small flatbed trailer. You Might Also Like. Similar items from other sellers. utility trailer. $1,200|utility ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1200,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-01T00:00:42.287Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81333072",
+    "type": "trailer",
+    "title": "Flatbed | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81333072",
+    "snippet": "... Trailers USED 8.5X25 Gooseneck 25. 4x8 utility trailer. $1,250|4x8 utility trailer. 7x26 Diamond C HDT-GN 307 Gooseneck Tilt Trailer - 24K GVWR -. $17,890|7x26 ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1250,
+    "hours": null,
+    "make": "Diamond C",
+    "model": null,
+    "scrapedAt": "2026-06-01T00:00:42.287Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81230078",
+    "type": "trailer",
+    "title": "2011 Abut Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81230078",
+    "snippet": "Description. 2011 Abut Utility Trailer. x2 =7,000LBS Axles; 2 5/16\" Ball; 16'2\" x 6'10\" Decking (FAIR DECKING). SALE PRICE $4,500. See more ...",
+    "source": "ksl",
+    "year": "2011",
+    "price": 4500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-01T00:00:42.287Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79945351",
+    "type": "mini_excavator",
+    "title": "New Holland E26C Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/79945351",
+    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
+    "source": "ksl",
+    "year": null,
+    "price": 919,
+    "hours": null,
+    "make": "New Holland",
+    "model": null,
+    "scrapedAt": "2026-06-01T00:00:41.029Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81311349",
+    "type": "mini_excavator",
+    "title": "AGT (AGROTK) Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81311349",
+    "snippet": "These AGROTK Mini excavators are in great condition, and are ready to work! Selling each individually for $3999 OBO. Come take a look at them and choose one ...",
+    "source": "ksl",
+    "year": null,
+    "price": 3999,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-01T00:00:41.029Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-01T00:00:41.029Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78683842",
+    "type": "skid_steer",
+    "title": "Skid Steer Hay Speers (New)",
+    "url": "https://classifieds.ksl.com/listing/78683842",
+    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-06-01T00:00:39.990Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81317293",
@@ -68,76 +166,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-31T20:00:41.331Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81331273",
-    "type": "trailer",
-    "title": "Small flatbed trailer | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81331273",
-    "snippet": "Description. Condition. Used - Fair, normal wear. Small flatbed trailer. You Might Also Like. Similar items from other sellers. utility trailer. $1,200|utility ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1200,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-31T20:00:41.331Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79945351",
-    "type": "mini_excavator",
-    "title": "New Holland E26C Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
-    "source": "ksl",
-    "year": null,
-    "price": 919,
-    "hours": null,
-    "make": "New Holland",
-    "model": null,
-    "scrapedAt": "2026-05-31T20:00:40.166Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81311349",
-    "type": "mini_excavator",
-    "title": "AGT (AGROTK) Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81311349",
-    "snippet": "These AGROTK Mini excavators are in great condition, and are ready to work! Selling each individually for $3999 OBO. Come take a look at them and choose one ...",
-    "source": "ksl",
-    "year": null,
-    "price": 3999,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-31T20:00:40.166Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-05-31T20:00:40.166Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78683842",
-    "type": "skid_steer",
-    "title": "Skid Steer Hay Speers (New)",
-    "url": "https://classifieds.ksl.com/listing/78683842",
-    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-05-31T20:00:34.316Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81314100",
