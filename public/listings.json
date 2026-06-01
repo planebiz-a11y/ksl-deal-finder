@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-01T04:00:30.076Z"
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81309798",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-01T04:00:30.076Z"
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-01T04:00:30.076Z"
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81331273",
@@ -53,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-01T04:00:30.076Z"
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81079149",
@@ -67,7 +67,49 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-01T04:00:30.076Z"
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81215610",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81215610",
+    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
+    "source": "ksl",
+    "year": null,
+    "price": 14,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81333072",
+    "type": "trailer",
+    "title": "Flatbed | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81333072",
+    "snippet": "... Trailers USED 8.5X25 Gooseneck 25. 4x8 utility trailer. $1,250|4x8 utility trailer. 7x26 Diamond C HDT-GN 307 Gooseneck Tilt Trailer - 24K GVWR -. $17,890|7x26 ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1250,
+    "hours": null,
+    "make": "Diamond C",
+    "model": null,
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80942312",
+    "type": "trailer",
+    "title": "trailer 35 feet | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/80942312",
+    "snippet": "trailer 35 feet. Herriman, UT. 33 Days. 49. 1. $7,000.00. trailer 35 feet. JS. jorge ... Description. Condition. Used - Excellent, like new. realy new no use at ...",
+    "source": "ksl",
+    "year": null,
+    "price": 7000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-01T08:00:18.385Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -81,21 +123,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-01T04:00:21.025Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81311349",
-    "type": "mini_excavator",
-    "title": "AGT (AGROTK) Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81311349",
-    "snippet": "These AGROTK Mini excavators are in great condition, and are ready to work! Selling each individually for $3999 OBO. Come take a look at them and choose one ...",
-    "source": "ksl",
-    "year": null,
-    "price": 3999,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-01T04:00:21.025Z"
+    "scrapedAt": "2026-06-01T08:00:16.793Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -108,6 +136,48 @@
     "price": 4200,
     "hours": null,
     "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-01T08:00:16.793Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81314100",
+    "type": "skid_steer",
+    "title": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates",
+    "url": "https://classifieds.ksl.com/listing/81314100",
+    "snippet": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates – Great Project Machine – $5500 in Cedar City, UT on KSL Classifieds. View a wide selection of Skid ...",
+    "source": "ksl",
+    "year": null,
+    "price": 5500,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-01T08:00:08.472Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78683842",
+    "type": "skid_steer",
+    "title": "Skid Steer Hay Speers (New)",
+    "url": "https://classifieds.ksl.com/listing/78683842",
+    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-06-01T08:00:08.472Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81311349",
+    "type": "mini_excavator",
+    "title": "AGT (AGROTK) Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81311349",
+    "snippet": "These AGROTK Mini excavators are in great condition, and are ready to work! Selling each individually for $3999 OBO. Come take a look at them and choose one ...",
+    "source": "ksl",
+    "year": null,
+    "price": 3999,
+    "hours": null,
+    "make": null,
     "model": null,
     "scrapedAt": "2026-06-01T04:00:21.025Z"
   },
@@ -126,48 +196,6 @@
     "scrapedAt": "2026-06-01T04:00:21.025Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81314100",
-    "type": "skid_steer",
-    "title": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates",
-    "url": "https://classifieds.ksl.com/listing/81314100",
-    "snippet": "Farm Bobcat 825 Skid Steer For Sale – Runs & Operates – Great Project Machine – $5500 in Cedar City, UT on KSL Classifieds. View a wide selection of Skid ...",
-    "source": "ksl",
-    "year": null,
-    "price": 5500,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-01T04:00:18.789Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81215610",
-    "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81215610",
-    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
-    "source": "ksl",
-    "year": null,
-    "price": 14,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-01T00:00:42.287Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81333072",
-    "type": "trailer",
-    "title": "Flatbed | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81333072",
-    "snippet": "... Trailers USED 8.5X25 Gooseneck 25. 4x8 utility trailer. $1,250|4x8 utility trailer. 7x26 Diamond C HDT-GN 307 Gooseneck Tilt Trailer - 24K GVWR -. $17,890|7x26 ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1250,
-    "hours": null,
-    "make": "Diamond C",
-    "model": null,
-    "scrapedAt": "2026-06-01T00:00:42.287Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81230078",
     "type": "trailer",
     "title": "2011 Abut Utility Trailer",
@@ -180,20 +208,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-01T00:00:42.287Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78683842",
-    "type": "skid_steer",
-    "title": "Skid Steer Hay Speers (New)",
-    "url": "https://classifieds.ksl.com/listing/78683842",
-    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-06-01T00:00:39.990Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81317293",
