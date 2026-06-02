@@ -1,17 +1,17 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81333176",
+    "id": "https://classifieds.ksl.com/listing/81317293",
     "type": "trailer",
-    "title": "Nice Utility/Flat bed Trailer",
-    "url": "https://classifieds.ksl.com/listing/81333176",
-    "snippet": "Condition Used - Good, minimal wear Payment 14'x7' utility/flat bed trailer. It has 12 D-Rings. Asking $3000 O.B.O. Call or text works best.",
+    "title": "Used ATV/Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81317293",
+    "snippet": "2022 Aluma 7'4” x 12'. · Model 8812 Aluminum. · Weight: 650 lbs. · GVWR: 3500 lbs. · Payload: 2850 lbs. · Axle Capacity: 3500 lbs. · $4500 firm.",
     "source": "ksl",
-    "year": null,
-    "price": 3000,
+    "year": "2022",
+    "price": 4500,
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-01T20:00:11.539Z"
+    "scrapedAt": "2026-06-02T00:00:43.876Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-01T20:00:10.477Z"
+    "scrapedAt": "2026-06-02T00:00:42.653Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -39,7 +39,21 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-01T20:00:10.477Z"
+    "scrapedAt": "2026-06-02T00:00:42.653Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81333176",
+    "type": "trailer",
+    "title": "Nice Utility/Flat bed Trailer",
+    "url": "https://classifieds.ksl.com/listing/81333176",
+    "snippet": "Condition Used - Good, minimal wear Payment 14'x7' utility/flat bed trailer. It has 12 D-Rings. Asking $3000 O.B.O. Call or text works best.",
+    "source": "ksl",
+    "year": null,
+    "price": 3000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-01T20:00:11.539Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81306144",
@@ -122,20 +136,6 @@
     "price": 1250,
     "hours": null,
     "make": "Diamond C",
-    "model": null,
-    "scrapedAt": "2026-06-01T12:00:22.524Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81317293",
-    "type": "trailer",
-    "title": "Used ATV/Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81317293",
-    "snippet": "2022 Aluma 7'4” x 12'. · Model 8812 Aluminum. · Weight: 650 lbs. · GVWR: 3500 lbs. · Payload: 2850 lbs. · Axle Capacity: 3500 lbs. · $4500 firm.",
-    "source": "ksl",
-    "year": "2022",
-    "price": 4500,
-    "hours": null,
-    "make": null,
     "model": null,
     "scrapedAt": "2026-06-01T12:00:22.524Z"
   },
