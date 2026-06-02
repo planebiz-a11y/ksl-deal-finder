@@ -11,7 +11,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-02T12:00:30.953Z"
+    "scrapedAt": "2026-06-02T16:01:12.846Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78272213",
+    "type": "trailer",
+    "title": "Trailer Ramp | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/78272213",
+    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-02T16:01:12.846Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -25,7 +39,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-02T12:00:29.320Z"
+    "scrapedAt": "2026-06-02T16:01:11.382Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -39,7 +53,7 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-02T12:00:29.320Z"
+    "scrapedAt": "2026-06-02T16:01:11.382Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -53,7 +67,21 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-02T12:00:29.320Z"
+    "scrapedAt": "2026-06-02T16:01:11.382Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81346327",
+    "type": "mini_excavator",
+    "title": "cat 305 cr 2008 Mimi excavator",
+    "url": "https://classifieds.ksl.com/listing/81346327",
+    "snippet": "This mini excavator works as it should,no problems with the machine last year the engine was rebuilt $3100 k includeds a triple axle heavy duty transport ...",
+    "source": "ksl",
+    "year": "2008",
+    "price": 3100,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-02T16:01:11.382Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81273614",
@@ -68,20 +96,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-02T08:00:09.552Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81346327",
-    "type": "mini_excavator",
-    "title": "cat 305 cr 2008 Mimi excavator",
-    "url": "https://classifieds.ksl.com/listing/81346327",
-    "snippet": "This mini excavator works as it should,no problems with the machine last year the engine was rebuilt $3100 k includeds a triple axle heavy duty transport ...",
-    "source": "ksl",
-    "year": "2008",
-    "price": 3100,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-02T08:00:08.408Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78683842",
@@ -502,20 +516,6 @@
     "make": "John Deere",
     "model": null,
     "scrapedAt": "2026-05-13T12:00:18.822Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78272213",
-    "type": "trailer",
-    "title": "Trailer Ramp | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/78272213",
-    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-13T08:00:22.904Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80917503",
