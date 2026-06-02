@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81273614",
+    "type": "trailer",
+    "title": "Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81273614",
+    "snippet": "utility trailer. Salt Lake City, UT. 3 Days. 86. 1. $800.00. utility trailer. JN ... Used - Good, minimal wear. Payment Types Accepted. Cash. Double axle utility ...",
+    "source": "ksl",
+    "year": null,
+    "price": 800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-02T08:00:09.552Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/79945351",
     "type": "mini_excavator",
     "title": "New Holland E26C Mini Excavator",
@@ -11,7 +25,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-02T04:00:45.553Z"
+    "scrapedAt": "2026-06-02T08:00:08.408Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -25,7 +39,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-02T04:00:45.553Z"
+    "scrapedAt": "2026-06-02T08:00:08.408Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -39,7 +53,21 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-02T04:00:45.552Z"
+    "scrapedAt": "2026-06-02T08:00:08.408Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81295961",
+    "type": "mini_excavator",
+    "title": "2021 Cat 308 CR | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81295961",
+    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
+    "source": "ksl",
+    "year": "2021",
+    "price": 132000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-02T08:00:08.408Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78683842",
@@ -166,20 +194,6 @@
     "make": "Diamond C",
     "model": null,
     "scrapedAt": "2026-06-01T12:00:22.524Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81295961",
-    "type": "mini_excavator",
-    "title": "2021 Cat 308 CR | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81295961",
-    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
-    "source": "ksl",
-    "year": "2021",
-    "price": 132000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-01T12:00:15.864Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81079149",
@@ -348,20 +362,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-30T12:00:49.243Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81273614",
-    "type": "trailer",
-    "title": "Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81273614",
-    "snippet": "utility trailer. Salt Lake City, UT. 3 Days. 86. 1. $800.00. utility trailer. JN ... Used - Good, minimal wear. Payment Types Accepted. Cash. Double axle utility ...",
-    "source": "ksl",
-    "year": null,
-    "price": 800,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-30T08:00:13.365Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81286557",
