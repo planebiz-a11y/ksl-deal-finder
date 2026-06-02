@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81317293",
-    "type": "trailer",
-    "title": "Used ATV/Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81317293",
-    "snippet": "2022 Aluma 7'4” x 12'. · Model 8812 Aluminum. · Weight: 650 lbs. · GVWR: 3500 lbs. · Payload: 2850 lbs. · Axle Capacity: 3500 lbs. · $4500 firm.",
-    "source": "ksl",
-    "year": "2022",
-    "price": 4500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-02T00:00:43.876Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/79945351",
     "type": "mini_excavator",
     "title": "New Holland E26C Mini Excavator",
@@ -25,7 +11,21 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-02T00:00:42.653Z"
+    "scrapedAt": "2026-06-02T04:00:45.553Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81346327",
+    "type": "mini_excavator",
+    "title": "cat 305 cr 2008 Mimi excavator",
+    "url": "https://classifieds.ksl.com/listing/81346327",
+    "snippet": "This mini excavator works as it should,no problems with the machine last year the engine was rebuilt $3100 k includeds a triple axle heavy duty transport ...",
+    "source": "ksl",
+    "year": "2008",
+    "price": 3100,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-02T04:00:45.553Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -39,7 +39,35 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-02T00:00:42.653Z"
+    "scrapedAt": "2026-06-02T04:00:45.552Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78683842",
+    "type": "skid_steer",
+    "title": "Skid Steer Hay Speers (New)",
+    "url": "https://classifieds.ksl.com/listing/78683842",
+    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-06-02T04:00:41.005Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81317293",
+    "type": "trailer",
+    "title": "Used ATV/Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81317293",
+    "snippet": "2022 Aluma 7'4” x 12'. · Model 8812 Aluminum. · Weight: 650 lbs. · GVWR: 3500 lbs. · Payload: 2850 lbs. · Axle Capacity: 3500 lbs. · $4500 firm.",
+    "source": "ksl",
+    "year": "2022",
+    "price": 4500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-02T00:00:43.876Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81333176",
@@ -152,20 +180,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-01T12:00:15.864Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78683842",
-    "type": "skid_steer",
-    "title": "Skid Steer Hay Speers (New)",
-    "url": "https://classifieds.ksl.com/listing/78683842",
-    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-06-01T12:00:08.814Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81079149",
