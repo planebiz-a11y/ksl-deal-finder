@@ -1,17 +1,17 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81273614",
+    "id": "https://classifieds.ksl.com/listing/81351773",
     "type": "trailer",
-    "title": "Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81273614",
-    "snippet": "utility trailer. Salt Lake City, UT. 3 Days. 86. 1. $800.00. utility trailer. JN ... Used - Good, minimal wear. Payment Types Accepted. Cash. Double axle utility ...",
+    "title": "5' x 8' Trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81351773",
+    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted. Cash. New this trailer would cost $1,945.00. Good Shape, good tires. Payment ...",
     "source": "ksl",
     "year": null,
-    "price": 800,
+    "price": 1945,
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-02T20:00:47.691Z"
+    "scrapedAt": "2026-06-03T00:00:46.633Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -25,7 +25,35 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-02T20:00:46.285Z"
+    "scrapedAt": "2026-06-03T00:00:44.548Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81295961",
+    "type": "mini_excavator",
+    "title": "2021 Cat 308 CR | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81295961",
+    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
+    "source": "ksl",
+    "year": "2021",
+    "price": 132000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-03T00:00:44.548Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81346327",
+    "type": "mini_excavator",
+    "title": "cat 305 cr 2008 Mimi excavator",
+    "url": "https://classifieds.ksl.com/listing/81346327",
+    "snippet": "This mini excavator works as it should,no problems with the machine last year the engine was rebuilt $3100 k includeds a triple axle heavy duty transport ...",
+    "source": "ksl",
+    "year": "2008",
+    "price": 3100,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-03T00:00:44.548Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -39,7 +67,21 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-02T20:00:46.285Z"
+    "scrapedAt": "2026-06-03T00:00:44.547Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81273614",
+    "type": "trailer",
+    "title": "Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81273614",
+    "snippet": "utility trailer. Salt Lake City, UT. 3 Days. 86. 1. $800.00. utility trailer. JN ... Used - Good, minimal wear. Payment Types Accepted. Cash. Double axle utility ...",
+    "source": "ksl",
+    "year": null,
+    "price": 800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-02T20:00:47.691Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81317293",
@@ -68,34 +110,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-02T16:01:12.846Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81295961",
-    "type": "mini_excavator",
-    "title": "2021 Cat 308 CR | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81295961",
-    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
-    "source": "ksl",
-    "year": "2021",
-    "price": 132000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-02T16:01:11.382Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81346327",
-    "type": "mini_excavator",
-    "title": "cat 305 cr 2008 Mimi excavator",
-    "url": "https://classifieds.ksl.com/listing/81346327",
-    "snippet": "This mini excavator works as it should,no problems with the machine last year the engine was rebuilt $3100 k includeds a triple axle heavy duty transport ...",
-    "source": "ksl",
-    "year": "2008",
-    "price": 3100,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-02T16:01:11.382Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78683842",
