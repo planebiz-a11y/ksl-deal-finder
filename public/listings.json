@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-04T04:00:49.876Z"
+    "scrapedAt": "2026-06-04T08:00:38.026Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81354250",
@@ -25,7 +25,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-04T04:00:49.876Z"
+    "scrapedAt": "2026-06-04T08:00:38.026Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81295961",
+    "type": "mini_excavator",
+    "title": "2021 Cat 308 CR | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81295961",
+    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
+    "source": "ksl",
+    "year": "2021",
+    "price": 132000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-04T08:00:36.739Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -39,7 +53,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-04T04:00:43.628Z"
+    "scrapedAt": "2026-06-04T08:00:36.738Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -53,7 +67,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-04T04:00:43.628Z"
+    "scrapedAt": "2026-06-04T08:00:36.738Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -67,7 +81,7 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-04T04:00:43.628Z"
+    "scrapedAt": "2026-06-04T08:00:36.738Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80453144",
@@ -194,20 +208,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-03T08:00:34.023Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81295961",
-    "type": "mini_excavator",
-    "title": "2021 Cat 308 CR | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81295961",
-    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
-    "source": "ksl",
-    "year": "2021",
-    "price": 132000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-03T08:00:32.912Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81274976",
