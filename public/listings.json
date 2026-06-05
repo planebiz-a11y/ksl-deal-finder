@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T00:00:26.744Z"
+    "scrapedAt": "2026-06-05T04:00:29.876Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81354250",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T00:00:26.744Z"
+    "scrapedAt": "2026-06-05T04:00:29.876Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-05T00:00:24.119Z"
+    "scrapedAt": "2026-06-05T04:00:26.848Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -53,7 +53,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-05T00:00:24.119Z"
+    "scrapedAt": "2026-06-05T04:00:26.848Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -67,7 +67,77 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-05T00:00:24.119Z"
+    "scrapedAt": "2026-06-05T04:00:26.848Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81303014",
+    "type": "skid_steer",
+    "title": "Case Skidsteer | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81303014",
+    "snippet": "Case Skidsteer Roosevelt, UT 4 Hours 10 0 $53,000.00. Condition Used - Excellent, like new Case skid steer put 280 hours on it. 4 Hours 10 0 $53,000.00",
+    "source": "ksl",
+    "year": null,
+    "price": 53000,
+    "hours": 4,
+    "make": "Case",
+    "model": null,
+    "scrapedAt": "2026-06-05T04:00:24.466Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "skid_steer",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "Skid Steer Tires! Plain City, UT 3 Days 487 72 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
+    "source": "ksl",
+    "year": null,
+    "price": 155,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-05T04:00:24.466Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81182388",
+    "type": "skid_steer",
+    "title": "Compact Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/81182388",
+    "snippet": "Compact Skid Steer West Valley City, UT Just Now 275 2 $37,500.00. Used - Excellent, Used Range from 50 hp to over 74 hp. Price: $39,500 Private seller, call ...",
+    "source": "ksl",
+    "year": null,
+    "price": 37500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-05T04:00:24.466Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81327711",
+    "type": "skid_steer",
+    "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81327711",
+    "snippet": "Condition Used - Excellent, like new Barely used. KSL Classifieds makes it easy to buy and sell. Skid Steer $59,500|2023",
+    "source": "ksl",
+    "year": "2023",
+    "price": 59500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-05T04:00:24.466Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81159689",
+    "type": "skid_steer",
+    "title": "John Deere 318E | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81159689",
+    "snippet": "John Deere 318E Spanish Fork, UT Just Now 349 13 $19,995.00. Condition Used - Fair, normal wear. Runs good. 1685 hours. Only 338 Hours $16,900|John. Runs & ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19995,
+    "hours": 1685,
+    "make": "John Deere",
+    "model": null,
+    "scrapedAt": "2026-06-05T04:00:24.466Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -108,48 +178,6 @@
     "price": 26000,
     "hours": null,
     "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-03T16:00:48.793Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81303014",
-    "type": "skid_steer",
-    "title": "Case Skidsteer | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81303014",
-    "snippet": "Case Skidsteer Roosevelt, UT 4 Hours 10 0 $53,000.00. Condition Used - Excellent, like new Case skid steer put 280 hours on it. 4 Hours 10 0 $53,000.00",
-    "source": "ksl",
-    "year": null,
-    "price": 53000,
-    "hours": 4,
-    "make": "Case",
-    "model": null,
-    "scrapedAt": "2026-06-03T16:00:48.793Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "skid_steer",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Skid Steer Tires! Plain City, UT 3 Days 487 72 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
-    "source": "ksl",
-    "year": null,
-    "price": 155,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-03T16:00:48.793Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81182388",
-    "type": "skid_steer",
-    "title": "Compact Skid Steer",
-    "url": "https://classifieds.ksl.com/listing/81182388",
-    "snippet": "Compact Skid Steer West Valley City, UT Just Now 275 2 $37,500.00. Used - Excellent, Used Range from 50 hp to over 74 hp. Price: $39,500 Private seller, call ...",
-    "source": "ksl",
-    "year": null,
-    "price": 37500,
-    "hours": null,
-    "make": null,
     "model": null,
     "scrapedAt": "2026-06-03T16:00:48.793Z"
   },
