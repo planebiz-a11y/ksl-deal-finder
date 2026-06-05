@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T08:00:44.242Z"
+    "scrapedAt": "2026-06-05T12:00:47.894Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81354250",
@@ -25,21 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T08:00:44.242Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79945351",
-    "type": "mini_excavator",
-    "title": "New Holland E26C Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Mini Excavator Springville, UT. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on approved credit.",
-    "source": "ksl",
-    "year": null,
-    "price": 919,
-    "hours": null,
-    "make": "New Holland",
-    "model": null,
-    "scrapedAt": "2026-06-05T08:00:42.589Z"
+    "scrapedAt": "2026-06-05T12:00:47.894Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -53,7 +39,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-05T08:00:42.589Z"
+    "scrapedAt": "2026-06-05T12:00:46.683Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -67,7 +53,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T08:00:42.589Z"
+    "scrapedAt": "2026-06-05T12:00:46.683Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81332385",
+    "type": "mini_excavator",
+    "title": "341 Bobcat Excavator with additional attachments",
+    "url": "https://classifieds.ksl.com/listing/81332385",
+    "snippet": "Condition Used - Fair, normal wear 341 Bobcat Excavator jackhammer, leveling blade, two bucket sizes. has around 3,700 total machine hours. Hours - $79,900",
+    "source": "ksl",
+    "year": null,
+    "price": 79900,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-05T12:00:46.683Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80453144",
@@ -80,6 +80,20 @@
     "price": 11800,
     "hours": null,
     "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-06-05T12:00:46.682Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79945351",
+    "type": "mini_excavator",
+    "title": "New Holland E26C Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/79945351",
+    "snippet": "Mini Excavator Springville, UT. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on approved credit.",
+    "source": "ksl",
+    "year": null,
+    "price": 919,
+    "hours": null,
+    "make": "New Holland",
     "model": null,
     "scrapedAt": "2026-06-05T08:00:42.589Z"
   },
@@ -208,20 +222,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-03T12:00:47.571Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81332385",
-    "type": "mini_excavator",
-    "title": "341 Bobcat Excavator with additional attachments",
-    "url": "https://classifieds.ksl.com/listing/81332385",
-    "snippet": "Condition Used - Fair, normal wear 341 Bobcat Excavator jackhammer, leveling blade, two bucket sizes. has around 3,700 total machine hours. Hours - $79,900",
-    "source": "ksl",
-    "year": null,
-    "price": 79900,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-03T12:00:46.012Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81317293",
