@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T12:00:47.894Z"
+    "scrapedAt": "2026-06-05T16:01:03.984Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81354250",
@@ -25,7 +25,49 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T12:00:47.894Z"
+    "scrapedAt": "2026-06-05T16:01:03.984Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81306144",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81306144",
+    "snippet": "16'x8' deck over dual axle trailer. Big Bubba's, 7,000 lb rating. Lights all work. Payment Calculator. Estimate your monthly payment. $35.63/mo est.",
+    "source": "ksl",
+    "year": null,
+    "price": 35,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-05T16:01:03.984Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81215610",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81215610",
+    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
+    "source": "ksl",
+    "year": null,
+    "price": 14,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-05T16:01:03.984Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-05T16:01:03.984Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -39,7 +81,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-05T12:00:46.683Z"
+    "scrapedAt": "2026-06-05T16:01:01.450Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -53,7 +95,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T12:00:46.683Z"
+    "scrapedAt": "2026-06-05T16:01:01.450Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81332385",
@@ -67,7 +109,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-05T12:00:46.683Z"
+    "scrapedAt": "2026-06-05T16:01:01.450Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80453144",
@@ -81,7 +123,7 @@
     "hours": null,
     "make": "Kubota",
     "model": null,
-    "scrapedAt": "2026-06-05T12:00:46.682Z"
+    "scrapedAt": "2026-06-05T16:01:01.450Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -294,20 +336,6 @@
     "scrapedAt": "2026-06-02T04:00:41.005Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81306144",
-    "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81306144",
-    "snippet": "16'x8' deck over dual axle trailer. Big Bubba's, 7,000 lb rating. Lights all work. Payment Calculator. Estimate your monthly payment. $35.63/mo est.",
-    "source": "ksl",
-    "year": null,
-    "price": 35,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-01T16:01:31.929Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81309798",
     "type": "trailer",
     "title": "Utility Trailer",
@@ -344,20 +372,6 @@
     "source": "ksl",
     "year": null,
     "price": 1200,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-01T16:01:31.929Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81215610",
-    "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81215610",
-    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
-    "source": "ksl",
-    "year": null,
-    "price": 14,
     "hours": null,
     "make": null,
     "model": null,
@@ -446,20 +460,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-01T00:00:42.287Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-31T16:00:47.432Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81252340",
