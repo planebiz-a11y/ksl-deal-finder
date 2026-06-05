@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T04:00:29.876Z"
+    "scrapedAt": "2026-06-05T08:00:44.242Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81354250",
@@ -25,49 +25,63 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T04:00:29.876Z"
+    "scrapedAt": "2026-06-05T08:00:44.242Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
     "type": "mini_excavator",
     "title": "New Holland E26C Mini Excavator",
     "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
+    "snippet": "Mini Excavator Springville, UT. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on approved credit.",
     "source": "ksl",
     "year": null,
     "price": 919,
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-06-05T04:00:26.848Z"
+    "scrapedAt": "2026-06-05T08:00:42.589Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
     "type": "mini_excavator",
     "title": "cat 305 cr 2008 Mimi excavator",
     "url": "https://classifieds.ksl.com/listing/81346327",
-    "snippet": "This mini excavator works as it should,no problems with the machine last year the engine was rebuilt $3100 k includeds a triple axle heavy duty transport ...",
+    "snippet": "cat 305 cr 2008 Mimi excavator South Salt Lake, UT Just Now 9 0 $31,000.00. Condition Used - Fair, normal wear. Mini Excavator $4,000|AGT. Condition Used - ...",
     "source": "ksl",
     "year": "2008",
-    "price": 3100,
+    "price": 31000,
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-05T04:00:26.848Z"
+    "scrapedAt": "2026-06-05T08:00:42.589Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
     "type": "mini_excavator",
     "title": "Mini Excavator",
     "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "snippet": "Mini Excavator West Valley City, UT Just Now 6 1 $4,200.00 ・ new ready for small projects. KSL Classifieds makes it easy to buy and sell with peace of mind. ...",
     "source": "ksl",
-    "year": "2025",
+    "year": null,
     "price": 4200,
     "hours": null,
-    "make": "JCB",
+    "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T04:00:26.848Z"
+    "scrapedAt": "2026-06-05T08:00:42.589Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80453144",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/80453144",
+    "snippet": "View a wide selection of Excavators. Mini Excavator Ogden, UT 7 Days 1691 37 $11,800.00 Mini Excavator. Great Mini Excavator Diesel Kubota Engine Comes with 8. ...",
+    "source": "ksl",
+    "year": null,
+    "price": 11800,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-06-05T08:00:42.589Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81303014",
@@ -152,20 +166,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-04T20:00:43.704Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80453144",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/80453144",
-    "snippet": "View a wide selection of Excavators. Mini Excavator Ogden, UT 7 Days 1691 37 $11,800.00 Mini Excavator. Great Mini Excavator Diesel Kubota Engine Comes with 8. ...",
-    "source": "ksl",
-    "year": null,
-    "price": 11800,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-06-04T00:00:43.017Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81254301",
