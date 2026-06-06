@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81273614",
+    "type": "trailer",
+    "title": "Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81273614",
+    "snippet": "utility trailer. Salt Lake City, UT. 3 Days. 86. 1. $800.00. utility trailer. JN ... Used - Good, minimal wear. Payment Types Accepted. Cash. Double axle utility ...",
+    "source": "ksl",
+    "year": null,
+    "price": 800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-06T12:01:01.606Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81351773",
     "type": "trailer",
     "title": "5' x 8' Trailer | Utility Trailers",
@@ -11,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-06T08:01:07.151Z"
+    "scrapedAt": "2026-06-06T12:01:01.605Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -25,21 +39,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-06T08:01:03.326Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-06-06T08:01:03.326Z"
+    "scrapedAt": "2026-06-06T12:00:55.465Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -53,7 +53,21 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-06T08:01:03.326Z"
+    "scrapedAt": "2026-06-06T12:00:55.465Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-06T12:00:55.464Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81303014",
@@ -334,20 +348,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-03T08:00:34.023Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81273614",
-    "type": "trailer",
-    "title": "Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81273614",
-    "snippet": "utility trailer. Salt Lake City, UT. 3 Days. 86. 1. $800.00. utility trailer. JN ... Used - Good, minimal wear. Payment Types Accepted. Cash. Double axle utility ...",
-    "source": "ksl",
-    "year": null,
-    "price": 800,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-02T20:00:47.691Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78272213",
