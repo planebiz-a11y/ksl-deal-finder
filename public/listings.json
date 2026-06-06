@@ -4,14 +4,14 @@
     "type": "trailer",
     "title": "5' x 8' Trailer | Utility Trailers",
     "url": "https://classifieds.ksl.com/listing/81351773",
-    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted. Cash. New this trailer would cost $1,945.00. Good Shape, good tires. Payment ...",
+    "snippet": "5' x 8' Trailer Ogden, UT Just Now 22 3 $900.00. Condition Used - Good, minimal wear. New this trailer would cost $1,945.00. Good Shape, good tires. KSL ...",
     "source": "ksl",
     "year": null,
-    "price": 1945,
+    "price": 900,
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-06T00:00:38.862Z"
+    "scrapedAt": "2026-06-06T04:00:06.484Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81354250",
@@ -25,7 +25,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-06T00:00:38.862Z"
+    "scrapedAt": "2026-06-06T04:00:06.484Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81333176",
+    "type": "trailer",
+    "title": "Nice Utility/Flat bed Trailer",
+    "url": "https://classifieds.ksl.com/listing/81333176",
+    "snippet": "Condition Used - Good, minimal wear Payment 14'x7' utility/flat bed trailer. It has 12 D-Rings. Asking $3000 O.B.O. Call or text works best.",
+    "source": "ksl",
+    "year": null,
+    "price": 3000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-06T04:00:06.484Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81361850",
+    "type": "trailer",
+    "title": "Carry-On utility trailer 8 x 5",
+    "url": "https://classifieds.ksl.com/listing/81361850",
+    "snippet": "Condition Used - Fair, normal wear 12 inch tires. Asking $700 or best reasonable offer",
+    "source": "ksl",
+    "year": null,
+    "price": 700,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-06T04:00:06.484Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -39,7 +67,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-06T00:00:36.026Z"
+    "scrapedAt": "2026-06-06T04:00:05.177Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -53,7 +81,77 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-06T00:00:36.026Z"
+    "scrapedAt": "2026-06-06T04:00:05.177Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81295961",
+    "type": "mini_excavator",
+    "title": "2021 Cat 308 CR | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81295961",
+    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
+    "source": "ksl",
+    "year": "2021",
+    "price": 132000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-06T04:00:05.177Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81303014",
+    "type": "skid_steer",
+    "title": "Case Skidsteer | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81303014",
+    "snippet": "Case Skidsteer Roosevelt, UT 4 Hours 10 0 $53,000.00. Condition Used - Excellent, like new Case skid steer put 280 hours on it. 4 Hours 10 0 $53,000.00",
+    "source": "ksl",
+    "year": null,
+    "price": 53000,
+    "hours": 4,
+    "make": "Case",
+    "model": null,
+    "scrapedAt": "2026-06-06T04:00:03.797Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "skid_steer",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "Skid Steer Tires! Plain City, UT 3 Days 487 72 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
+    "source": "ksl",
+    "year": null,
+    "price": 155,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-06T04:00:03.797Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81182388",
+    "type": "skid_steer",
+    "title": "Compact Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/81182388",
+    "snippet": "Compact Skid Steer West Valley City, UT Just Now 275 2 $37,500.00. Used - Excellent, Used Range from 50 hp to over 74 hp. Price: $39,500 Private seller, call ...",
+    "source": "ksl",
+    "year": null,
+    "price": 37500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-06T04:00:03.797Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78034316",
+    "type": "skid_steer",
+    "title": "Bobcat Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/78034316",
+    "snippet": "Bobcat Skid Steer Eagle Mountain, UT 12 Days 708 25 $35,000.00. Used - Good, minimal wear 2017 skid / Bobcat with only 435 hours. Call Mike at 801-602-1227. ...",
+    "source": "ksl",
+    "year": "2017",
+    "price": 35000,
+    "hours": 435,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-06T04:00:03.797Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81274976",
@@ -68,20 +166,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-06T00:00:29.320Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81295961",
-    "type": "mini_excavator",
-    "title": "2021 Cat 308 CR | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81295961",
-    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
-    "source": "ksl",
-    "year": "2021",
-    "price": 132000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-05T20:00:35.449Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81306144",
@@ -168,48 +252,6 @@
     "scrapedAt": "2026-06-05T08:00:42.589Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81303014",
-    "type": "skid_steer",
-    "title": "Case Skidsteer | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81303014",
-    "snippet": "Case Skidsteer Roosevelt, UT 4 Hours 10 0 $53,000.00. Condition Used - Excellent, like new Case skid steer put 280 hours on it. 4 Hours 10 0 $53,000.00",
-    "source": "ksl",
-    "year": null,
-    "price": 53000,
-    "hours": 4,
-    "make": "Case",
-    "model": null,
-    "scrapedAt": "2026-06-05T04:00:24.466Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "skid_steer",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Skid Steer Tires! Plain City, UT 3 Days 487 72 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
-    "source": "ksl",
-    "year": null,
-    "price": 155,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-05T04:00:24.466Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81182388",
-    "type": "skid_steer",
-    "title": "Compact Skid Steer",
-    "url": "https://classifieds.ksl.com/listing/81182388",
-    "snippet": "Compact Skid Steer West Valley City, UT Just Now 275 2 $37,500.00. Used - Excellent, Used Range from 50 hp to over 74 hp. Price: $39,500 Private seller, call ...",
-    "source": "ksl",
-    "year": null,
-    "price": 37500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-05T04:00:24.466Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81327711",
     "type": "skid_steer",
     "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
@@ -250,20 +292,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-03T16:00:48.793Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81333176",
-    "type": "trailer",
-    "title": "Nice Utility/Flat bed Trailer",
-    "url": "https://classifieds.ksl.com/listing/81333176",
-    "snippet": "Condition Used - Good, minimal wear Payment 14'x7' utility/flat bed trailer. It has 12 D-Rings. Asking $3000 O.B.O. Call or text works best.",
-    "source": "ksl",
-    "year": null,
-    "price": 3000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-03T12:00:47.571Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81349578",
