@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T20:00:53.542Z"
+    "scrapedAt": "2026-06-06T00:00:38.862Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81354250",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-05T20:00:53.542Z"
+    "scrapedAt": "2026-06-06T00:00:38.862Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81346327",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-05T20:00:35.449Z"
+    "scrapedAt": "2026-06-06T00:00:36.026Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -53,7 +53,21 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-05T20:00:35.449Z"
+    "scrapedAt": "2026-06-06T00:00:36.026Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81274976",
+    "type": "skid_steer",
+    "title": "12-16.5 tires | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81274976",
+    "snippet": "... SKID STEER LOADER. $40,000|Used 2022 JOHN DEERE 324G SKID STEER LOADER. 2016 Cat skid steer 236D. $32,500|2016 Cat skid steer 236D. Gehl 6625 skid steer, quick ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 40000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-06T00:00:29.320Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -278,20 +292,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-03T08:00:34.023Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81274976",
-    "type": "skid_steer",
-    "title": "12-16.5 tires | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81274976",
-    "snippet": "... SKID STEER LOADER. $40,000|Used 2022 JOHN DEERE 324G SKID STEER LOADER. 2016 Cat skid steer 236D. $32,500|2016 Cat skid steer 236D. Gehl 6625 skid steer, quick ...",
-    "source": "ksl",
-    "year": "2022",
-    "price": 40000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-03T08:00:25.920Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81273614",
