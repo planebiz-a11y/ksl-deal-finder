@@ -1,17 +1,17 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81362631",
+    "id": "https://classifieds.ksl.com/listing/81384313",
     "type": "trailer",
-    "title": "Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81362631",
-    "snippet": "Trailer bed is 5' W x 14' L with a 2\" ball coupler. It is a good ATV or utility trailer. $500/offer. Payment Calculator. Estimate your monthly payment.",
+    "title": "2025 Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81384313",
+    "snippet": "Used to haul our side by side. Excellent condition. Payment Calculator. Estimate your monthly payment. $178.17/mo est. Edit estimated payment. Page Stats.",
     "source": "ksl",
-    "year": null,
-    "price": 500,
+    "year": "2025",
+    "price": 178,
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-07T00:00:34.577Z"
+    "scrapedAt": "2026-06-07T04:00:20.581Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-07T00:00:25.801Z"
+    "scrapedAt": "2026-06-07T04:00:19.028Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -39,7 +39,21 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-07T00:00:25.801Z"
+    "scrapedAt": "2026-06-07T04:00:19.028Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81362631",
+    "type": "trailer",
+    "title": "Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81362631",
+    "snippet": "Trailer bed is 5' W x 14' L with a 2\" ball coupler. It is a good ATV or utility trailer. $500/offer. Payment Calculator. Estimate your monthly payment.",
+    "source": "ksl",
+    "year": null,
+    "price": 500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-07T00:00:34.577Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81303014",
