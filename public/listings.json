@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81230078",
+    "type": "trailer",
+    "title": "2011 Abut Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81230078",
+    "snippet": "Description. 2011 Abut Utility Trailer. x2 =7,000LBS Axles; 2 5/16\" Ball; 16'2\" x 6'10\" Decking (FAIR DECKING). SALE PRICE $4,500. See more ...",
+    "source": "ksl",
+    "year": "2011",
+    "price": 4500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-07T20:01:49.071Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-07T20:01:45.844Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81295961",
+    "type": "mini_excavator",
+    "title": "2021 Cat 308 CR | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81295961",
+    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
+    "source": "ksl",
+    "year": "2021",
+    "price": 132000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-07T20:01:45.844Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81333176",
     "type": "trailer",
     "title": "Nice Utility/Flat bed Trailer",
@@ -40,20 +82,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-07T16:00:15.354Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator West Valley City, UT Just Now 6 1 $4,200.00 ・ new ready for small projects. KSL Classifieds makes it easy to buy and sell with peace of mind. ...",
-    "source": "ksl",
-    "year": null,
-    "price": 4200,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-07T16:00:06.968Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80453144",
@@ -124,20 +152,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-07T12:00:12.805Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81295961",
-    "type": "mini_excavator",
-    "title": "2021 Cat 308 CR | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81295961",
-    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
-    "source": "ksl",
-    "year": "2021",
-    "price": 132000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-07T08:00:32.784Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81303014",
@@ -600,20 +614,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-01T04:00:21.025Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81230078",
-    "type": "trailer",
-    "title": "2011 Abut Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81230078",
-    "snippet": "Description. 2011 Abut Utility Trailer. x2 =7,000LBS Axles; 2 5/16\" Ball; 16'2\" x 6'10\" Decking (FAIR DECKING). SALE PRICE $4,500. See more ...",
-    "source": "ksl",
-    "year": "2011",
-    "price": 4500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-01T00:00:42.287Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81252340",
