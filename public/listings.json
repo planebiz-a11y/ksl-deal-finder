@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-07T08:00:37.409Z"
+    "scrapedAt": "2026-06-07T12:00:12.805Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81300412",
@@ -25,21 +25,77 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-07T08:00:37.409Z"
+    "scrapedAt": "2026-06-07T12:00:12.805Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81215610",
     "type": "trailer",
     "title": "Utility Trailer",
     "url": "https://classifieds.ksl.com/listing/81215610",
-    "snippet": "Utility Trailer Sandy, UT 12 Days 130 6 $800.00 Utility. Condition Used - Good, minimal wear. Cash 6' x 10' Utility Trailer with new tires, loading ramp.",
+    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
     "source": "ksl",
     "year": null,
-    "price": 800,
+    "price": 14,
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-07T08:00:37.409Z"
+    "scrapedAt": "2026-06-07T12:00:12.805Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator West Valley City, UT Just Now 6 1 $4,200.00 ・ new ready for small projects. KSL Classifieds makes it easy to buy and sell with peace of mind. ...",
+    "source": "ksl",
+    "year": null,
+    "price": 4200,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-07T12:00:11.734Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80453144",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/80453144",
+    "snippet": "View a wide selection of Excavators. Mini Excavator Ogden, UT 7 Days 1691 37 $11,800.00 Mini Excavator. Great Mini Excavator Diesel Kubota Engine Comes with 8. ...",
+    "source": "ksl",
+    "year": null,
+    "price": 11800,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-06-07T12:00:11.734Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/73889137",
+    "type": "mini_excavator",
+    "title": "2026 SY35U SANY Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/73889137",
+    "snippet": "Mini Excavator Salt Lake City, UT 2 Days 768 47 $51,250.00 5 YEAR/5,000 HOUR WARRANTY Redesigned in 2026! Call Sales at 801-322-1300",
+    "source": "ksl",
+    "year": "2026",
+    "price": 51250,
+    "hours": 5000,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-07T12:00:11.734Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81377260",
+    "type": "mini_excavator",
+    "title": "2023 CAT 303.5 Mini Excavator (LOW HOURS)",
+    "url": "https://classifieds.ksl.com/listing/81377260",
+    "snippet": "$55,000.00 2023 CAT 303.5 Mini Excavator (LOW HOURS) Condition Used - Excellent, like new Payment. CR Mini Excavator with low hours and ready to work. price 55 ...",
+    "source": "ksl",
+    "year": "2023",
+    "price": 55000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-07T12:00:11.734Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -52,20 +108,6 @@
     "price": 132000,
     "hours": null,
     "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-07T08:00:32.784Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
     "model": null,
     "scrapedAt": "2026-06-07T08:00:32.784Z"
   },
@@ -346,20 +388,6 @@
     "price": 79900,
     "hours": null,
     "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-05T16:01:01.450Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80453144",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/80453144",
-    "snippet": "View a wide selection of Excavators. Mini Excavator Ogden, UT 7 Days 1691 37 $11,800.00 Mini Excavator. Great Mini Excavator Diesel Kubota Engine Comes with 8. ...",
-    "source": "ksl",
-    "year": null,
-    "price": 11800,
-    "hours": null,
-    "make": "Kubota",
     "model": null,
     "scrapedAt": "2026-06-05T16:01:01.450Z"
   },
