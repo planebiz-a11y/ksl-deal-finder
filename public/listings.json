@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-08T16:00:48.211Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81295961",
+    "type": "mini_excavator",
+    "title": "2021 Cat 308 CR | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81295961",
+    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
+    "source": "ksl",
+    "year": "2021",
+    "price": 132000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-08T16:00:48.211Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81300412",
     "type": "trailer",
     "title": "Wells Cargo 12' Enclosed Trailer",
@@ -40,20 +68,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-08T12:00:55.890Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-06-08T12:00:51.875Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/65777026",
@@ -236,20 +250,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-08T00:00:39.285Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81295961",
-    "type": "mini_excavator",
-    "title": "2021 Cat 308 CR | Excavators",
-    "url": "https://classifieds.ksl.com/listing/81295961",
-    "snippet": "Price reduced Originally asking price was $132,000. Im selling a basically brand new 2021 Cat 308 excavator. Machine is in great condition. Original owner.",
-    "source": "ksl",
-    "year": "2021",
-    "price": 132000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-07T20:01:45.844Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81331273",
