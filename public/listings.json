@@ -1,17 +1,17 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "id": "https://classifieds.ksl.com/listing/81215610",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81215610",
+    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
     "source": "ksl",
-    "year": "2025",
-    "price": 4200,
+    "year": null,
+    "price": 14,
     "hours": null,
-    "make": "JCB",
+    "make": null,
     "model": null,
-    "scrapedAt": "2026-06-08T16:00:48.211Z"
+    "scrapedAt": "2026-06-08T20:00:07.399Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -25,7 +25,91 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-08T16:00:48.211Z"
+    "scrapedAt": "2026-06-08T20:00:06.157Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-08T20:00:06.156Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81330438",
+    "type": "skid_steer",
+    "title": "Hay spears | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81330438",
+    "snippet": "View a wide selection of <b>Skid Steer</b> ・ lassifieds makes it easy to buy and sell ・ 2022 CAT 246D3 skid steer! 2 speed! Low hours! $37,000|2022 CAT 246D3 ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 37000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-08T20:00:05.193Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78683842",
+    "type": "skid_steer",
+    "title": "Skid Steer Hay Speers (New)",
+    "url": "https://classifieds.ksl.com/listing/78683842",
+    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
+    "source": "ksl",
+    "year": "2020",
+    "price": 23500,
+    "hours": null,
+    "make": "Kubota",
+    "model": null,
+    "scrapedAt": "2026-06-08T20:00:05.193Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "skid_steer",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "Skid Steer Tires! Plain City, UT 3 Days 487 72 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
+    "source": "ksl",
+    "year": null,
+    "price": 155,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-08T20:00:05.192Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81303014",
+    "type": "skid_steer",
+    "title": "Case Skidsteer | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81303014",
+    "snippet": "Case Skidsteer Roosevelt, UT 4 Hours 10 0 $53,000.00. Condition Used - Excellent, like new Case skid steer put 280 hours on it. 4 Hours 10 0 $53,000.00",
+    "source": "ksl",
+    "year": null,
+    "price": 53000,
+    "hours": 4,
+    "make": "Case",
+    "model": null,
+    "scrapedAt": "2026-06-08T20:00:05.192Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81327711",
+    "type": "skid_steer",
+    "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81327711",
+    "snippet": "Condition Used - Excellent, like new Barely used. KSL Classifieds makes it easy to buy and sell. Skid Steer $59,500|2023",
+    "source": "ksl",
+    "year": "2023",
+    "price": 59500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-08T20:00:05.192Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81300412",
@@ -68,48 +152,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-08T12:00:55.890Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "skid_steer",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Skid Steer Tires! Plain City, UT 3 Days 487 72 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
-    "source": "ksl",
-    "year": null,
-    "price": 155,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-08T12:00:46.863Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81303014",
-    "type": "skid_steer",
-    "title": "Case Skidsteer | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81303014",
-    "snippet": "Case Skidsteer Roosevelt, UT 4 Hours 10 0 $53,000.00. Condition Used - Excellent, like new Case skid steer put 280 hours on it. 4 Hours 10 0 $53,000.00",
-    "source": "ksl",
-    "year": null,
-    "price": 53000,
-    "hours": 4,
-    "make": "Case",
-    "model": null,
-    "scrapedAt": "2026-06-08T12:00:46.863Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81327711",
-    "type": "skid_steer",
-    "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81327711",
-    "snippet": "Condition Used - Excellent, like new Barely used. KSL Classifieds makes it easy to buy and sell. Skid Steer $59,500|2023",
-    "source": "ksl",
-    "year": "2023",
-    "price": 59500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-08T12:00:46.863Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/68242801",
@@ -238,20 +280,6 @@
     "scrapedAt": "2026-06-08T04:00:40.991Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81215610",
-    "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81215610",
-    "snippet": "Utility Trailer Sandy, UT 12 Days 130 6 $800.00 Utility. Condition Used - Good, minimal wear. Cash 6' x 10' Utility Trailer with new tires, loading ramp.",
-    "source": "ksl",
-    "year": null,
-    "price": 800,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-08T00:00:39.285Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81331273",
     "type": "trailer",
     "title": "Small flatbed trailer | Utility Trailers",
@@ -348,20 +376,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-07T00:00:34.577Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330438",
-    "type": "skid_steer",
-    "title": "Hay spears | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81330438",
-    "snippet": "View a wide selection of <b>Skid Steer</b> ・ lassifieds makes it easy to buy and sell ・ 2022 CAT 246D3 skid steer! 2 speed! Low hours! $37,000|2022 CAT 246D3 ...",
-    "source": "ksl",
-    "year": "2022",
-    "price": 37000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-07T00:00:19.093Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81351773",
@@ -558,20 +572,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-02T16:01:12.846Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78683842",
-    "type": "skid_steer",
-    "title": "Skid Steer Hay Speers (New)",
-    "url": "https://classifieds.ksl.com/listing/78683842",
-    "snippet": "Skid Steer Hay Speers (New) in West Bountiful, UT on KSL Classifieds. View a ... Used 2020 KUBOTA SS65 SKID STEER. $23,500|Used 2020 KUBOTA SS65 SKID ...",
-    "source": "ksl",
-    "year": "2020",
-    "price": 23500,
-    "hours": null,
-    "make": "Kubota",
-    "model": null,
-    "scrapedAt": "2026-06-02T04:00:41.005Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81309798",
