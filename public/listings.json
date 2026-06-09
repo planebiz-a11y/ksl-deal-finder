@@ -4,14 +4,56 @@
     "type": "trailer",
     "title": "Utility Trailer",
     "url": "https://classifieds.ksl.com/listing/81215610",
-    "snippet": "Utility Trailer Sandy, UT 12 Days 130 6 $800.00 Utility. Condition Used - Good, minimal wear. Cash 6' x 10' Utility Trailer with new tires, loading ramp.",
+    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
     "source": "ksl",
     "year": null,
-    "price": 800,
+    "price": 14,
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-09T00:00:38.779Z"
+    "scrapedAt": "2026-06-09T04:00:32.458Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81389412",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81389412",
+    "snippet": "Utility Trailer in Marriott-Slaterville City, UT on KSL Classifieds. View a ... Used 7 Times. 2026 Big Tex Trailers 30' GN. $17,125|2026 Big Tex Trailers ...",
+    "source": "ksl",
+    "year": "2026",
+    "price": 17125,
+    "hours": null,
+    "make": "Big Tex",
+    "model": null,
+    "scrapedAt": "2026-06-09T04:00:32.458Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-09T04:00:27.985Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80877091",
+    "type": "skid_steer",
+    "title": "12 - 16.5 Tire Chains | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/80877091",
+    "snippet": "Complete set of (4) tire chains used only a couple of seasons on skid steer for moving snow. Still in great shape with lots of life left $400 for all 4.",
+    "source": "ksl",
+    "year": null,
+    "price": 400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-09T04:00:21.829Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81300412",
@@ -40,20 +82,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-09T00:00:38.779Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-06-09T00:00:34.058Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81295961",
@@ -698,20 +726,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-31T08:00:54.166Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80877091",
-    "type": "skid_steer",
-    "title": "12 - 16.5 Tire Chains | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/80877091",
-    "snippet": "Complete set of (4) tire chains used only a couple of seasons on skid steer for moving snow. Still in great shape with lots of life left $400 for all 4.",
-    "source": "ksl",
-    "year": null,
-    "price": 400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-31T08:00:49.891Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81116756",
