@@ -1,5 +1,61 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81215610",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81215610",
+    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
+    "source": "ksl",
+    "year": null,
+    "price": 14,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-09T12:01:49.758Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80880358",
+    "type": "trailer",
+    "title": "Utility Trailor | Car Hauler Trailers",
+    "url": "https://classifieds.ksl.com/listing/80880358",
+    "snippet": "12ft flat bed 2 axle trailer, electric brakes used to haul jeep 4 new tires. Payment Calculator. Estimate your monthly payment. $35.63/mo est.",
+    "source": "ksl",
+    "year": null,
+    "price": 35,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-09T12:01:49.758Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289671",
+    "type": "mini_excavator",
+    "title": "Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81289671",
+    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 4200,
+    "hours": null,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-06-09T12:01:47.395Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81369204",
+    "type": "skid_steer",
+    "title": "Bundle Deal for 2 Brand New Chinese Mini Skid Steers",
+    "url": "https://classifieds.ksl.com/listing/81369204",
+    "snippet": "2 brand new Chinese Mini Skid Steers for sale together or separate! Bundle - $8,000 Together. Separate - $4,250 Each. They are both from the brand Future, ...",
+    "source": "ksl",
+    "year": null,
+    "price": 8000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-09T12:01:42.065Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81333176",
     "type": "trailer",
     "title": "Nice Utility/Flat bed Trailer",
@@ -56,20 +112,6 @@
     "scrapedAt": "2026-06-09T08:00:19.947Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81289671",
-    "type": "mini_excavator",
-    "title": "Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81289671",
-    "snippet": "Mini Excavator. West Valley City, UT. Just Now. 6. 1. $4,200.00. Mini Excavator. YG ... Used Equipment. $999|Quality Used Equipment. 2025 JCB 4220 Fastrac.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 4200,
-    "hours": null,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-06-09T08:00:16.713Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/80877091",
     "type": "skid_steer",
     "title": "12 - 16.5 Tire Chains | Skid Steer Loaders",
@@ -82,20 +124,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-09T08:00:13.286Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81215610",
-    "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81215610",
-    "snippet": "6' x 10' Utility Trailer with new tires, loading ramp. Payment Calculator. Estimate your monthly payment. $14.25/mo est. Edit estimated payment. Page Stats.",
-    "source": "ksl",
-    "year": null,
-    "price": 14,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-09T04:00:32.458Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81389412",
@@ -754,20 +782,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-05-30T16:00:11.587Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80880358",
-    "type": "trailer",
-    "title": "Utility Trailor | Car Hauler Trailers",
-    "url": "https://classifieds.ksl.com/listing/80880358",
-    "snippet": "12ft flat bed 2 axle trailer, electric brakes used to haul jeep 4 new tires. Payment Calculator. Estimate your monthly payment. $35.63/mo est.",
-    "source": "ksl",
-    "year": null,
-    "price": 35,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-05-30T12:00:49.243Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81286557",
