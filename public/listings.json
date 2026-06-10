@@ -1,17 +1,45 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81389412",
+    "id": "https://classifieds.ksl.com/listing/81361850",
     "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81389412",
-    "snippet": "Utility Trailer in Marriott-Slaterville City, UT on KSL Classifieds. View a ... Used 7 Times. 2026 Big Tex Trailers 30' GN. $17,125|2026 Big Tex Trailers ...",
+    "title": "Carry-On utility trailer 8 x 5",
+    "url": "https://classifieds.ksl.com/listing/81361850",
+    "snippet": "Condition Used - Fair, normal wear 12 inch tires. Asking $700 or best reasonable offer",
     "source": "ksl",
-    "year": "2026",
-    "price": 17125,
+    "year": null,
+    "price": 700,
     "hours": null,
-    "make": "Big Tex",
+    "make": null,
     "model": null,
-    "scrapedAt": "2026-06-10T08:00:15.900Z"
+    "scrapedAt": "2026-06-10T12:01:44.807Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81313307",
+    "type": "trailer",
+    "title": "5.5x10 Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81313307",
+    "snippet": "5.5x10 Utility Trailer Murray, UT Just Now 9 0 $500.00. Condition Used - Poor, significant wear. Dimensions are 10' by 5.5' Price is obo - KSL Classifieds ...",
+    "source": "ksl",
+    "year": null,
+    "price": 500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-10T12:01:44.807Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81406232",
+    "type": "trailer",
+    "title": "Utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81406232",
+    "snippet": "Utility trailer Erda, UT Just Now 62 2 $400.00 Utility. Condition Used - Good, minimal wear Trailer for sale. KSL Classifieds makes it easy to buy and sell ...",
+    "source": "ksl",
+    "year": null,
+    "price": 400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-10T12:01:44.807Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -25,7 +53,21 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-10T08:00:13.597Z"
+    "scrapedAt": "2026-06-10T12:01:43.497Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81389412",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81389412",
+    "snippet": "Utility Trailer in Marriott-Slaterville City, UT on KSL Classifieds. View a ... Used 7 Times. 2026 Big Tex Trailers 30' GN. $17,125|2026 Big Tex Trailers ...",
+    "source": "ksl",
+    "year": "2026",
+    "price": 17125,
+    "hours": null,
+    "make": "Big Tex",
+    "model": null,
+    "scrapedAt": "2026-06-10T08:00:15.900Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81303014",
@@ -572,20 +614,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-06T12:00:55.465Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81361850",
-    "type": "trailer",
-    "title": "Carry-On utility trailer 8 x 5",
-    "url": "https://classifieds.ksl.com/listing/81361850",
-    "snippet": "Condition Used - Fair, normal wear 12 inch tires. Asking $700 or best reasonable offer",
-    "source": "ksl",
-    "year": null,
-    "price": 700,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-06T04:00:06.484Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81274976",
