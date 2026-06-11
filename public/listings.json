@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81300412",
+    "type": "trailer",
+    "title": "Wells Cargo 12' Enclosed Trailer",
+    "url": "https://classifieds.ksl.com/listing/81300412",
+    "snippet": "Wells Cargo 12' Enclosed Trailer Kaysville, UT Just Now 2 0 $4,999.00. Call us for todays pricing- (801) 447-2753 -18” Platform Height -3,500 ...",
+    "source": "ksl",
+    "year": null,
+    "price": 4999,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-11T08:01:19.894Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81225203",
+    "type": "trailer",
+    "title": "Enclosed Utilty Trailer",
+    "url": "https://classifieds.ksl.com/listing/81225203",
+    "snippet": "Enclosed Utilty Trailer West Bountiful, UT Just Now 85 2 $8,500.00 door Axels 5,000lb. Text Brock 801-834-3045. KSL Classifieds makes it easy to buy and sell ...",
+    "source": "ksl",
+    "year": null,
+    "price": 8500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-11T08:01:19.894Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81289671",
     "type": "mini_excavator",
     "title": "Mini Excavator",
@@ -11,7 +39,7 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-11T04:00:21.026Z"
+    "scrapedAt": "2026-06-11T08:01:18.654Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81330438",
@@ -148,20 +176,6 @@
     "source": "ksl",
     "year": null,
     "price": 700,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-10T16:00:32.306Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81300412",
-    "type": "trailer",
-    "title": "Wells Cargo 12' Enclosed Trailer",
-    "url": "https://classifieds.ksl.com/listing/81300412",
-    "snippet": "Wells Cargo 12' Enclosed Trailer Kaysville, UT Just Now 2 0 $4,999.00. Call us for todays pricing- (801) 447-2753 -18” Platform Height -3,500 ...",
-    "source": "ksl",
-    "year": null,
-    "price": 4999,
     "hours": null,
     "make": null,
     "model": null,
