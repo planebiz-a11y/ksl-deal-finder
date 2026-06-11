@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-11T08:01:19.894Z"
+    "scrapedAt": "2026-06-11T12:00:32.565Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81225203",
@@ -25,7 +25,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-11T08:01:19.894Z"
+    "scrapedAt": "2026-06-11T12:00:32.565Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81389412",
+    "type": "trailer",
+    "title": "Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81389412",
+    "snippet": "Utility Trailer in Marriott-Slaterville City, UT on KSL Classifieds. View a ... Used 7 Times. 2026 Big Tex Trailers 30' GN. $17,125|2026 Big Tex Trailers ...",
+    "source": "ksl",
+    "year": "2026",
+    "price": 17125,
+    "hours": null,
+    "make": "Big Tex",
+    "model": null,
+    "scrapedAt": "2026-06-11T12:00:32.565Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81406232",
+    "type": "trailer",
+    "title": "Utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81406232",
+    "snippet": "Utility trailer Erda, UT Just Now 62 2 $400.00 Utility. Condition Used - Good, minimal wear Trailer for sale. KSL Classifieds makes it easy to buy and sell ...",
+    "source": "ksl",
+    "year": null,
+    "price": 400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-11T12:00:32.565Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81289671",
@@ -39,7 +67,7 @@
     "hours": null,
     "make": "JCB",
     "model": null,
-    "scrapedAt": "2026-06-11T08:01:18.654Z"
+    "scrapedAt": "2026-06-11T12:00:30.268Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81330438",
@@ -53,7 +81,63 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-11T04:00:20.019Z"
+    "scrapedAt": "2026-06-11T12:00:29.183Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81327711",
+    "type": "skid_steer",
+    "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81327711",
+    "snippet": "Condition Used - Excellent, like new Barely used. KSL Classifieds makes it easy to buy and sell. Skid Steer $59,500|2023",
+    "source": "ksl",
+    "year": "2023",
+    "price": 59500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-11T12:00:29.183Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81182388",
+    "type": "skid_steer",
+    "title": "Compact Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/81182388",
+    "snippet": "Compact Skid Steer West Valley City, UT 2 Days 606 6 $37,500.00. Used - Excellent, Used Range from 50 hp to over 74 hp. Price: $39,500 Private seller, call at ...",
+    "source": "ksl",
+    "year": null,
+    "price": 37500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-11T12:00:29.183Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78034316",
+    "type": "skid_steer",
+    "title": "Bobcat Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/78034316",
+    "snippet": "Bobcat Skid Steer Eagle Mountain, UT Just Now 737 24 $35,000.00. Used - Good, minimal wear 2017 skid / Bobcat with only 435 hours. Call Mike at 801-602-1227. ...",
+    "source": "ksl",
+    "year": "2017",
+    "price": 35000,
+    "hours": 435,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-11T12:00:29.183Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81369204",
+    "type": "skid_steer",
+    "title": "Bundle Deal for 2 Brand New Chinese Mini Skid Steers",
+    "url": "https://classifieds.ksl.com/listing/81369204",
+    "snippet": "2 brand new Chinese Mini Skid Steers for sale together or separate! Bundle - $8,000 Together. Separate - $4,250 Each. They are both from the brand Future, ...",
+    "source": "ksl",
+    "year": null,
+    "price": 8000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-11T12:00:29.183Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78683842",
@@ -82,48 +166,6 @@
     "make": "Case",
     "model": null,
     "scrapedAt": "2026-06-11T04:00:20.018Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81327711",
-    "type": "skid_steer",
-    "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81327711",
-    "snippet": "Condition Used - Excellent, like new Barely used. KSL Classifieds makes it easy to buy and sell. Skid Steer $59,500|2023",
-    "source": "ksl",
-    "year": "2023",
-    "price": 59500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-11T04:00:20.018Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81182388",
-    "type": "skid_steer",
-    "title": "Compact Skid Steer",
-    "url": "https://classifieds.ksl.com/listing/81182388",
-    "snippet": "Compact Skid Steer West Valley City, UT 2 Days 606 6 $37,500.00. Used - Excellent, Used Range from 50 hp to over 74 hp. Price: $39,500 Private seller, call at ...",
-    "source": "ksl",
-    "year": null,
-    "price": 37500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-11T04:00:20.018Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81389412",
-    "type": "trailer",
-    "title": "Utility Trailer",
-    "url": "https://classifieds.ksl.com/listing/81389412",
-    "snippet": "Utility Trailer in Marriott-Slaterville City, UT on KSL Classifieds. View a ... Used 7 Times. 2026 Big Tex Trailers 30' GN. $17,125|2026 Big Tex Trailers ...",
-    "source": "ksl",
-    "year": "2026",
-    "price": 17125,
-    "hours": null,
-    "make": "Big Tex",
-    "model": null,
-    "scrapedAt": "2026-06-11T00:00:51.525Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/73889137",
@@ -196,20 +238,6 @@
     "scrapedAt": "2026-06-10T16:00:30.194Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/78034316",
-    "type": "skid_steer",
-    "title": "Bobcat Skid Steer",
-    "url": "https://classifieds.ksl.com/listing/78034316",
-    "snippet": "Bobcat Skid Steer Eagle Mountain, UT Just Now 737 24 $35,000.00. Used - Good, minimal wear 2017 skid / Bobcat with only 435 hours. Call Mike at 801-602-1227. ...",
-    "source": "ksl",
-    "year": "2017",
-    "price": 35000,
-    "hours": 435,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-10T16:00:27.961Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/80877091",
     "type": "skid_steer",
     "title": "12 - 16.5 Tire Chains | Skid Steer Loaders",
@@ -246,20 +274,6 @@
     "source": "ksl",
     "year": null,
     "price": 500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-10T12:01:44.807Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81406232",
-    "type": "trailer",
-    "title": "Utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81406232",
-    "snippet": "Utility trailer Erda, UT Just Now 62 2 $400.00 Utility. Condition Used - Good, minimal wear Trailer for sale. KSL Classifieds makes it easy to buy and sell ...",
-    "source": "ksl",
-    "year": null,
-    "price": 400,
     "hours": null,
     "make": null,
     "model": null,
@@ -348,20 +362,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-09T12:01:49.758Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81369204",
-    "type": "skid_steer",
-    "title": "Bundle Deal for 2 Brand New Chinese Mini Skid Steers",
-    "url": "https://classifieds.ksl.com/listing/81369204",
-    "snippet": "2 brand new Chinese Mini Skid Steers for sale together or separate! Bundle - $8,000 Together. Separate - $4,250 Each. They are both from the brand Future, ...",
-    "source": "ksl",
-    "year": null,
-    "price": 8000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-09T12:01:42.065Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81331273",
