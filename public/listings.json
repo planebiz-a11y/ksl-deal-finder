@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81369204",
+    "type": "skid_steer",
+    "title": "Bundle Deal for 2 Brand New Chinese Mini Skid Steers",
+    "url": "https://classifieds.ksl.com/listing/81369204",
+    "snippet": "2 brand new Chinese Mini Skid Steers for sale together or separate! Bundle - $8,000 Together. Separate - $4,250 Each. They are both from the brand Future, ...",
+    "source": "ksl",
+    "year": null,
+    "price": 8000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-12T00:01:26.395Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81300412",
     "type": "trailer",
     "title": "Wells Cargo 12' Enclosed Trailer",
@@ -136,20 +150,6 @@
     "price": 37000,
     "hours": null,
     "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-11T16:00:37.972Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81369204",
-    "type": "skid_steer",
-    "title": "Bundle Deal for 2 Brand New Chinese Mini Skid Steers",
-    "url": "https://classifieds.ksl.com/listing/81369204",
-    "snippet": "New Chinese Mini Skid Steers Willard, UT 2 Hours 19 2 $8,000.00. Bundle - $8,000 Together Separate - $4,250. KSL Classifieds makes it easy to buy and sell with ...",
-    "source": "ksl",
-    "year": null,
-    "price": 8000,
-    "hours": 2,
-    "make": null,
     "model": null,
     "scrapedAt": "2026-06-11T16:00:37.972Z"
   },
