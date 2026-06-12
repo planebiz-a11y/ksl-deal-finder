@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81369204",
-    "type": "skid_steer",
-    "title": "Bundle Deal for 2 Brand New Chinese Mini Skid Steers",
-    "url": "https://classifieds.ksl.com/listing/81369204",
-    "snippet": "2 brand new Chinese Mini Skid Steers for sale together or separate! Bundle - $8,000 Together. Separate - $4,250 Each. They are both from the brand Future, ...",
-    "source": "ksl",
-    "year": null,
-    "price": 8000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-12T00:01:26.395Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81300412",
     "type": "trailer",
     "title": "Wells Cargo 12' Enclosed Trailer",
@@ -25,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-11T20:00:34.200Z"
+    "scrapedAt": "2026-06-12T04:00:34.154Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81225203",
@@ -39,7 +25,105 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-11T20:00:34.200Z"
+    "scrapedAt": "2026-06-12T04:00:34.154Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81406232",
+    "type": "trailer",
+    "title": "Utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81406232",
+    "snippet": "Utility trailer Erda, UT Just Now 62 2 $400.00 Utility. Condition Used - Good, minimal wear Trailer for sale. KSL Classifieds makes it easy to buy and sell ...",
+    "source": "ksl",
+    "year": null,
+    "price": 400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-12T04:00:34.154Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81361850",
+    "type": "trailer",
+    "title": "Carry-On utility trailer 8 x 5",
+    "url": "https://classifieds.ksl.com/listing/81361850",
+    "snippet": "Condition Used - Fair, normal wear 12 inch tires. Asking $700 or best reasonable offer",
+    "source": "ksl",
+    "year": null,
+    "price": 700,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-12T04:00:34.154Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81332385",
+    "type": "mini_excavator",
+    "title": "341 Bobcat Excavator with additional attachments",
+    "url": "https://classifieds.ksl.com/listing/81332385",
+    "snippet": "Condition Used - Fair, normal wear 341 Bobcat Excavator jackhammer, leveling blade, two bucket sizes. has around 3,700 total machine hours. Hours - $79,900",
+    "source": "ksl",
+    "year": null,
+    "price": 79900,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-12T04:00:28.554Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81382625",
+    "type": "mini_excavator",
+    "title": "Mini x, excavator",
+    "url": "https://classifieds.ksl.com/listing/81382625",
+    "snippet": "Mini x, excavator Roy, UT Just Now 5 0 $3,000.00. Condition Used - Good, minimal wear attachments, auger, extra bucket, and more. KSL Classifieds makes it easy ...",
+    "source": "ksl",
+    "year": null,
+    "price": 3000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-12T04:00:28.554Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81408889",
+    "type": "mini_excavator",
+    "title": "New 2026 ME20 Diesel Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81408889",
+    "snippet": "New 2026 ME20 Diesel Mini Excavator West Jordan, UT Just Now 19 1 $10,800.00. It has Swing Boom, 32 in Stick, Backfill Blade, KSL Classifieds makes it easy to ...",
+    "source": "ksl",
+    "year": "2026",
+    "price": 10800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-12T04:00:28.554Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81289723",
+    "type": "mini_excavator",
+    "title": "Mini Skid Steer JQ400 | Excavators",
+    "url": "https://classifieds.ksl.com/listing/81289723",
+    "snippet": "Mini Skid Steer JQ400 Richmond, UT 14 Days 184 11 $4,500.00. Condition Used - Good, minimal wear steer loader with only 34.5 hours. approximately 250–300 tons ...",
+    "source": "ksl",
+    "year": null,
+    "price": 4500,
+    "hours": 5,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-12T04:00:28.554Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81369204",
+    "type": "skid_steer",
+    "title": "Bundle Deal for 2 Brand New Chinese Mini Skid Steers",
+    "url": "https://classifieds.ksl.com/listing/81369204",
+    "snippet": "2 brand new Chinese Mini Skid Steers for sale together or separate! Bundle - $8,000 Together. Separate - $4,250 Each. They are both from the brand Future, ...",
+    "source": "ksl",
+    "year": null,
+    "price": 8000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-12T04:00:26.667Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80526562",
@@ -168,20 +252,6 @@
     "scrapedAt": "2026-06-11T12:00:32.565Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81406232",
-    "type": "trailer",
-    "title": "Utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81406232",
-    "snippet": "Utility trailer Erda, UT Just Now 62 2 $400.00 Utility. Condition Used - Good, minimal wear Trailer for sale. KSL Classifieds makes it easy to buy and sell ...",
-    "source": "ksl",
-    "year": null,
-    "price": 400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-11T12:00:32.565Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81289671",
     "type": "mini_excavator",
     "title": "Mini Excavator",
@@ -264,20 +334,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-10T20:00:51.477Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81361850",
-    "type": "trailer",
-    "title": "Carry-On utility trailer 8 x 5",
-    "url": "https://classifieds.ksl.com/listing/81361850",
-    "snippet": "Condition Used - Fair, normal wear 12 inch tires. Asking $700 or best reasonable offer",
-    "source": "ksl",
-    "year": null,
-    "price": 700,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-10T16:00:32.306Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81369015",
@@ -572,20 +628,6 @@
     "make": "John Deere",
     "model": null,
     "scrapedAt": "2026-06-08T04:00:40.991Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81332385",
-    "type": "mini_excavator",
-    "title": "341 Bobcat Excavator with additional attachments",
-    "url": "https://classifieds.ksl.com/listing/81332385",
-    "snippet": "Condition Used - Fair, normal wear 341 Bobcat Excavator jackhammer, leveling blade, two bucket sizes. has around 3,700 total machine hours. Hours - $79,900",
-    "source": "ksl",
-    "year": null,
-    "price": 79900,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-07T16:00:06.968Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81259557",
