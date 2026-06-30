@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T12:00:53.906Z"
+    "scrapedAt": "2026-06-30T16:00:47.797Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81403698",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T12:00:53.906Z"
+    "scrapedAt": "2026-06-30T16:00:47.797Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81437925",
@@ -39,7 +39,91 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T12:00:53.906Z"
+    "scrapedAt": "2026-06-30T16:00:47.797Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "Tremonton, UT on KSL Classifieds. View. PRICE $5,200.00 -2025. Call us today at 435-257-7000",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-30T16:00:42.983Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T16:00:42.983Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81408889",
+    "type": "mini_excavator",
+    "title": "New 2026 ME20 Diesel Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81408889",
+    "snippet": "New 2026 ME20 Diesel Mini Excavator in West Jordan, UT on KSL Classifieds. 1 $10,800.00 mini excavator $34,000|Bobcat",
+    "source": "ksl",
+    "year": "2026",
+    "price": 10800,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-30T16:00:42.983Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80082534",
+    "type": "mini_excavator",
+    "title": "MDI YUTANI 320BLC | Excavators",
+    "url": "https://classifieds.ksl.com/listing/80082534",
+    "snippet": "Ogden, UT on KSL Classifieds. View a wide selection of Excavators. Condition Used - Good, minimal wear. Mini Excavator w/ 9 attachments $6,900|New. Mini ...",
+    "source": "ksl",
+    "year": null,
+    "price": 6900,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T16:00:42.983Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78754898",
+    "type": "mini_excavator",
+    "title": "Brand New Mini Excavators and Mini skid steers",
+    "url": "https://classifieds.ksl.com/listing/78754898",
+    "snippet": "Brand New Mini Excavators and Mini skid steers in West Jordan, UT on KSL Classifieds. Mini Excavator $5,000|Bobcat",
+    "source": "ksl",
+    "year": null,
+    "price": 5000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-30T16:00:42.983Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81426765",
+    "type": "mini_excavator",
+    "title": "2014 IHI 30V4 Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/81426765",
+    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
+    "source": "ksl",
+    "year": "2014",
+    "price": 23500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T16:00:42.983Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -84,34 +168,6 @@
     "scrapedAt": "2026-06-30T12:00:35.005Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-30T12:00:35.005Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "mini_excavator",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
-    "source": "ksl",
-    "year": null,
-    "price": 19000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T12:00:35.005Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81425475",
     "type": "trailer",
     "title": "Utility trailer",
@@ -124,62 +180,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-30T08:01:08.494Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81408889",
-    "type": "mini_excavator",
-    "title": "New 2026 ME20 Diesel Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81408889",
-    "snippet": "New 2026 ME20 Diesel Mini Excavator in West Jordan, UT on KSL Classifieds. 1 $10,800.00 mini excavator $34,000|Bobcat",
-    "source": "ksl",
-    "year": "2026",
-    "price": 10800,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:05.564Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80082534",
-    "type": "mini_excavator",
-    "title": "MDI YUTANI 320BLC | Excavators",
-    "url": "https://classifieds.ksl.com/listing/80082534",
-    "snippet": "Ogden, UT on KSL Classifieds. View a wide selection of Excavators. Condition Used - Good, minimal wear. Mini Excavator w/ 9 attachments $6,900|New. Mini ...",
-    "source": "ksl",
-    "year": null,
-    "price": 6900,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:05.564Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78754898",
-    "type": "mini_excavator",
-    "title": "Brand New Mini Excavators and Mini skid steers",
-    "url": "https://classifieds.ksl.com/listing/78754898",
-    "snippet": "Brand New Mini Excavators and Mini skid steers in West Jordan, UT on KSL Classifieds. Mini Excavator $5,000|Bobcat",
-    "source": "ksl",
-    "year": null,
-    "price": 5000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:05.564Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81426765",
-    "type": "mini_excavator",
-    "title": "2014 IHI 30V4 Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/81426765",
-    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
-    "source": "ksl",
-    "year": "2014",
-    "price": 23500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:05.564Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76144845",
