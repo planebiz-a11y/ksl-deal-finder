@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T16:00:47.797Z"
+    "scrapedAt": "2026-06-30T20:00:43.693Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81403698",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T16:00:47.797Z"
+    "scrapedAt": "2026-06-30T20:00:43.693Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81437925",
@@ -39,35 +39,119 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T16:00:47.797Z"
+    "scrapedAt": "2026-06-30T20:00:43.693Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80361081",
     "type": "mini_excavator",
     "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
     "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "Tremonton, UT on KSL Classifieds. View. PRICE $5,200.00 -2025. Call us today at 435-257-7000",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
     "source": "ksl",
     "year": "2025",
     "price": 5200,
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-06-30T16:00:42.983Z"
+    "scrapedAt": "2026-06-30T20:00:41.925Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "mini_excavator",
+    "type": "skid_steer",
     "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
     "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "snippet": "Skid Steer Tires! Plain City, UT 10 Days 614 74 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
     "source": "ksl",
     "year": null,
-    "price": 19000,
+    "price": 155,
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T16:00:42.983Z"
+    "scrapedAt": "2026-06-30T20:00:32.083Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78034316",
+    "type": "skid_steer",
+    "title": "Bobcat Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/78034316",
+    "snippet": "Bobcat Skid Steer Eagle Mountain, UT Just Now 737 24 $35,000.00. Used - Good, minimal wear 2017 skid / Bobcat with only 435 hours. Call Mike at 801-602-1227. ...",
+    "source": "ksl",
+    "year": "2017",
+    "price": 35000,
+    "hours": 435,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-30T20:00:32.083Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81412664",
+    "type": "skid_steer",
+    "title": "2023 Bobcat S64 Skidsteer | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81412664",
+    "snippet": "2023 Bobcat S64 Skidsteer South Jordan, UT 34 Min 3 0 $48,000.00. Condition Used - Good, minimal wear ・ 505 Hours Located In South Jordan, Utah ・ lassifieds ...",
+    "source": "ksl",
+    "year": "2023",
+    "price": 48000,
+    "hours": 505,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-30T20:00:32.083Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79817039",
+    "type": "skid_steer",
+    "title": "Skid Steer Mount Block Crusher | Other",
+    "url": "https://classifieds.ksl.com/listing/79817039",
+    "snippet": "Skid Steer Mount Block Crusher St. George, UT 10 Hours 388 5 $3,500.00. KSL Classifieds makes it easy to buy and sell with peace of mind.",
+    "source": "ksl",
+    "year": null,
+    "price": 3500,
+    "hours": 10,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T20:00:32.083Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/77924671",
+    "type": "skid_steer",
+    "title": "Skid Steer Auger Bit",
+    "url": "https://classifieds.ksl.com/listing/77924671",
+    "snippet": "Skid Steer Auger Bit Woods Cross, UT 4 Days 393 6 $1,100.00. STEER AUGER SET 3 BITS $1,975| 66 OR 78 IN SKID STEER",
+    "source": "ksl",
+    "year": null,
+    "price": 1100,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T20:00:32.083Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80692292",
+    "type": "skid_steer",
+    "title": "SKID STEER GRADER BLADE",
+    "url": "https://classifieds.ksl.com/listing/80692292",
+    "snippet": "SKID STEER GRADER BLADE Syracuse, UT 10 Days 264 9 $2,800.00. KSL Classifieds makes it easy to buy and sell with peace of mind. $2,800.00 SKID STEER",
+    "source": "ksl",
+    "year": null,
+    "price": 2800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T20:00:32.083Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/72717735",
+    "type": "skid_steer",
+    "title": "New Holland C314 Mini Track Loader / Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/72717735",
+    "snippet": "New Holland C314 Mini Track Loader / Skid Steer Springville, UT 10 Days 427 11 $41,850.00 … 801-362-3249 65 N 2000 W Springville, UT 84663. KSL Classifieds ...",
+    "source": "ksl",
+    "year": "2000",
+    "price": 41850,
+    "hours": null,
+    "make": "New Holland",
+    "model": null,
+    "scrapedAt": "2026-06-30T20:00:32.083Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81408889",
@@ -294,20 +378,6 @@
     "scrapedAt": "2026-06-13T00:01:34.342Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/78034316",
-    "type": "skid_steer",
-    "title": "Bobcat Skid Steer",
-    "url": "https://classifieds.ksl.com/listing/78034316",
-    "snippet": "Bobcat Skid Steer Eagle Mountain, UT Just Now 737 24 $35,000.00. Used - Good, minimal wear 2017 skid / Bobcat with only 435 hours. Call Mike at 801-602-1227. ...",
-    "source": "ksl",
-    "year": "2017",
-    "price": 35000,
-    "hours": 435,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-13T00:01:34.342Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81159689",
     "type": "skid_steer",
     "title": "John Deere 318E | Skid Steer Loaders",
@@ -460,20 +530,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-11T20:00:32.553Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81412664",
-    "type": "skid_steer",
-    "title": "2023 Bobcat S64 Skidsteer | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81412664",
-    "snippet": "2023 Bobcat S64 Skidsteer South Jordan, UT 34 Min 3 0 $48,000.00. Condition Used - Good, minimal wear ・ 505 Hours Located In South Jordan, Utah ・ lassifieds ...",
-    "source": "ksl",
-    "year": "2023",
-    "price": 48000,
-    "hours": 505,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-11T20:00:29.155Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81306144",
