@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T08:01:08.494Z"
+    "scrapedAt": "2026-06-30T12:00:53.906Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81403698",
@@ -25,7 +25,91 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T08:01:08.494Z"
+    "scrapedAt": "2026-06-30T12:00:53.906Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81437925",
+    "type": "trailer",
+    "title": "Utility Trailer 8x12",
+    "url": "https://classifieds.ksl.com/listing/81437925",
+    "snippet": "Utility Trailer 8x12. Orem, UT. Just Now. 11. 0. $600.00. Utility Trailer 8x12. BU ... used one time. 'taking up room in the garage. $180|Great travel hitch ...",
+    "source": "ksl",
+    "year": null,
+    "price": 600,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T12:00:53.906Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81323776",
+    "type": "trailer",
+    "title": "4x8 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81323776",
+    "snippet": "4x8 utility trailer. Layton, UT. Just Now. 6. 1. $150.00. 4x8 utility trailer. MP ... Cute little trailer I used to haul my bike. Dont need it anymore. Payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 150,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T12:00:53.906Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81537801",
+    "type": "trailer",
+    "title": "Heavy Duty Expedition / Utility Trailer",
+    "url": "https://classifieds.ksl.com/listing/81537801",
+    "snippet": "1 Hour 20 1 $800.00 Heavy. Condition Used - Fair, normal wear … size is 4'6\" x 7'9\" Asking 800 obo Possible trades welcome",
+    "source": "ksl",
+    "year": null,
+    "price": 800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T12:00:53.906Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81438121",
+    "type": "mini_excavator",
+    "title": "Kamotsu Excavator",
+    "url": "https://classifieds.ksl.com/listing/81438121",
+    "snippet": "Kamotsu Excavator. Ogden, UT. Just Now. 10. 0. $100.00. Kamotsu Excavator. R. Rhett ... Mini Excavator. $44,990|New 4 Ton Mini Excavator. Light Tower 2019 Doosan ...",
+    "source": "ksl",
+    "year": "2019",
+    "price": 100,
+    "hours": null,
+    "make": "Doosan",
+    "model": null,
+    "scrapedAt": "2026-06-30T12:00:35.005Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-06-30T12:00:35.005Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-06-30T12:00:35.005Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81425475",
@@ -40,48 +124,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-30T08:01:08.494Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81437925",
-    "type": "trailer",
-    "title": "Utility Trailer 8x12",
-    "url": "https://classifieds.ksl.com/listing/81437925",
-    "snippet": "Utility Trailer 8x12. Orem, UT. Just Now. 11. 0. $600.00. Utility Trailer 8x12. BU ... used one time. 'taking up room in the garage. $180|Great travel hitch ...",
-    "source": "ksl",
-    "year": null,
-    "price": 600,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:08.493Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81438121",
-    "type": "mini_excavator",
-    "title": "Kamotsu Excavator",
-    "url": "https://classifieds.ksl.com/listing/81438121",
-    "snippet": "Kamotsu Excavator in Ogden, UT on KSL Classifieds. For questions call 801-725-2563 or 801-745-7568. New 4 Ton Mini Excavator $44,990|New 4 Ton Mini Excavator",
-    "source": "ksl",
-    "year": null,
-    "price": 44990,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:05.564Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "Tremonton, UT on KSL Classifieds. View. PRICE $5,200.00 -2025. Call us today at 435-257-7000",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:05.564Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81408889",
@@ -742,20 +784,6 @@
     "scrapedAt": "2026-06-08T20:00:06.157Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "skid_steer",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Skid Steer Tires! Plain City, UT 3 Days 487 72 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
-    "source": "ksl",
-    "year": null,
-    "price": 155,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-08T20:00:05.192Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81306152",
     "type": "trailer",
     "title": "(Used) BIG BUBBA 6 x 10 Landscape Utility Trailer with 18 ...",
@@ -1020,20 +1048,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-06-02T16:01:12.846Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81323776",
-    "type": "trailer",
-    "title": "4x8 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81323776",
-    "snippet": "4x8 utility trailer. Layton, UT. Just Now. 6. 1. $150.00. 4x8 utility trailer. MP ... Cute little trailer I used to haul my bike. Dont need it anymore. Payment ...",
-    "source": "ksl",
-    "year": null,
-    "price": 150,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-01T16:01:31.929Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81333072",
