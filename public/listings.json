@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-01T08:00:59.558Z"
+    "scrapedAt": "2026-07-01T12:00:55.397Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81437925",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-01T08:00:59.558Z"
+    "scrapedAt": "2026-07-01T12:00:55.397Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81423565",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-01T08:00:59.558Z"
+    "scrapedAt": "2026-07-01T12:00:55.397Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80361081",
@@ -53,7 +53,21 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-07-01T08:00:52.160Z"
+    "scrapedAt": "2026-07-01T12:00:53.506Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T12:00:53.506Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/70155380",
@@ -152,20 +166,6 @@
     "make": "Kubota",
     "model": null,
     "scrapedAt": "2026-07-01T04:00:26.420Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "skid_steer",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Skid Steer Tires! Plain City, UT 10 Days 614 74 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
-    "source": "ksl",
-    "year": null,
-    "price": 155,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-01T04:00:26.419Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78034316",
