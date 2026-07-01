@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81403698",
-    "type": "trailer",
-    "title": "Covered utility trailer | Trailers: ATV/Boat/Snowmobile",
-    "url": "https://classifieds.ksl.com/listing/81403698",
-    "snippet": "Used 8'X5' covered trailer. Plywood floor and all sides. Lights work has spare tire. Payment Calculator. Estimate your monthly payment. $39.20/mo est.",
-    "source": "ksl",
-    "year": null,
-    "price": 39,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-01T16:00:20.055Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81437925",
     "type": "trailer",
     "title": "Utility Trailer 8x12",
@@ -25,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-01T16:00:20.055Z"
+    "scrapedAt": "2026-07-01T20:00:59.566Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81423565",
@@ -39,21 +25,77 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-01T16:00:20.055Z"
+    "scrapedAt": "2026-07-01T20:00:59.566Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81459595",
+    "type": "trailer",
+    "title": "Wells Cargo 24' Revv Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81459595",
+    "snippet": "Wells Cargo 24' Revv Cargo Trailer. Kaysville, UT. 2 Days. 42. 0. $19,499.00. Wells Cargo 24' Revv Cargo Trailer. S. Sales. City: Kaysville.",
+    "source": "ksl",
+    "year": null,
+    "price": 19499,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T20:00:59.566Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80361081",
     "type": "mini_excavator",
     "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
     "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "Tremonton, UT on KSL Classifieds. View. PRICE $5,200.00 -2025. Call us today at 435-257-7000",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
     "source": "ksl",
     "year": "2025",
     "price": 5200,
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-07-01T16:00:10.871Z"
+    "scrapedAt": "2026-07-01T20:00:57.864Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T20:00:57.864Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/70155380",
+    "type": "skid_steer",
+    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
+    "url": "https://classifieds.ksl.com/listing/70155380",
+    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 4000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T20:00:36.287Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81403698",
+    "type": "trailer",
+    "title": "Covered utility trailer | Trailers: ATV/Boat/Snowmobile",
+    "url": "https://classifieds.ksl.com/listing/81403698",
+    "snippet": "Used 8'X5' covered trailer. Plywood floor and all sides. Lights work has spare tire. Payment Calculator. Estimate your monthly payment. $39.20/mo est.",
+    "source": "ksl",
+    "year": null,
+    "price": 39,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T16:00:20.055Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80082534",
@@ -96,34 +138,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-01T16:00:10.871Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "mini_excavator",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
-    "source": "ksl",
-    "year": null,
-    "price": 19000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-01T12:00:53.506Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/70155380",
-    "type": "skid_steer",
-    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
-    "url": "https://classifieds.ksl.com/listing/70155380",
-    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 4000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-01T08:00:28.056Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81459595/?emailSeller=1",
@@ -232,20 +246,6 @@
     "source": "ksl",
     "year": null,
     "price": 3800,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-01T00:00:22.132Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81459595",
-    "type": "trailer",
-    "title": "Wells Cargo 24' Revv Cargo Trailer",
-    "url": "https://classifieds.ksl.com/listing/81459595",
-    "snippet": "Wells Cargo 24' Revv Cargo Trailer. Kaysville, UT. 2 Days. 42. 0. $19,499.00. Wells Cargo 24' Revv Cargo Trailer. S. Sales. City: Kaysville.",
-    "source": "ksl",
-    "year": null,
-    "price": 19499,
     "hours": null,
     "make": null,
     "model": null,
