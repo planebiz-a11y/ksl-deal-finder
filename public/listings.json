@@ -1,19 +1,5 @@
 [
   {
-    "id": "https://classifieds.ksl.com/listing/81459595/?emailSeller=1",
-    "type": "trailer",
-    "title": "Wells Cargo 24' Revv Cargo Trailer",
-    "url": "https://classifieds.ksl.com/listing/81459595/?emailSeller=1",
-    "snippet": "Wells Cargo 24' Revv Cargo Trailer. Kaysville, UT. 1 Day. 36. 0. $19,499.00. Wells Cargo 24' Revv Cargo Trailer. S. Sales. City: Kaysville.",
-    "source": "ksl",
-    "year": null,
-    "price": 19499,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T20:00:43.693Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81403698",
     "type": "trailer",
     "title": "Covered utility trailer | Trailers: ATV/Boat/Snowmobile",
@@ -25,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-06-30T20:00:43.693Z"
+    "scrapedAt": "2026-07-01T00:00:22.132Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81437925",
@@ -36,6 +22,62 @@
     "source": "ksl",
     "year": null,
     "price": 600,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T00:00:22.132Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81425475",
+    "type": "trailer",
+    "title": "Utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81425475",
+    "snippet": "Utility trailer. Hooper, UT. 10 Days. 40. 1. $3,800.00. Utility trailer. R. Ryder ... Description. Condition. Used - Excellent, like new. Payment Types Accepted.",
+    "source": "ksl",
+    "year": null,
+    "price": 3800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T00:00:22.132Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81459595",
+    "type": "trailer",
+    "title": "Wells Cargo 24' Revv Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81459595",
+    "snippet": "Wells Cargo 24' Revv Cargo Trailer. Kaysville, UT. 2 Days. 42. 0. $19,499.00. Wells Cargo 24' Revv Cargo Trailer. S. Sales. City: Kaysville.",
+    "source": "ksl",
+    "year": null,
+    "price": 19499,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T00:00:22.132Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-01T00:00:14.056Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81459595/?emailSeller=1",
+    "type": "trailer",
+    "title": "Wells Cargo 24' Revv Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81459595/?emailSeller=1",
+    "snippet": "Wells Cargo 24' Revv Cargo Trailer. Kaysville, UT. 1 Day. 36. 0. $19,499.00. Wells Cargo 24' Revv Cargo Trailer. S. Sales. City: Kaysville.",
+    "source": "ksl",
+    "year": null,
+    "price": 19499,
     "hours": null,
     "make": null,
     "model": null,
@@ -54,20 +96,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-30T20:00:41.925Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "skid_steer",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Skid Steer Tires! Plain City, UT 10 Days 614 74 $155.00. We sell tires and tracks for all equipment. 12x16.5 10x16.5 starting as low as 155.00 per tire. KSL ...",
-    "source": "ksl",
-    "year": null,
-    "price": 155,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T20:00:32.083Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78034316",
@@ -250,20 +278,6 @@
     "make": "Doosan",
     "model": null,
     "scrapedAt": "2026-06-30T12:00:35.005Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81425475",
-    "type": "trailer",
-    "title": "Utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81425475",
-    "snippet": "Utility trailer. Hooper, UT. 10 Days. 40. 1. $3,800.00. Utility trailer. R. Ryder ... Description. Condition. Used - Excellent, like new. Payment Types Accepted.",
-    "source": "ksl",
-    "year": null,
-    "price": 3800,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-30T08:01:08.494Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/76144845",
