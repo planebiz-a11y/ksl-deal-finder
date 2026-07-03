@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-02T20:01:12.548Z"
+    "scrapedAt": "2026-07-03T00:00:57.944Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-02T20:01:12.548Z"
+    "scrapedAt": "2026-07-03T00:00:57.944Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81459595",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-02T20:01:12.548Z"
+    "scrapedAt": "2026-07-03T00:00:57.944Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81425475",
@@ -53,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-02T20:01:12.548Z"
+    "scrapedAt": "2026-07-03T00:00:57.944Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/65777026",
@@ -67,7 +67,119 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-02T20:01:09.328Z"
+    "scrapedAt": "2026-07-03T00:00:39.288Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:39.288Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/70155380",
+    "type": "skid_steer",
+    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
+    "url": "https://classifieds.ksl.com/listing/70155380",
+    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 4000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:37.739Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/77924671",
+    "type": "skid_steer",
+    "title": "Skid Steer Auger Bit",
+    "url": "https://classifieds.ksl.com/listing/77924671",
+    "snippet": "View a wide selection of Skid Steer Loaders. AUGER SET 3 BITS $1,975| 66 OR 78 IN SKID STEER",
+    "source": "ksl",
+    "year": null,
+    "price": 1975,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:37.739Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80692292",
+    "type": "skid_steer",
+    "title": "SKID STEER GRADER BLADE",
+    "url": "https://classifieds.ksl.com/listing/80692292",
+    "snippet": "View a wide selection of Skid Steer Loaders. KSL Classifieds. $2,800.00 SKID STEER",
+    "source": "ksl",
+    "year": null,
+    "price": 2800,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:37.739Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79817039",
+    "type": "skid_steer",
+    "title": "Skid Steer Mount Block Crusher | Other",
+    "url": "https://classifieds.ksl.com/listing/79817039",
+    "snippet": "Skid Steer Mount Block Crusher in St. George, UT on KSL Classifieds. 5 $3,500.00 Skid Steer. KSL Classifieds makes it easy to buy and sell with peace of mind.",
+    "source": "ksl",
+    "year": null,
+    "price": 3500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:37.739Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78034316",
+    "type": "skid_steer",
+    "title": "Bobcat Skid Steer",
+    "url": "https://classifieds.ksl.com/listing/78034316",
+    "snippet": "Bobcat Skid Steer in Eagle Mountain, UT on KSL Classifieds. Just Now 737 24 $35,000.00. Used - Good, minimal wear 2017 skid / Bobcat with only 435 hours. Call ...",
+    "source": "ksl",
+    "year": "2017",
+    "price": 35000,
+    "hours": 435,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:37.739Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81429157",
+    "type": "skid_steer",
+    "title": "Mini bobcat skid steer - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81429157",
+    "snippet": "Mini bobcat skid steer in Benjamin, UT on KSL Classifieds. Condition Used - Fair, normal wear. Skid Steer $49,000|2024",
+    "source": "ksl",
+    "year": "2024",
+    "price": 49000,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:37.739Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81327711",
+    "type": "skid_steer",
+    "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
+    "url": "https://classifieds.ksl.com/listing/81327711",
+    "snippet": "View a wide selection of Skid Steer Loaders. Condition Used - Excellent, like new Barely used. Skid Steer $33,000|Caterpillar",
+    "source": "ksl",
+    "year": null,
+    "price": 33000,
+    "hours": null,
+    "make": "Caterpillar",
+    "model": null,
+    "scrapedAt": "2026-07-03T00:00:37.739Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81423565",
@@ -98,34 +210,6 @@
     "scrapedAt": "2026-07-02T16:01:31.778Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-02T16:01:24.377Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/70155380",
-    "type": "skid_steer",
-    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
-    "url": "https://classifieds.ksl.com/listing/70155380",
-    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 4000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-02T16:00:56.347Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/78272213",
     "type": "trailer",
     "title": "Trailer Ramp | Utility Trailers",
@@ -138,76 +222,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-02T08:01:34.824Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/77924671",
-    "type": "skid_steer",
-    "title": "Skid Steer Auger Bit",
-    "url": "https://classifieds.ksl.com/listing/77924671",
-    "snippet": "View a wide selection of Skid Steer Loaders. AUGER SET 3 BITS $1,975| 66 OR 78 IN SKID STEER",
-    "source": "ksl",
-    "year": null,
-    "price": 1975,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-02T08:01:31.882Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80692292",
-    "type": "skid_steer",
-    "title": "SKID STEER GRADER BLADE",
-    "url": "https://classifieds.ksl.com/listing/80692292",
-    "snippet": "View a wide selection of Skid Steer Loaders. KSL Classifieds. $2,800.00 SKID STEER",
-    "source": "ksl",
-    "year": null,
-    "price": 2800,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-02T08:01:31.881Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79817039",
-    "type": "skid_steer",
-    "title": "Skid Steer Mount Block Crusher | Other",
-    "url": "https://classifieds.ksl.com/listing/79817039",
-    "snippet": "Skid Steer Mount Block Crusher in St. George, UT on KSL Classifieds. 5 $3,500.00 Skid Steer. KSL Classifieds makes it easy to buy and sell with peace of mind.",
-    "source": "ksl",
-    "year": null,
-    "price": 3500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-02T08:01:31.881Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78034316",
-    "type": "skid_steer",
-    "title": "Bobcat Skid Steer",
-    "url": "https://classifieds.ksl.com/listing/78034316",
-    "snippet": "Bobcat Skid Steer in Eagle Mountain, UT on KSL Classifieds. Just Now 737 24 $35,000.00. Used - Good, minimal wear 2017 skid / Bobcat with only 435 hours. Call ...",
-    "source": "ksl",
-    "year": "2017",
-    "price": 35000,
-    "hours": 435,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-02T08:01:31.881Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81429157",
-    "type": "skid_steer",
-    "title": "Mini bobcat skid steer - KSL Classifieds",
-    "url": "https://classifieds.ksl.com/listing/81429157",
-    "snippet": "Mini bobcat skid steer in Benjamin, UT on KSL Classifieds. Condition Used - Fair, normal wear. Skid Steer $49,000|2024",
-    "source": "ksl",
-    "year": "2024",
-    "price": 49000,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-02T08:01:31.881Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81403698",
@@ -488,20 +502,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-13T00:01:34.342Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81327711",
-    "type": "skid_steer",
-    "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
-    "url": "https://classifieds.ksl.com/listing/81327711",
-    "snippet": "Condition Used - Excellent, like new Barely used. KSL Classifieds makes it easy to buy and sell. Skid Steer $59,500|2023",
-    "source": "ksl",
-    "year": "2023",
-    "price": 59500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-06-13T00:01:34.341Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81383189",
