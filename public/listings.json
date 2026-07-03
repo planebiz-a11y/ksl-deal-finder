@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-03T00:00:57.944Z"
+    "scrapedAt": "2026-07-03T04:00:52.008Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-03T00:00:57.944Z"
+    "scrapedAt": "2026-07-03T04:00:52.008Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81459595",
@@ -39,7 +39,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-03T00:00:57.944Z"
+    "scrapedAt": "2026-07-03T04:00:52.008Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81425475",
@@ -53,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-03T00:00:57.944Z"
+    "scrapedAt": "2026-07-03T04:00:52.008Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/65777026",
@@ -67,7 +67,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-03T00:00:39.288Z"
+    "scrapedAt": "2026-07-03T04:00:41.941Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80361081",
@@ -81,7 +81,21 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-07-03T00:00:39.288Z"
+    "scrapedAt": "2026-07-03T04:00:41.941Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81374713",
+    "type": "mini_excavator",
+    "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/81374713",
+    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted ... Mini Excavator Tractor Only 838 Hours Ready To Work. $51,900|2022 JCB 55Z-1 ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 51900,
+    "hours": 838,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-07-03T04:00:41.941Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/70155380",
@@ -95,7 +109,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-03T00:00:37.739Z"
+    "scrapedAt": "2026-07-03T04:00:40.926Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/77924671",
