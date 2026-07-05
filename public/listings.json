@@ -11,7 +11,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-04T20:00:22.226Z"
+    "scrapedAt": "2026-07-05T00:01:00.745Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81537801",
@@ -25,7 +25,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-04T20:00:22.226Z"
+    "scrapedAt": "2026-07-05T00:01:00.745Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81200405",
@@ -39,7 +39,77 @@
     "hours": null,
     "make": "CAT",
     "model": null,
-    "scrapedAt": "2026-07-04T20:00:22.226Z"
+    "scrapedAt": "2026-07-05T00:01:00.744Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81423565",
+    "type": "trailer",
+    "title": "Small trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81423565",
+    "snippet": "View a wide selection of Utility Trailers. Condition Used - Fair, normal wear Small utility trailer, Utility Trailer $5,295|2026",
+    "source": "ksl",
+    "year": "2026",
+    "price": 5295,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-05T00:01:00.744Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81424501",
+    "type": "trailer",
+    "title": "Utility Trailers - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81424501",
+    "snippet": "View a wide selection of Utility Trailers. Condition Used - Poor, significant wear Trailer. Deck is 52\" x 11ft and a 5ft tongue. utility trailer $1,300|7 … 3K ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1300,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-05T00:01:00.744Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-05T00:00:50.952Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-05T00:00:50.952Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/70155380",
+    "type": "skid_steer",
+    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
+    "url": "https://classifieds.ksl.com/listing/70155380",
+    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 4000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-05T00:00:49.150Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81323776",
@@ -68,20 +138,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-04T20:00:22.226Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-04T20:00:16.806Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78034316",
@@ -140,20 +196,6 @@
     "scrapedAt": "2026-07-04T20:00:14.672Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81423565",
-    "type": "trailer",
-    "title": "Small trailer | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81423565",
-    "snippet": "View a wide selection of Utility Trailers. Condition Used - Fair, normal wear Small utility trailer, Utility Trailer $5,295|2026",
-    "source": "ksl",
-    "year": "2026",
-    "price": 5295,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-04T16:00:39.122Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81425475",
     "type": "trailer",
     "title": "Utility trailer",
@@ -166,20 +208,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-04T16:00:39.122Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "mini_excavator",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Mini Skid Steer Track Loader with Bucket and Excavator $19,000|Ditch. Most Semi Trucks $75|New … 1994 Case 580k Backhoe * price Reduced * $21,000|1994",
-    "source": "ksl",
-    "year": "1994",
-    "price": 19000,
-    "hours": null,
-    "make": "Case",
-    "model": null,
-    "scrapedAt": "2026-07-04T16:00:18.509Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81431058",
@@ -222,20 +250,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-04T16:00:18.508Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/70155380",
-    "type": "skid_steer",
-    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
-    "url": "https://classifieds.ksl.com/listing/70155380",
-    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 4000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-04T16:00:16.874Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80692292",
