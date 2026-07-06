@@ -11,7 +11,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-06T12:00:40.252Z"
+    "scrapedAt": "2026-07-06T16:00:59.009Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81423565",
+    "type": "trailer",
+    "title": "Small trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81423565",
+    "snippet": "Description. Condition. Used - Fair, normal wear. Small utility trailer, works good. Payment Calculator. Estimate your monthly payment. $9.80/mo est. Edit ...",
+    "source": "ksl",
+    "year": null,
+    "price": 9,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-06T16:00:59.009Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-06T16:00:52.173Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78272213",
@@ -22,20 +50,6 @@
     "source": "ksl",
     "year": null,
     "price": 5,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-06T12:00:40.252Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81423565",
-    "type": "trailer",
-    "title": "Small trailer | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81423565",
-    "snippet": "View a wide selection of Utility Trailers. Condition Used - Fair, normal wear Small utility trailer, Utility Trailer $5,295|2026",
-    "source": "ksl",
-    "year": "2026",
-    "price": 5295,
     "hours": null,
     "make": null,
     "model": null,
@@ -68,20 +82,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-06T12:00:40.252Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-06T12:00:27.590Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81459595",
