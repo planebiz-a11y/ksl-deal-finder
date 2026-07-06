@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81323776",
+    "type": "trailer",
+    "title": "4x8 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81323776",
+    "snippet": "4x8 utility trailer. Layton, UT. Just Now. 6. 1. $150.00. 4x8 utility trailer. MP ... Cute little trailer I used to haul my bike. Dont need it anymore. Payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 150,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-06T04:00:39.525Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81437925",
     "type": "trailer",
     "title": "Utility Trailer 8x12",
@@ -11,7 +25,63 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-06T00:00:51.206Z"
+    "scrapedAt": "2026-07-06T04:00:39.524Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81423565",
+    "type": "trailer",
+    "title": "Small trailer | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/81423565",
+    "snippet": "Description. Condition. Used - Fair, normal wear. Small utility trailer, works good. Payment Calculator. Estimate your monthly payment. $9.80/mo est. Edit ...",
+    "source": "ksl",
+    "year": null,
+    "price": 9,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-06T04:00:39.524Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/76452760",
+    "type": "mini_excavator",
+    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
+    "url": "https://classifieds.ksl.com/listing/76452760",
+    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 57400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-06T04:00:34.258Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
+    "source": "ksl",
+    "year": null,
+    "price": 19000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-06T04:00:34.258Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-06T04:00:34.258Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81459595",
@@ -26,48 +96,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-06T00:00:51.206Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81323776",
-    "type": "trailer",
-    "title": "4x8 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81323776",
-    "snippet": "4x8 utility trailer. Layton, UT. Just Now. 6. 1. $150.00. 4x8 utility trailer. MP ... Cute little trailer I used to haul my bike. Dont need it anymore. Payment ...",
-    "source": "ksl",
-    "year": null,
-    "price": 150,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-06T00:00:51.206Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/76452760",
-    "type": "mini_excavator",
-    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
-    "url": "https://classifieds.ksl.com/listing/76452760",
-    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 57400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-06T00:00:42.314Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "mini_excavator",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "... Mini Skid Steer Track Loader with Bucket and Excavator. $19,000|Ditch Witch SK750 Mini Skid Steer Track Loader with Bucket and Excavator. New 12” Aluminum ...",
-    "source": "ksl",
-    "year": null,
-    "price": 19000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-06T00:00:42.314Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81429157",
@@ -140,20 +168,6 @@
     "scrapedAt": "2026-07-06T00:00:36.439Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81423565",
-    "type": "trailer",
-    "title": "Small trailer | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/81423565",
-    "snippet": "Description. Condition. Used - Fair, normal wear. Small utility trailer, works good. Payment Calculator. Estimate your monthly payment. $9.80/mo est. Edit ...",
-    "source": "ksl",
-    "year": null,
-    "price": 9,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-05T20:00:51.908Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/78272213",
     "type": "trailer",
     "title": "Trailer Ramp | Utility Trailers",
@@ -166,20 +180,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-05T20:00:51.908Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-05T20:00:43.691Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/70155380",
