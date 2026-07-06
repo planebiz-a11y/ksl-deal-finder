@@ -11,7 +11,49 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-06T16:00:59.009Z"
+    "scrapedAt": "2026-07-06T20:01:03.040Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81459595",
+    "type": "trailer",
+    "title": "Wells Cargo 24' Revv Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81459595",
+    "snippet": "Wells Cargo 24' Revv Cargo Trailer. Kaysville, UT. 2 Days. 42. 0. $19,499.00. Wells Cargo 24' Revv Cargo Trailer. S. Sales. City: Kaysville.",
+    "source": "ksl",
+    "year": null,
+    "price": 19499,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-06T20:01:03.040Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-06T20:00:55.587Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/76452760",
+    "type": "mini_excavator",
+    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
+    "url": "https://classifieds.ksl.com/listing/76452760",
+    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 57400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-06T20:00:55.587Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81423565",
@@ -26,20 +68,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-06T16:00:59.009Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-06T16:00:52.173Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78272213",
@@ -84,20 +112,6 @@
     "scrapedAt": "2026-07-06T12:00:40.252Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81459595",
-    "type": "trailer",
-    "title": "Wells Cargo 24' Revv Cargo Trailer",
-    "url": "https://classifieds.ksl.com/listing/81459595",
-    "snippet": "Wells Cargo 24' Revv Cargo Trailer. Kaysville, UT. 2 Days. 42. 0. $19,499.00. Wells Cargo 24' Revv Cargo Trailer. S. Sales. City: Kaysville.",
-    "source": "ksl",
-    "year": null,
-    "price": 19499,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-06T08:01:31.760Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/70155380",
     "type": "skid_steer",
     "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
@@ -124,20 +138,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-06T04:00:39.525Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/76452760",
-    "type": "mini_excavator",
-    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
-    "url": "https://classifieds.ksl.com/listing/76452760",
-    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 57400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-06T04:00:34.258Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/65777026",
