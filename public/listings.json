@@ -11,7 +11,49 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-07T04:00:43.772Z"
+    "scrapedAt": "2026-07-07T08:00:43.394Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/78272213",
+    "type": "trailer",
+    "title": "Trailer Ramp | Utility Trailers",
+    "url": "https://classifieds.ksl.com/listing/78272213",
+    "snippet": "Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Payment Calculator. Estimate your monthly payment. $1.96/mo est. Edit estimated payment ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-07T08:00:43.394Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/76452760",
+    "type": "mini_excavator",
+    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
+    "url": "https://classifieds.ksl.com/listing/76452760",
+    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 57400,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-07T08:00:30.621Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80361081",
+    "type": "mini_excavator",
+    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
+    "url": "https://classifieds.ksl.com/listing/80361081",
+    "snippet": "FOR SALE: BLOW OUT PRICE $5,200.00 -2025 ARCTIC CAT ZR 200 ELECTRIC START -93 X 1.00 TRACK -ELECTRIC START -SSCC TRAIL CERTIFIED -COILOVER ADJUSTABLE SHOCKS ...",
+    "source": "ksl",
+    "year": "2025",
+    "price": 5200,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-07T08:00:30.620Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81437925",
@@ -26,20 +68,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-07T04:00:43.772Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/76452760",
-    "type": "mini_excavator",
-    "title": "NEW SANY SY35U PRO ANGLE BLADE MINI EXCAVATOR",
-    "url": "https://classifieds.ksl.com/listing/76452760",
-    "snippet": "2025 SANY SY35U PRO Mini Excavator 8500 Lbs. Machine Includes your choice of Bucket. New model with 4-way blade 5 Year/5,000 Warranty $57,400.00 Includes: ...",
-    "source": "ksl",
-    "year": "2025",
-    "price": 57400,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-07T04:00:29.302Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81200405",
@@ -82,20 +110,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-07T00:00:34.514Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/80361081",
-    "type": "mini_excavator",
-    "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
-    "url": "https://classifieds.ksl.com/listing/80361081",
-    "snippet": "Tremonton, UT on KSL Classifieds. View. PRICE $5,200.00 -2025. Call us today at 435-257-7000",
-    "source": "ksl",
-    "year": "2025",
-    "price": 5200,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-07T00:00:31.391Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80289609",
@@ -152,20 +166,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-06T20:01:03.040Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/78272213",
-    "type": "trailer",
-    "title": "Trailer Ramp | Utility Trailers",
-    "url": "https://classifieds.ksl.com/listing/78272213",
-    "snippet": "View a wide selection of Utility Trailers. Used - Good, minimal wear Single Heavy duty trailer ramp. It is made from 3\"x1 1/2\" C Channel. Utility Trailer $5, ...",
-    "source": "ksl",
-    "year": null,
-    "price": 5,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-06T12:00:40.252Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/70155380",
