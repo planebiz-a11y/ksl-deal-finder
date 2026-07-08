@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/80697599",
+    "type": "trailer",
+    "title": "2026 Look ST DLX 7X16 Enclosed Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/80697599",
+    "snippet": "Enclosed Cargo Trailer in Heber City, UT on KSL Classifieds. 1470 South Hwy 40 Heber, UT 84032 ・ $141.61/mo est ・ it easy to buy and sell with peace of mind.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 141,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-08T12:00:10.882Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/75376418",
+    "type": "mini_excavator",
+    "title": "4650 John Deere Tractor - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/75376418",
+    "snippet": "... Mini Excavator. $35,500|2021 Cat 303.5E2 CR Mini Excavator. Mitsubishi MT372D. $3,000|Mitsubishi MT372D. LS Tractor 40HP. $31,000|LS Tractor 40HP. 2024 Broce ...",
+    "source": "ksl",
+    "year": "2021",
+    "price": 35500,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-08T12:00:09.458Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81423565",
     "type": "trailer",
     "title": "Small trailer | Utility Trailers",
