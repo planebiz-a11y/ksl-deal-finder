@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T12:01:02.941Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81384313",
+    "type": "trailer",
+    "title": "2025 Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81384313",
+    "snippet": "Condition Used - Excellent, like new Payment. Utility Trailer $1,000|6x10 Utility Trailer utility trailer $1,700",
+    "source": "ksl",
+    "year": "2025",
+    "price": 1000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T12:01:02.941Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81409693",
+    "type": "trailer",
+    "title": "Trailer for sale (1 ton axle flatbed)",
+    "url": "https://classifieds.ksl.com/listing/81409693",
+    "snippet": "View a wide selection of Utility Trailers. Condition Used - Fair, normal wear 8' x 10' Heavy duty Flatbed trailer. $650 OBO.",
+    "source": "ksl",
+    "year": null,
+    "price": 650,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T12:01:02.941Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81267295",
+    "type": "mini_excavator",
+    "title": "Bobcat T140 T180 T190 T200 T250 T650 T750 T770 ...",
+    "url": "https://classifieds.ksl.com/listing/81267295",
+    "snippet": "KSL Classifieds makes it easy to buy and sell with peace of mind. Check our ... Excavator. $82,500|2015 Caterpillar 326 FL Excavator. John Deere backhoe.",
+    "source": "ksl",
+    "year": "2015",
+    "price": 82500,
+    "hours": null,
+    "make": "Caterpillar",
+    "model": null,
+    "scrapedAt": "2026-07-09T12:00:54.450Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81601010",
+    "type": "mini_excavator",
+    "title": "Toro Dingo Vibratory Plow – $6,249 OBO - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81601010",
+    "snippet": "Toro Dingo Vibratory Plow – $6249 OBO in Logan, UT on KSL Classifieds. View a wide selection of Other Industrial/Construction Equipment and ...",
+    "source": "ksl",
+    "year": null,
+    "price": 6249,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T12:00:54.450Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81426765",
     "type": "mini_excavator",
     "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
@@ -68,20 +138,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-09T00:00:34.999Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-08T20:01:13.342Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81327711",
@@ -502,20 +558,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-04T16:00:16.874Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81384313",
-    "type": "trailer",
-    "title": "2025 Cargo Trailer",
-    "url": "https://classifieds.ksl.com/listing/81384313",
-    "snippet": "Used to haul our side by side. Excellent condition. Payment Calculator. Estimate your monthly payment. $178.17/mo est. Edit estimated payment. Page Stats.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 178,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-04T12:00:50.637Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81398151",
