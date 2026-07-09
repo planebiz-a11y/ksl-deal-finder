@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T20:00:34.668Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81125720",
+    "type": "mini_excavator",
+    "title": "Dumster 3 Yard Jobsite Tip Dumpster Trashbin - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81125720",
+    "snippet": "Unused like new 3 yard Jobsite Tip Dumpster Trashbin for any forklift or skidsteer. This one is a bit bigger than average. Asking: $1600 ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1600,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T20:00:33.032Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81374713",
     "type": "mini_excavator",
     "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
@@ -26,20 +54,6 @@
     "make": "New Holland",
     "model": null,
     "scrapedAt": "2026-07-09T16:00:37.528Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-09T12:01:02.941Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81384313",
