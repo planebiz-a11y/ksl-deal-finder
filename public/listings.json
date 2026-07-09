@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81374713",
+    "type": "mini_excavator",
+    "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/81374713",
+    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted ... Mini Excavator Tractor Only 838 Hours Ready To Work. $51,900|2022 JCB 55Z-1 ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 51900,
+    "hours": 838,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-07-09T16:00:37.528Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/79945351",
+    "type": "mini_excavator",
+    "title": "New Holland E26C Mini Excavator",
+    "url": "https://classifieds.ksl.com/listing/79945351",
+    "snippet": "Brand new New Holland E26C mini excavator. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on ...",
+    "source": "ksl",
+    "year": null,
+    "price": 919,
+    "hours": null,
+    "make": "New Holland",
+    "model": null,
+    "scrapedAt": "2026-07-09T16:00:37.528Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81330212",
     "type": "trailer",
     "title": "6x10 utility trailer",
@@ -331,20 +359,6 @@
     "year": null,
     "price": 3950,
     "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-08T00:00:48.588Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81374713",
-    "type": "mini_excavator",
-    "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/81374713",
-    "snippet": "T in Spring City, UT on KSL Classifieds. Condition Used - Good, minimal wear. Mini Excavator Tractor Only 838 Hours Ready To Work $51,900|2022",
-    "source": "ksl",
-    "year": "2022",
-    "price": 51900,
-    "hours": 838,
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-08T00:00:48.588Z"
@@ -1440,20 +1454,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-06-06T00:00:29.320Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/79945351",
-    "type": "mini_excavator",
-    "title": "New Holland E26C Mini Excavator",
-    "url": "https://classifieds.ksl.com/listing/79945351",
-    "snippet": "Mini Excavator Springville, UT. Comes with a thumb, mechanical quick coupler, 12\", and 18\" buckets. $919 per month financing for 72 months on approved credit.",
-    "source": "ksl",
-    "year": null,
-    "price": 919,
-    "hours": null,
-    "make": "New Holland",
-    "model": null,
-    "scrapedAt": "2026-06-05T08:00:42.589Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81254301",
