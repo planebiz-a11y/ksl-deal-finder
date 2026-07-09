@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81426765",
+    "type": "mini_excavator",
+    "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81426765",
+    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
+    "source": "ksl",
+    "year": "2014",
+    "price": 23500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T04:00:29.745Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/80518840",
+    "type": "mini_excavator",
+    "title": "Asphalt Kettle Hot Pour Melter Crack Fill Machine Sealcoat ...",
+    "url": "https://classifieds.ksl.com/listing/80518840",
+    "snippet": "Salt Lake City, UT. Condition Used - Good, minimal wear. Price $15,950 serious inquiries only Call / Text Larry at 702-357-0865 for details, 1 Ton Mini Crawler ...",
+    "source": "ksl",
+    "year": null,
+    "price": 15950,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T04:00:29.745Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/77729328",
+    "type": "mini_excavator",
+    "title": "Mulcher head slashbuster excavator | Farm Equipment",
+    "url": "https://classifieds.ksl.com/listing/77729328",
+    "snippet": "Mulcher head slashbuster excavator in Deweyville, UT on KSL Classifieds. Condition Used - Good, minimal wear Equipped with D&M. Used Condition $1,600|John",
+    "source": "ksl",
+    "year": null,
+    "price": 1600,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-09T04:00:29.745Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/80697599",
     "type": "trailer",
     "title": "2026 Look ST DLX 7X16 Enclosed Cargo Trailer",
@@ -40,20 +82,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-08T20:01:13.342Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81426765",
-    "type": "mini_excavator",
-    "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
-    "url": "https://classifieds.ksl.com/listing/81426765",
-    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
-    "source": "ksl",
-    "year": "2014",
-    "price": 23500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-08T20:01:12.305Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81327711",
