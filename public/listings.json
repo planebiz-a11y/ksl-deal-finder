@@ -11,7 +11,21 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-09T20:00:34.668Z"
+    "scrapedAt": "2026-07-10T00:00:22.891Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81384313",
+    "type": "trailer",
+    "title": "2025 Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81384313",
+    "snippet": "Used to haul our side by side. Excellent condition. Payment Calculator. Estimate your monthly payment. $178.17/mo est. Edit estimated payment. Page Stats.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 178,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-10T00:00:22.891Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81125720",
@@ -54,20 +68,6 @@
     "make": "New Holland",
     "model": null,
     "scrapedAt": "2026-07-09T16:00:37.528Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81384313",
-    "type": "trailer",
-    "title": "2025 Cargo Trailer",
-    "url": "https://classifieds.ksl.com/listing/81384313",
-    "snippet": "Condition Used - Excellent, like new Payment. Utility Trailer $1,000|6x10 Utility Trailer utility trailer $1,700",
-    "source": "ksl",
-    "year": "2025",
-    "price": 1000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-09T12:01:02.941Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81409693",
