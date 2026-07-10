@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81374713",
+    "type": "mini_excavator",
+    "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/81374713",
+    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted ... Mini Excavator Tractor Only 838 Hours Ready To Work. $51,900|2022 JCB 55Z-1 ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 51900,
+    "hours": 838,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-07-10T08:00:06.922Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81417400",
+    "type": "mini_excavator",
+    "title": "NEW Giyi CAT 305 24\" Excavator Bucket with Teeth, add two ...",
+    "url": "https://classifieds.ksl.com/listing/81417400",
+    "snippet": "NEW Giyi CAT 305 24\" Excavator Bucket with Teeth, add two 45 mm Pins for an Extra $125 (Mini-Ex) in Herriman, UT on KSL Classifieds.",
+    "source": "ksl",
+    "year": null,
+    "price": 125,
+    "hours": null,
+    "make": "CAT",
+    "model": null,
+    "scrapedAt": "2026-07-10T08:00:06.922Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81330212",
     "type": "trailer",
     "title": "6x10 utility trailer",
@@ -68,20 +96,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-09T20:00:33.032Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81374713",
-    "type": "mini_excavator",
-    "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/81374713",
-    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted ... Mini Excavator Tractor Only 838 Hours Ready To Work. $51,900|2022 JCB 55Z-1 ...",
-    "source": "ksl",
-    "year": "2022",
-    "price": 51900,
-    "hours": 838,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-07-09T16:00:37.528Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/79945351",
@@ -516,20 +530,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-06T04:00:39.525Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81417400",
-    "type": "mini_excavator",
-    "title": "NEW Giyi CAT 305 24\" Excavator Bucket with Teeth, add two ...",
-    "url": "https://classifieds.ksl.com/listing/81417400",
-    "snippet": "NEW Giyi CAT 305 24\" Excavator Bucket with Teeth, add two 45 mm Pins for an Extra $125 (Mini-Ex) in Herriman, UT on KSL Classifieds.",
-    "source": "ksl",
-    "year": null,
-    "price": 125,
-    "hours": null,
-    "make": "CAT",
-    "model": null,
-    "scrapedAt": "2026-07-05T04:00:45.563Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78034316",
