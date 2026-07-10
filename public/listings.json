@@ -1,5 +1,47 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-10T16:00:32.880Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81384313",
+    "type": "trailer",
+    "title": "2025 Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81384313",
+    "snippet": "Condition Used - Excellent, like new Payment. Utility Trailer $1,000|6x10 Utility Trailer utility trailer $1,700",
+    "source": "ksl",
+    "year": "2025",
+    "price": 1000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-10T16:00:32.880Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81409693",
+    "type": "trailer",
+    "title": "Trailer for sale (1 ton axle flatbed)",
+    "url": "https://classifieds.ksl.com/listing/81409693",
+    "snippet": "View a wide selection of Utility Trailers. Condition Used - Fair, normal wear 8' x 10' Heavy duty Flatbed trailer. $650 OBO.",
+    "source": "ksl",
+    "year": null,
+    "price": 650,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-10T16:00:32.880Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81374713",
     "type": "mini_excavator",
     "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
@@ -26,20 +68,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-07-10T08:00:06.922Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-10T04:00:23.918Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81426765",
@@ -70,20 +98,6 @@
     "scrapedAt": "2026-07-10T04:00:22.703Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81384313",
-    "type": "trailer",
-    "title": "2025 Cargo Trailer",
-    "url": "https://classifieds.ksl.com/listing/81384313",
-    "snippet": "Used to haul our side by side. Excellent condition. Payment Calculator. Estimate your monthly payment. $178.17/mo est. Edit estimated payment. Page Stats.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 178,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-10T00:00:22.891Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81125720",
     "type": "mini_excavator",
     "title": "Dumster 3 Yard Jobsite Tip Dumpster Trashbin - KSL Classifieds",
@@ -110,20 +124,6 @@
     "make": "New Holland",
     "model": null,
     "scrapedAt": "2026-07-09T16:00:37.528Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81409693",
-    "type": "trailer",
-    "title": "Trailer for sale (1 ton axle flatbed)",
-    "url": "https://classifieds.ksl.com/listing/81409693",
-    "snippet": "View a wide selection of Utility Trailers. Condition Used - Fair, normal wear 8' x 10' Heavy duty Flatbed trailer. $650 OBO.",
-    "source": "ksl",
-    "year": null,
-    "price": 650,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-09T12:01:02.941Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81267295",
