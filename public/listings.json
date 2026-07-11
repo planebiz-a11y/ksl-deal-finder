@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-11T04:00:32.126Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81335500",
+    "type": "trailer",
+    "title": "2 Place Snowmobile Trailer - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81335500",
+    "snippet": "utility trailer 10x6 Good working condition. $500|utility trailer 10x6 Good working condition. 2022 PJ Trailers USED 7X14 3K Utility Trailer. $3,150|2022 PJ ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 500,
+    "hours": null,
+    "make": "PJ",
+    "model": null,
+    "scrapedAt": "2026-07-11T04:00:32.126Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81426765",
     "type": "mini_excavator",
     "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
@@ -40,20 +68,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-10T20:00:18.578Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-10T16:00:32.880Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81384313",
