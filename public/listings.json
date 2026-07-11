@@ -11,7 +11,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-11T12:00:54.728Z"
+    "scrapedAt": "2026-07-11T16:00:39.089Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-11T16:00:39.089Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81374713",
+    "type": "mini_excavator",
+    "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/81374713",
+    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted ... Mini Excavator Tractor Only 838 Hours Ready To Work. $51,900|2022 JCB 55Z-1 ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 51900,
+    "hours": 838,
+    "make": "JCB",
+    "model": null,
+    "scrapedAt": "2026-07-11T16:00:31.373Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81390239",
@@ -112,20 +140,6 @@
     "scrapedAt": "2026-07-11T12:00:51.484Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-11T08:00:55.278Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81427189",
     "type": "skid_steer",
     "title": "NEW Giyi 47\" Double Bale / Hay Spears (Skid Steer)",
@@ -194,20 +208,6 @@
     "make": null,
     "model": null,
     "scrapedAt": "2026-07-10T16:00:32.880Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81374713",
-    "type": "mini_excavator",
-    "title": "Dozer 650K XLT | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/81374713",
-    "snippet": "Description. Condition. Used - Good, minimal wear. Payment Types Accepted ... Mini Excavator Tractor Only 838 Hours Ready To Work. $51,900|2022 JCB 55Z-1 ...",
-    "source": "ksl",
-    "year": "2022",
-    "price": 51900,
-    "hours": 838,
-    "make": "JCB",
-    "model": null,
-    "scrapedAt": "2026-07-10T08:00:06.922Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81417400",
