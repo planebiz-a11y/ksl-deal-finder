@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81426765",
+    "type": "mini_excavator",
+    "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81426765",
+    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
+    "source": "ksl",
+    "year": "2014",
+    "price": 23500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-11T00:00:35.776Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/80361081",
     "type": "mini_excavator",
     "title": "ARCTIC CAT ZR 200 ES YOUTH SNOWMOBILE",
@@ -96,20 +110,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-07-10T08:00:06.922Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81426765",
-    "type": "mini_excavator",
-    "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
-    "url": "https://classifieds.ksl.com/listing/81426765",
-    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
-    "source": "ksl",
-    "year": "2014",
-    "price": 23500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-10T04:00:22.703Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81135339",
