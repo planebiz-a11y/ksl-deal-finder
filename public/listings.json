@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/70155380",
+    "type": "skid_steer",
+    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
+    "url": "https://classifieds.ksl.com/listing/70155380",
+    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 4000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-12T20:00:41.208Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81330212",
     "type": "trailer",
     "title": "6x10 utility trailer",
@@ -40,20 +54,6 @@
     "make": "Caterpillar",
     "model": null,
     "scrapedAt": "2026-07-12T16:00:30.968Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/70155380",
-    "type": "skid_steer",
-    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
-    "url": "https://classifieds.ksl.com/listing/70155380",
-    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 4000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-12T16:00:29.671Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81327711",
