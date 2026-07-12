@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81135339",
+    "type": "mini_excavator",
+    "title": "Tennant 6600 Street Sweeper | Heavy Equipment/Tractors",
+    "url": "https://classifieds.ksl.com/listing/81135339",
+    "snippet": "KSL Classifieds makes it easy to buy and sell with peace of mind. Check our ... Mini Excavator. $44,990|New 4 Ton Mini Excavator. 2014 John Deere 9410R ...",
+    "source": "ksl",
+    "year": "2014",
+    "price": 44990,
+    "hours": null,
+    "make": "John Deere",
+    "model": null,
+    "scrapedAt": "2026-07-12T08:00:22.206Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81330212",
     "type": "trailer",
     "title": "6x10 utility trailer",
@@ -278,20 +292,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-07-10T08:00:06.922Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81135339",
-    "type": "mini_excavator",
-    "title": "Tennant 6600 Street Sweeper | Heavy Equipment/Tractors",
-    "url": "https://classifieds.ksl.com/listing/81135339",
-    "snippet": "Tennant 6600 Street Sweeper in Eagle Mountain, UT on KSL Classifieds. Condition Used - Good, minimal wear. New 4 Ton Mini Excavator $44,990|New",
-    "source": "ksl",
-    "year": null,
-    "price": 44990,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-10T04:00:22.703Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81125720",
