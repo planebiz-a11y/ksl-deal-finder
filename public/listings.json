@@ -1,5 +1,61 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81384313",
+    "type": "trailer",
+    "title": "2025 Cargo Trailer",
+    "url": "https://classifieds.ksl.com/listing/81384313",
+    "snippet": "Used to haul our side by side. Excellent condition. Payment Calculator. Estimate your monthly payment. $178.17/mo est. Edit estimated payment. Page Stats.",
+    "source": "ksl",
+    "year": "2025",
+    "price": 178,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-12T00:01:48.611Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-12T00:01:48.611Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81426765",
+    "type": "mini_excavator",
+    "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81426765",
+    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
+    "source": "ksl",
+    "year": "2014",
+    "price": 23500,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-12T00:01:44.625Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81513374",
+    "type": "mini_excavator",
+    "title": "Yanmar Mini excavator - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81513374",
+    "snippet": "2007 yanmar mini excavator in excellent condition runs Hydraulic pump needs to be replaced will not move. only 5000 hours Asking $8500 call CJ for more info ...",
+    "source": "ksl",
+    "year": "2007",
+    "price": 8500,
+    "hours": 5000,
+    "make": "Yanmar",
+    "model": null,
+    "scrapedAt": "2026-07-12T00:01:44.625Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81327711",
     "type": "skid_steer",
     "title": "78\" HYDRA BUCKET | Skid Steer Loaders",
@@ -54,34 +110,6 @@
     "make": "Caterpillar",
     "model": null,
     "scrapedAt": "2026-07-11T20:00:35.166Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81384313",
-    "type": "trailer",
-    "title": "2025 Cargo Trailer",
-    "url": "https://classifieds.ksl.com/listing/81384313",
-    "snippet": "Used to haul our side by side. Excellent condition. Payment Calculator. Estimate your monthly payment. $178.17/mo est. Edit estimated payment. Page Stats.",
-    "source": "ksl",
-    "year": "2025",
-    "price": 178,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-11T16:00:39.089Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-11T16:00:39.089Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81374713",
@@ -180,20 +208,6 @@
     "make": "PJ",
     "model": null,
     "scrapedAt": "2026-07-11T04:00:32.126Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81426765",
-    "type": "mini_excavator",
-    "title": "2014 IHI 30V4 Mini Excavator - KSL Classifieds",
-    "url": "https://classifieds.ksl.com/listing/81426765",
-    "snippet": "2014 IHI 30V4 Mini Excavator in Hildale, UT on KSL Classifieds. $23,500.00 2014. Condition Used - Fair, normal wear 2014 IHI. Hours: 2,402 Hydraulic drive",
-    "source": "ksl",
-    "year": "2014",
-    "price": 23500,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-11T00:00:35.776Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/80361081",
