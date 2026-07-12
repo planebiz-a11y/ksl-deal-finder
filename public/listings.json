@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://classifieds.ksl.com/listing/81330212",
+    "type": "trailer",
+    "title": "6x10 utility trailer",
+    "url": "https://classifieds.ksl.com/listing/81330212",
+    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
+    "source": "ksl",
+    "year": null,
+    "price": 1350,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-12T16:00:33.900Z"
+  },
+  {
     "id": "https://classifieds.ksl.com/listing/81125720",
     "type": "mini_excavator",
     "title": "Dumster 3 Yard Jobsite Tip Dumpster Trashbin - KSL Classifieds",
@@ -11,7 +25,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-12T12:00:08.881Z"
+    "scrapedAt": "2026-07-12T16:00:30.968Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/65777026",
+    "type": "mini_excavator",
+    "title": "Skid Steer Tires! | Heavy Equipment/Tractors - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/65777026",
+    "snippet": "KSL Classifieds makes it easy to buy and sell with peace of mind. Check our ... Used Condition. $22,500|Caterpillar 2018 CAT 226D Skid Steer Loader with ...",
+    "source": "ksl",
+    "year": "2018",
+    "price": 22500,
+    "hours": null,
+    "make": "Caterpillar",
+    "model": null,
+    "scrapedAt": "2026-07-12T16:00:30.968Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/70155380",
+    "type": "skid_steer",
+    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
+    "url": "https://classifieds.ksl.com/listing/70155380",
+    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
+    "source": "ksl",
+    "year": "2026",
+    "price": 4000,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-12T16:00:29.671Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81327711",
@@ -70,20 +112,6 @@
     "scrapedAt": "2026-07-12T12:00:06.832Z"
   },
   {
-    "id": "https://classifieds.ksl.com/listing/65777026",
-    "type": "skid_steer",
-    "title": "Skid Steer Tires! | Heavy Equipment/Tractors - KSL Classifieds",
-    "url": "https://classifieds.ksl.com/listing/65777026",
-    "snippet": "Skid Steer Tires! in Plain City, UT on KSL Classifieds. Skid Steer Tires! starting as low as 155.00 per tire. Used Condition $22,500|Caterpillar. Skidsteer $65 ...",
-    "source": "ksl",
-    "year": null,
-    "price": 22500,
-    "hours": null,
-    "make": "Caterpillar",
-    "model": null,
-    "scrapedAt": "2026-07-12T12:00:06.831Z"
-  },
-  {
     "id": "https://classifieds.ksl.com/listing/81135339",
     "type": "mini_excavator",
     "title": "Tennant 6600 Street Sweeper | Heavy Equipment/Tractors",
@@ -96,20 +124,6 @@
     "make": "John Deere",
     "model": null,
     "scrapedAt": "2026-07-12T08:00:22.206Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81330212",
-    "type": "trailer",
-    "title": "6x10 utility trailer",
-    "url": "https://classifieds.ksl.com/listing/81330212",
-    "snippet": "6x10 utility trailer with ramp for sale. All the lights work. I sealed the deck this spring. Has bearing buddy's and extra tie downs welded on it. $1350 obo ...",
-    "source": "ksl",
-    "year": null,
-    "price": 1350,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-12T04:00:55.021Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81409693",
@@ -166,20 +180,6 @@
     "make": "CAT",
     "model": null,
     "scrapedAt": "2026-07-12T04:00:48.690Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/70155380",
-    "type": "skid_steer",
-    "title": "72\" SKID STEER BRUSH MOWER ATTACHMENT",
-    "url": "https://classifieds.ksl.com/listing/70155380",
-    "snippet": "NEW!! 72\" SKID STEER BRUSH MOWER ATTACHMENT. MY PRICE IS $4,000. Page Stats. Listing Number70155380. Expiration DateJun 28, 2026. PostedMay 29, 2026.",
-    "source": "ksl",
-    "year": "2026",
-    "price": 4000,
-    "hours": null,
-    "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-12T04:00:46.922Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81384313",
