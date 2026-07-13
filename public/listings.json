@@ -11,7 +11,35 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-13T00:01:17.969Z"
+    "scrapedAt": "2026-07-13T04:00:56.307Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81595835",
+    "type": "trailer",
+    "title": "2022 Bwise gooseneck trailer | Utility Trailers - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81595835",
+    "snippet": "2022 Bwise gooseneck trailer with hydraulic tilt bed. 43' length. Payment Calculator. Estimate your monthly payment. $320.70/mo est. Edit estimated payment ...",
+    "source": "ksl",
+    "year": "2022",
+    "price": 320,
+    "hours": null,
+    "make": null,
+    "model": null,
+    "scrapedAt": "2026-07-13T04:00:56.307Z"
+  },
+  {
+    "id": "https://classifieds.ksl.com/listing/81513374",
+    "type": "mini_excavator",
+    "title": "Yanmar Mini excavator - KSL Classifieds",
+    "url": "https://classifieds.ksl.com/listing/81513374",
+    "snippet": "2007 yanmar mini excavator in excellent condition runs Hydraulic pump needs to be replaced will not move. only 5000 hours Asking $8500 call CJ for more info ...",
+    "source": "ksl",
+    "year": "2007",
+    "price": 8500,
+    "hours": 5000,
+    "make": "Yanmar",
+    "model": null,
+    "scrapedAt": "2026-07-13T04:00:54.651Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/70155380",
@@ -25,7 +53,7 @@
     "hours": null,
     "make": null,
     "model": null,
-    "scrapedAt": "2026-07-13T00:01:12.817Z"
+    "scrapedAt": "2026-07-13T04:00:50.817Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/78029234",
@@ -39,7 +67,7 @@
     "hours": null,
     "make": "New Holland",
     "model": null,
-    "scrapedAt": "2026-07-13T00:01:12.817Z"
+    "scrapedAt": "2026-07-13T04:00:50.817Z"
   },
   {
     "id": "https://classifieds.ksl.com/listing/81125720",
@@ -220,20 +248,6 @@
     "price": 23500,
     "hours": null,
     "make": null,
-    "model": null,
-    "scrapedAt": "2026-07-12T00:01:44.625Z"
-  },
-  {
-    "id": "https://classifieds.ksl.com/listing/81513374",
-    "type": "mini_excavator",
-    "title": "Yanmar Mini excavator - KSL Classifieds",
-    "url": "https://classifieds.ksl.com/listing/81513374",
-    "snippet": "2007 yanmar mini excavator in excellent condition runs Hydraulic pump needs to be replaced will not move. only 5000 hours Asking $8500 call CJ for more info ...",
-    "source": "ksl",
-    "year": "2007",
-    "price": 8500,
-    "hours": 5000,
-    "make": "Yanmar",
     "model": null,
     "scrapedAt": "2026-07-12T00:01:44.625Z"
   },
